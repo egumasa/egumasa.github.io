@@ -8,6 +8,8 @@ website:
     pinned: true
     
     left:
+      - href: "index.qmd"
+        text: "Home"
       - href: "cv/index.qmd"
         text: "CV"
       - href: "research/index.qmd"

@@ -1,7 +1,39 @@
 ---
-title: "Masaki Eguchi"
+title: "Masaki Eguchi, Ph.D."
+sub-title: "(Research) Assistant Professor"
+main-photo: /files/profile/masakieguchi.jpg
 ---
 
-Hello. I am an Assistant Research Professor at Waseda University, Tokyo, Japan.
+
+::: grid
+
+::: {.g-col-12 .g-col-sm-4}
+
+```{=html}
+<div class="grid" style="--bs-columns: 5; row-gap: 0;">
+  <div class="g-col-1 g-col-sm-0"></div>
+  <div class="g-col-3 g-col-sm-5">
+    <picture>
+      <source media="(max-width: 576px)" srcset="{{< meta main-photo-square >}}">
+      <source media="(min-width: 576px)" srcset="{{< meta main-photo >}}">
+      <img class="img-fluid" src="{{< meta main-photo >}}" alt="{{< meta author-meta >}}">
+    </picture>
+  </div>
+  <div class="g-col-1 g-col-sm-0"></div>
+</div>
+```
+:::
+
+::: {.g-col-12 .g-col-sm-8}
+
+I am a Research Assistant Professor at Waseda University, Tokyo, Japan. I received a PhD in Linguistics from University of Oregon. I also completed Quantitative Research Methods Specialization at the College of Education, University of Oregon.
+
+My research centers on the assessment of second language spoken and written production using computational methods. My work draws on usage-based and functional approaches, as well as socio-cognitive theories of second language learning. I also work on developing and applying natural language processing tools that are tailored to specific needs in second language learning and assessment. I am also a strong advocate of Bayesian methods in (Instructed) Second Language Acquisition and assessment research. In my most recent publications, I have been increasingly relying on this analytic paradigm for its combination of flexibility, elegance and robustness in handling complex data structures. 
 
 This is my new website I am building right now. Please visit [the old page here](https://masakieguchi.weebly.com) until I complete the migration.
+
+This website is modeled on [Dr. Andew Heiss's website](https://www.andrewheiss.com/).
+
+:::
+
+:::

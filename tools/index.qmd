@@ -1,3 +1,32 @@
 ---
-title: "Blog"
+title: "My Tools"
+date: 2023-08-18
+description-meta: Masaki works on some productivity tools.
+# title-block-banner: "#771C6D"
+published-title: Last updated
+toc: true
+toc-location: left
+toc-title: "Contents"
 ---
+
+# Research tools
+
+## Note-taking and productivity
+
+- [Zotero](https://www.zotero.org/)
+- [Obsidian](https://obsidian.md/)
+
+## Statistical Analysis
+
+- I use R and Rstudio for doing statistics. 
+- I am a heavy user of the brms package.
+- I 
+
+## Natural Language Processing
+
+- I use Python for doing linguistic analyses.
+- [SpaCy](https://spacy.io/) has been my solution for basic lingusitic analysis such as POS tagging and dependency parsing.
+- I also use SpaCy to train custom NLP models.
+- When coding in Python, I use Visual Studio Code. I started using VS code when I worked on [MultiWordUnit Profiler](https://multiwordunitsprofiler.pythonanywhere.com/), which required me to edit html and css files simultaneously.
+
+

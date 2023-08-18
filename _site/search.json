@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Masaki Eguchi",
+    "title": "Masaki Eguchi, Ph.D.",
     "section": "",
-    "text": "Hello. I am an Assistant Research Professor at Waseda University, Tokyo, Japan.\nThis is my new website I am building right now. Please visit the old page here until I complete the migration."
+    "text": "I am a Research Assistant Professor at Waseda University, Tokyo, Japan. I received a PhD in Linguistics from University of Oregon. I also completed Quantitative Research Methods Specialization at the College of Education, University of Oregon.\nMy research centers on the assessment of second language spoken and written production using computational methods. My work draws on usage-based and functional approaches, as well as socio-cognitive theories of second language learning. I also work on developing and applying natural language processing tools that are tailored to specific needs in second language learning and assessment. I am also a strong advocate of Bayesian methods in (Instructed) Second Language Acquisition and assessment research. In my most recent publications, I have been increasingly relying on this analytic paradigm for its combination of flexibility, elegance and robustness in handling complex data structures.\nThis is my new website I am building right now. Please visit the old page here until I complete the migration.\nThis website is modeled on Dr. Andew Heiss’s website."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,61 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#research-assistant-professor",
+    "href": "index.html#research-assistant-professor",
+    "title": "Masaki Eguchi, Ph.D.",
+    "section": "",
+    "text": "Hello. I am an Research Assistant Professor at Waseda University, Tokyo, Japan.\nThis is my new website I am building right now. Please visit the old page here until I complete the migration.\nThis website is modeled on Dr. Andew Heiss’s website."
+  },
+  {
+    "objectID": "tools/index.html",
+    "href": "tools/index.html",
+    "title": "My Tools",
+    "section": "",
+    "text": "Zotero\nObsidian\n\n\n\n\n\nI use R and Rstudio for doing statistics.\nI am a heavy user of the brms package.\nI\n\n\n\n\n\nI use Python for doing linguistic analyses.\nSpaCy has been my solution for basic lingusitic analysis such as POS tagging and dependency parsing.\nI also use SpaCy to train custom NLP models.\nWhen coding in Python, I use Visual Studio Code. I started using VS code when I worked on MultiWordUnit Profiler, which required me to edit html and css files simultaneously."
+  },
+  {
+    "objectID": "tools/index.html#note-taking-and-writing",
+    "href": "tools/index.html#note-taking-and-writing",
+    "title": "My Tools",
+    "section": "",
+    "text": "Zotero\nObsidian"
+  },
+  {
+    "objectID": "tools/index.html#note-taking-and-productivity",
+    "href": "tools/index.html#note-taking-and-productivity",
+    "title": "My Tools",
+    "section": "",
+    "text": "Zotero\nObsidian"
+  },
+  {
+    "objectID": "tools/index.html#statistical-analysis",
+    "href": "tools/index.html#statistical-analysis",
+    "title": "My Tools",
+    "section": "",
+    "text": "I use R and Rstudio for doing statistics.\nI am a heavy user of the brms package.\nI"
+  },
+  {
+    "objectID": "tools/index.html#natural-language-processing",
+    "href": "tools/index.html#natural-language-processing",
+    "title": "My Tools",
+    "section": "",
+    "text": "I use Python for doing linguistic analyses.\nSpaCy has been my solution for basic lingusitic analysis such as POS tagging and dependency parsing.\nI also use SpaCy to train custom NLP models.\nWhen coding in Python, I use Visual Studio Code. I started using VS code when I worked on MultiWordUnit Profiler, which required me to edit html and css files simultaneously."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "To be updated…"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "To be updated…"
   }
 ]
