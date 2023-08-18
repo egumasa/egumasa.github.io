@@ -8,7 +8,6 @@ website:
     pinned: true
     
     left:
-      - "about.qmd"
       - href: "cv/index.qmd"
         text: "CV"
       - href: "research/index.qmd"
