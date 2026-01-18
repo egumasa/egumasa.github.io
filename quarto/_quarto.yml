@@ -46,14 +46,14 @@ website:
         href: https://www.linkedin.com/in/masaki-eguchi-861302162
         aria-label: LinkedIn
         rel: me
-      - text: <iconify-icon icon="academicons:orcid"></iconify-icon>
+      - text: ORCID
         href: https://orcid.org/0000-0002-0791-4935
         aria-label: ORCID
         target: _blank
-      - text: <iconify-icon icon="academicons:google-scholar"></iconify-icon>
+      - text: Scholar
         href: https://scholar.google.com/citations?user=adPF2RgAAAAJ&hl=en
         aria-label: Google Scholar
-        target: blank
+        target: _blank
   page-footer:
     background: light # or `dark` or omit this option altogether (footer color will match page body color)
     left: Copyright 2026, Masaki Eguchi
