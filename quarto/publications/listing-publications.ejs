@@ -1,5 +1,5 @@
 <ul class="publications-list">
-<% for (const item of items) { %><li class="publication-item"><p class="publication-citation"><%
+<% for (const item of items) { %><li class="publication-item" data-categories="<%= item.categories ? item.categories.join(',') : '' %>"><p class="publication-citation"><%
 // item.author comes as a string like "Eguchi, M." or "Eguchi, M., Coauthor, A."
 let authorStr = item.author || '';
 

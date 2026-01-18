@@ -1,0 +1,25 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Uchihara-2022"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "To What Extent Is Collocation Knowledge Associated with Oral Proficiency? A Corpus-Based Approach to Word Association"
+subtitle: "Language and Speech"
+date: "2022-06-01"
+doi: "10.1177/00238309211013865"
+author: "Uchihara, T., Eguchi, M., Clenton, J., Kyle, K., Saito, K."
+nocite: |
+  @Uchihara-2022
+categories:
+  - "Collocation"
+  - "Word Association"
+  - "Bayesian Statistics"
+---
+
+## Abstract
+
+
+## APA Reference
+
+::: {#refs}
+:::

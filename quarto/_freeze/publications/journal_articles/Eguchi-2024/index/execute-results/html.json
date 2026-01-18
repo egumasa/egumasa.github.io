@@ -1,0 +1,15 @@
+{
+  "hash": "cdc69872cd74b02a947826a38c4611b3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nparams:\n  citekey: \"Eguchi-2024\"\n  bibfile: \"/Users/eguchi/Zotero/exports/references.bib\"\ntitle: \"Building Custom {{NLP}} Tools to Annotate Discourse-Functional Features for Second Language Writing Research: {{A}} Tutorial\"\nsubtitle: \"Research Methods in Applied Linguistics\"\ndate: \"2024-NA-01\"\ndoi: \"10.1016/j.rmal.2024.100153\"\nauthor: \"Eguchi, M., Kyle, K.\"\nnocite: |\n  @Eguchi-2024\ncategories:\n  - \"NLP\"\n  - \"Corpus Linguistics\"\n---\n\n\n## Abstract\n\nThe current tutorial paper describes a process of developing a custom natural language processing model with a particular focus on a discourse annotation task. After an overview of recent developments in natural language processing (NLP), the paper discusses the development of the Engagement Analyzer (Eguchi \\& Kyle, 2023), focusing on corpus annotation, the machine learning model, model training, evaluation, and dissemination. A step-by-step tutorial of this process via the spaCy Python package is provided. The paper highlights the feasibility of developing custom NLP tools to enhance the scalability and replicability of the annotation of context-sensitive linguistic features in L2 writing research.\n\n\n\n\n::: {#refs}\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

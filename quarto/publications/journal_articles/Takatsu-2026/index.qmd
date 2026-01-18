@@ -1,0 +1,26 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Takatsu-2026"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "Gnowsis: Multimodal Multitask Learning for Oral Proficiency Assessments"
+subtitle: "Computer Speech & Language"
+date: "2026-01-01"
+doi: "10.1016/j.csl.2025.101860"
+author: "Takatsu, H., Suzuki, S., Eguchi, M., Matsuura, R., Saeki, M., Matsuyama, Y."
+nocite: |
+  @Takatsu-2026
+categories:
+  - "Automated Scoring"
+  - "Lexical Sophistication"
+  - "CEFR Assessment"
+  - "Rater-mediated Assessment"
+---
+
+## Abstract
+
+
+## APA Reference
+
+::: {#refs}
+:::

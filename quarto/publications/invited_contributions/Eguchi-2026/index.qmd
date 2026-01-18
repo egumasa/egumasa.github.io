@@ -1,0 +1,24 @@
+---
+params:
+  citekey: "Eguchi-2026"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "Automated Essay Evaluation and Scoring"
+subtitle: "The encyclopedia of applied linguistics"
+date: "2026-01-01"
+doi: ""
+author: "Eguchi, M."
+nocite: |
+  @Eguchi-2026
+categories:
+  - "Automated Writing Evaluation"
+  - "Automated Scoring"
+---
+
+## Abstract
+
+Automated Writing Evaluation and Scoring refers to the application of natural language processing and artificial intelligence in writing assessment, including assigning scores and providing formative feedback. To date, AWE systems are widely used to give scores on test-takers’ performance in several high-stakes tests such as TOEFL iBT®, as well as to augment classroom writing instructions. In the last decade, the field of AWE has experienced transformative changes due to breakthroughs in NLP and the broader application of an argument-based validation framework. This entry provides an overview of the AWE research, highlighting its scope, current empirical findings, and important considerations when developing and evaluating AWE systems.
+
+## APA Reference
+
+::: {#refs}
+:::

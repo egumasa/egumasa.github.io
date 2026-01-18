@@ -1,0 +1,25 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Eguchi-2023a"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "L2 Collocation Profiles and Their Relationship with Vocabulary Proficiency: A Learner Corpus Approach"
+subtitle: "Journal of Second Language Writing"
+date: "2023-06-01"
+doi: "10.1016/j.jslw.2023.100975"
+author: "Eguchi, M., Kyle, K."
+nocite: |
+  @Eguchi-2023a
+categories:
+  - "Collocation"
+  - "Multinomial Regression"
+  - "AI-mediated Assessment"
+---
+
+## Abstract
+
+
+## APA Reference
+
+::: {#refs}
+:::

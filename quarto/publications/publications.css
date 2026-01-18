@@ -42,3 +42,33 @@
   color: white;
   cursor: pointer;
 }
+
+/* Category filter styles */
+.category-filter-container {
+  margin-bottom: 1.5em;
+  padding: 1em;
+  background-color: #f8f9fa;
+  border-radius: 6px;
+}
+
+.category-filter-btn {
+  display: inline-block;
+  background-color: #e9ecef;
+  color: #3d5a80;
+  padding: 0.3em 0.8em;
+  border-radius: 4px;
+  font-size: 0.9em;
+  cursor: pointer;
+  margin: 0.2em;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.category-filter-btn:hover {
+  background-color: #3d5a80;
+  color: white;
+}
+
+.category-filter-btn.active {
+  background-color: #3d5a80;
+  color: white;
+}

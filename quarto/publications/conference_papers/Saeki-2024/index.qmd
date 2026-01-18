@@ -1,0 +1,24 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Saeki-2024"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "InteLLA: Intelligent Language Learning Assistant for Assessing Language Proficiency through Interviews and Roleplays"
+subtitle: ""
+date: "2024-01-01"
+doi: "10.18653/v1/2024.sigdial-1.34"
+author: "Saeki, M., Takatsu, H., Kurata, F., Suzuki, S., Eguchi, M., Matsuura, R., Takizawa, K., Yoshikawa, S., Matsuyama, Y."
+nocite: |
+  @Saeki-2024
+categories:
+  - "AI-mediated Assessment"
+  - "Rater-mediated Assessment"
+---
+
+## Abstract
+
+
+## APA Reference
+
+::: {#refs}
+:::

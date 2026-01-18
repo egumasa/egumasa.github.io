@@ -1,0 +1,24 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Kurata-2025"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "Development and Validation of Engagement and Rapport Scales for Evaluating User Experience in Multimodal Dialogue Systems"
+subtitle: ""
+date: "2025-05-01"
+doi: "10.48550/arXiv.2505.17075"
+author: "Kurata, F., Saeki, M., Eguchi, M., Suzuki, S., Takatsu, H., Matsuyama, Y."
+nocite: |
+  @Kurata-2025
+categories:
+  - "AI-mediated Assessment"
+  - "Learner Engagement"
+---
+
+## Abstract
+
+
+## APA Reference
+
+::: {#refs}
+:::

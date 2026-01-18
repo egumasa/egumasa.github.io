@@ -1,0 +1,12 @@
+
+
+
+<!-- {{< button href="https://egumasa.github.io/linguistic-data-analysis-I/" >}} Visit Course Website {{< /button >}} -->
+
+<!-- [{{< fa globe >}} Course Website](https://egumasa.github.io/linguistic-data-analysis-I/){.btn .btn-primary} -->
+
+
+<!-- ::: {.callout-note appearance="simple"}
+## Course Website
+Access the full course materials at <https://egumasa.github.io/linguistic-data-analysis-I/>
+::: -->

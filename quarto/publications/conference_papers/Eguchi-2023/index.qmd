@@ -1,0 +1,24 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Eguchi-2023"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "Span Identification of Epistemic Stance-Taking in Academic Written English"
+subtitle: ""
+date: "2023-01-01"
+doi: "10.18653/v1/2023.bea-1.35"
+author: "Eguchi, M., Kyle, K."
+nocite: |
+  @Eguchi-2023
+categories:
+  - "NLP model training"
+  - "Corpus Annotation"
+---
+
+## Abstract
+
+
+## APA Reference
+
+::: {#refs}
+:::

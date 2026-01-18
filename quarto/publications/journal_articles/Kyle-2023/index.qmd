@@ -1,0 +1,25 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Kyle-2023"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "Assessing Spoken Lexical and Lexicogrammatical Proficiency Using Features of Word, Bigram, and Dependency Bigram Use"
+subtitle: "The Modern Language Journal"
+date: "2023-01-01"
+doi: "10.1111/modl.12845"
+author: "Kyle, K., Eguchi, M."
+nocite: |
+  @Kyle-2023
+categories:
+  - "Lexical Sophistication"
+  - "Multiword Expression"
+  - "Collocation"
+---
+
+## Abstract
+
+
+## APA Reference
+
+::: {#refs}
+:::

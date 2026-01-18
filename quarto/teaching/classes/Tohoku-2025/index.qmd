@@ -1,0 +1,18 @@
+---
+title: "Linguistic Data Analysis I"
+subtitle: "Corpus linguistics and Natural Language Processing for Learner Language Analysis"
+author: "Masaki EGUCHI"
+description: ""
+date: "2025-08-01"
+institution: "Tohoku University"
+---
+
+---
+
+## Course Description
+
+This intensive 5-day graduate course introduces students to corpus linguistics and learner language analysis. Through hands-on activities and practical applications, you’ll learn to use computational tools to analyze linguistic data, with a special focus on learner corpora.
+
+---
+
+[{{< fa globe >}} Visit Course Website](https://egumasa.github.io/linguistic-data-analysis-I/){.btn .btn-outline-primary}

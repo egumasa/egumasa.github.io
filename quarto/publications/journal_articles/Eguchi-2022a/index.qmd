@@ -1,0 +1,26 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Eguchi-2022a"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "Modeling Lexical and Phraseological Sophistication in Oral Proficiency Interviews: A Conceptual Replication"
+subtitle: "Vocabulary Learning and Instruction"
+date: "2022-12-01"
+doi: "10.7820/vli.v11.2.Eguchi"
+author: "Eguchi, M."
+nocite: |
+  @Eguchi-2022a
+categories:
+  - "Lexical Sophistication"
+  - "Collocation"
+  - "Factor Analysis"
+  - "Bayesian Statistics"
+---
+
+## Abstract
+
+
+## APA Reference
+
+::: {#refs}
+:::

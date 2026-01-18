@@ -1,0 +1,24 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Maie-2024"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "Arbitrary Choices, Arbitrary Results: Three Cases of Multiverse Analysis in L2 Research"
+subtitle: "Research Methods in Applied Linguistics"
+date: "2024-08-01"
+doi: "10.1016/j.rmal.2024.100124"
+author: "Maie, R., Eguchi, M., Uchihara, T."
+nocite: |
+  @Maie-2024
+categories:
+  - "Multiverse Analysis"
+  - "Factor Analysis"
+---
+
+## Abstract
+
+
+## APA Reference
+
+::: {#refs}
+:::

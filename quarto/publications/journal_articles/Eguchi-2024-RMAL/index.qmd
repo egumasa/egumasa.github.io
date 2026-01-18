@@ -1,0 +1,24 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Eguchi-2024"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "Building Custom NLP Tools to Annotate Discourse-Functional Features for Second Language Writing Research: A Tutorial"
+subtitle: "Research Methods in Applied Linguistics"
+date: "2024-12-01"
+doi: "10.1016/j.rmal.2024.100153"
+author: "Eguchi, M., Kyle, K."
+nocite: |
+  @Eguchi-2024
+categories:
+  - "Rhetorical Analysis"
+  - "Corpus Annocation"
+  - "NLP model training"
+---
+
+## Abstract
+
+
+
+::: {#refs}
+:::

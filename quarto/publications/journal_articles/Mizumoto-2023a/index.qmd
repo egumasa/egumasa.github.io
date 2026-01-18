@@ -1,0 +1,26 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Mizumoto-2023a"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "Exploring the Potential of Using an AI Language Model for Automated Essay Scoring"
+subtitle: "Research Methods in Applied Linguistics"
+date: "2023-08-01"
+doi: "10.1016/j.rmal.2023.100050"
+author: "Mizumoto, A., Eguchi, M."
+nocite: |
+  @Mizumoto-2023a
+categories:
+  - "Generative AI"
+  - "Automated Writing Evaluation"
+  - "Bayesian Statistics"
+  - "Automated Scoring"
+---
+
+## Abstract
+
+
+## APA Reference
+
+::: {#refs}
+:::

@@ -1,6 +1,15 @@
 ---
 title: "Teaching"
+listing:
+  contents: "classes/*/index.qmd"
+  type: default
+  sort: "date desc"
+  categories: true
+  fields: [title, institution, author, subtitle, date, categories]
 ---
 
-<!-- Add your teaching materials here -->
+Here are the list of courses I have taught or am teaching currently.
+
+---
+
 

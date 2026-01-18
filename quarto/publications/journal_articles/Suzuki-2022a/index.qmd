@@ -1,0 +1,24 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Suzuki-2022a"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "Does the Reuse of Constructions Promote Fluency Development in Task Repetition? A Usage-Based Perspective"
+subtitle: "TESOL Quarterly"
+date: "2022-12-01"
+doi: "10.1002/tesq.3103"
+author: "Suzuki, Y., Eguchi, M., De Jong, N."
+nocite: |
+  @Suzuki-2022a
+categories:
+  - "Multiword Expression"
+  - "TBLT"
+---
+
+## Abstract
+
+
+## APA Reference
+
+::: {#refs}
+:::

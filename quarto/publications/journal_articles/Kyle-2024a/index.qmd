@@ -1,0 +1,24 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Kyle-2024a"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "Evaluating NLP Models with Written and Spoken L2 Samples"
+subtitle: "Research Methods in Applied Linguistics"
+date: "2024-08-01"
+doi: "10.1016/j.rmal.2024.100120"
+author: "Kyle, K., Eguchi, M."
+nocite: |
+  @Kyle-2024a
+categories:
+  - "Dependency Parsing"
+  - "NLP model training"
+---
+
+## Abstract
+
+
+## APA Reference
+
+::: {#refs}
+:::

@@ -1,0 +1,25 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Eguchi-2022"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "LEXICAL COMPETENCE UNDERLYING SECOND LANGUAGE WORD ASSOCIATION TASKS: EXAMINING THE CONSTRUCT VALIDITY OF RESPONSE TYPE AND RESPONSE TIME MEASURES"
+subtitle: "Studies in Second Language Acquisition"
+date: "2022-03-01"
+doi: "10.1017/S0272263121000164"
+author: "Eguchi, M., Suzuki, S., Suzuki, Y."
+nocite: |
+  @Eguchi-2022
+categories:
+  - "Word Association"
+  - "Multinomial Regression"
+
+---
+
+## Abstract
+
+
+## APA Reference
+
+::: {#refs}
+:::

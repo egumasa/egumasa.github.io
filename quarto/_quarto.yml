@@ -1,17 +1,19 @@
 project:
   type: website
   output-dir: ../docs
+  # pre-render: Rscript _scripts/populate_bib_yaml.R
   render:
     - "*.qmd"
     - "**/*.qmd"
     - "!drafts/"
+    - "!publications/journal_articles/example-publication/" #this is template yaml file
 
 # Freeze settings for computational content
 execute:
   freeze: auto
 
-# bibliography: files/bib/references.bib
-# csl: files/bib/chicago-author-date.csl
+bibliography: /Users/eguchi/Zotero/exports/references.bib
+csl: _styles/apa.csl
 
 pagetitle: "{{< meta title >}} | Masaki EGUCHI"
 author-meta: "Masaki EGUCHI, Ph.D."
@@ -23,35 +25,39 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: research/index.qmd
-        text: Research
+      # - href: research/index.qmd
+      #   text: Research
       - href: publications/index.qmd
         text: Publications
       - href: teaching/index.qmd
         text: Teaching
-      - href: tutorials/index.qmd
-        text: Tutorials
+      # - href: tutorials/index.qmd
+      #   text: Tutorials
       - href: blog/index.qmd
         text: Blog
-      - about.qmd
+      # - about.qmd
 
     right:
-      - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
+      - icon: github
         href: https://github.com/egumasa
+        aria-label: GitHub
         rel: me
-      - text: "{{< iconify bi linkedin size=1.1em title='LinkedIn' >}}"
+      - icon: linkedin
         href: https://www.linkedin.com/in/masaki-eguchi-861302162
+        aria-label: LinkedIn
         rel: me
-      - text: "{{< iconify fa6-brands orcid size=1.1em title='Orcid' >}}"
+      - text: <iconify-icon icon="academicons:orcid"></iconify-icon>
         href: https://orcid.org/0000-0002-0791-4935
-        target: blank
-      - text: "{{< iconify fa6-brands google-scholar size=1.1em title='Google Scholar' >}}"
+        aria-label: ORCID
+        target: _blank
+      - text: <iconify-icon icon="academicons:google-scholar"></iconify-icon>
         href: https://scholar.google.com/citations?user=adPF2RgAAAAJ&hl=en
+        aria-label: Google Scholar
         target: blank
   page-footer:
     background: light # or `dark` or omit this option altogether (footer color will match page body color)
     left: Copyright 2026, Masaki Eguchi
-    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/egumasa/egumasa.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+    right: This website is built with <i class="bi bi-heart-fill"></i>, [<i class="bi bi-github"></i>](https://github.com/egumasa/egumasa.github.io){target=_blank}, [R](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:
@@ -59,8 +65,6 @@ format:
       - cosmo
       - _styles/styles.scss
     toc: true
-
-
 
 editor: source
 

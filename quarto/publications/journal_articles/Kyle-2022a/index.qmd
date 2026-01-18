@@ -1,0 +1,24 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Kyle-2022a"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "Register Variation in Spoken and Written Language Use across Technology-Mediated and Non-Technology-Mediated Learning Environments"
+subtitle: "Language Testing"
+date: "2022-10-01"
+doi: "10.1177/02655322211057868"
+author: "Kyle, K., Eguchi, M., Choe, A. T., LaFlair, G."
+nocite: |
+  @Kyle-2022a
+categories:
+  - "Multi-Dimensional Analysis"
+  - "Factor Analysis"
+---
+
+## Abstract
+
+
+## APA Reference
+
+::: {#refs}
+:::

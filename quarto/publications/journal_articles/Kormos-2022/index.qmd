@@ -1,0 +1,24 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Kormos-2022"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "The Role of Input Modality and Vocabulary Knowledge in Alignment in Reading-to-Speaking Tasks"
+subtitle: "System"
+date: "2022-08-01"
+doi: "10.1016/j.system.2022.102854"
+author: "Kormos, J., Suzuki, S., Eguchi, M."
+nocite: |
+  @Kormos-2022
+categories:
+  - "Multiword Expression"
+  - "Reading-to-Speaking task"
+---
+
+## Abstract
+
+
+## APA Reference
+
+::: {#refs}
+:::

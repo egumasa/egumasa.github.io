@@ -1,0 +1,28 @@
+---
+title: "Human- versus artificial intelligence-delivered roleplay tasks for assessing interactional competence: An applied conversation analytic study"
+subtitle: "TESOL Quarterly"
+date: 2025-09-03
+doi: "10.1002/tesq.70028"
+author:
+  - name: "Eguchi, M."
+  - name: "Takizawa, K."
+  - name: "Saeki, M."
+  - name: "Kurata, F."
+  - name: "Suzuki, S."
+  - name: "Matsuyama, Y."
+  - name: "Sawaki, Y."
+categories:
+  - "Conversation Analysis"
+  - "AI-mediated Assessment"
+  - "Pragmatic Roleplay"
+---
+
+## Abstract
+
+This study investigates the nature of co-construction in roleplays conducted with human versus AI interlocutors for assessing interactional competence (IC) in L2 English. Seventy-five university students in Japan completed roleplay tasks with both human tutors and an AI agent. The AI agent is a multimodal dialog system integrated with a large language model (LLM), designed to allow synchronous interaction with the participant through autonomous turn-taking. Using conversation analysis, 24 interactions were analyzed to investigate how participants managed preference organization, sequence expansion, and turn-taking. The analysis revealed that the AI-delivered roleplays elicited some IC-relevant practices and that participants treated the roleplay as a co-constructed interaction, responding contingently to the AI’s contributions. While the data suggested both human and AI interlocutors maintained mutual understanding, striking differences in turn-taking practices were observed, including more frequent overlaps and inter-turn gaps in the AI-delivered condition. The study concludes that LLM-integrated multimodal dialog systems, by producing recognizable verbal actions and multimodal signals, have the potential to effectively elicit co-constructed interactional performances relevant to IC assessment.
+
+## Citation
+
+Eguchi, M., Takizawa, K., Saeki, M., Kurata, F., Suzuki, S., Matsuyama, Y., & Sawaki, Y. (2025). Human- versus artificial intelligence-delivered roleplay tasks for assessing interactional competence: An applied conversation analytic study. TESOL Quarterly, n/a(n/a). https://doi.org/10.1002/tesq.70028
+
+

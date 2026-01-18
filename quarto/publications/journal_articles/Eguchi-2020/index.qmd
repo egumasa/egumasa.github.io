@@ -1,0 +1,24 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Eguchi-2020"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "Continuing to Explore the Multidimensional Nature of Lexical Sophistication: The Case of Oral Proficiency Interviews"
+subtitle: "The Modern Language Journal"
+date: "2020-06-01"
+doi: "10.1111/modl.12637"
+author: "Eguchi, M., Kyle, K."
+nocite: |
+  @Eguchi-2020
+categories:
+  - "Lexical Sophistication"
+  - "Factor Analysis"
+---
+
+## Abstract
+
+
+## APA Reference
+
+::: {#refs}
+:::

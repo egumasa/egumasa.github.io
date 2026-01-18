@@ -1,6 +1,10 @@
 ---
 title: "Publications"
 listing:
+  - id: invited-contributions
+    contents: "invited_contributions/*/index.qmd"
+    sort: "date desc"
+    template: listing-publications.ejs
   - id: journal-articles
     contents: "journal_articles/*/index.qmd"
     sort: "date desc"
@@ -12,8 +16,99 @@ listing:
 css: publications.css
 ---
 
+::: {.column-margin}
+::: {#category-filter .category-filter-container}
+**Filter by category:** [All]{.category-filter-btn .active data-category="all"}
+:::
+:::
+
+## Invited Contributions
+
+:::{#invited-contributions}
+:::
+
 ## Journal Articles
 
 :::{#journal-articles}
 :::
 
+
+## Conference Papers
+
+:::{#conference-papers}
+:::
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Collect all unique categories from publications
+  const allCategories = new Set();
+  document.querySelectorAll('.publication-item').forEach(item => {
+    const cats = item.dataset.categories;
+    if (cats) {
+      cats.split(',').forEach(cat => {
+        if (cat.trim()) allCategories.add(cat.trim());
+      });
+    }
+  });
+
+  // Sort categories alphabetically
+  const sortedCategories = Array.from(allCategories).sort();
+
+  // Add category buttons to the filter container
+  const filterContainer = document.getElementById('category-filter');
+  if (filterContainer && sortedCategories.length > 0) {
+    sortedCategories.forEach(cat => {
+      const btn = document.createElement('span');
+      btn.className = 'category-filter-btn';
+      btn.dataset.category = cat;
+      btn.textContent = cat;
+      filterContainer.appendChild(document.createTextNode(' '));
+      filterContainer.appendChild(btn);
+    });
+  }
+
+  // Filter function
+  function filterByCategory(category, clickedBtn) {
+    // Update active state
+    document.querySelectorAll('.category-filter-btn').forEach(b => b.classList.remove('active'));
+    clickedBtn.classList.add('active');
+
+    // Filter publications
+    document.querySelectorAll('.publication-item').forEach(item => {
+      if (category === 'all') {
+        item.style.display = '';
+      } else {
+        const itemCats = item.dataset.categories || '';
+        if (itemCats.split(',').map(c => c.trim()).includes(category)) {
+          item.style.display = '';
+        } else {
+          item.style.display = 'none';
+        }
+      }
+    });
+
+    // Hide section headers if all items in that section are hidden
+    document.querySelectorAll('.publications-list').forEach(list => {
+      const visibleItems = list.querySelectorAll('.publication-item:not([style*="display: none"])');
+      const section = list.closest('section') || list.parentElement;
+      const header = section ? section.querySelector('h2') : null;
+      if (header) {
+        header.style.display = visibleItems.length === 0 ? 'none' : '';
+      }
+      list.style.display = visibleItems.length === 0 ? 'none' : '';
+    });
+  }
+
+  // Use event delegation on the filter container
+  if (filterContainer) {
+    filterContainer.addEventListener('click', function(event) {
+      if (event.target.classList.contains('category-filter-btn')) {
+        const category = event.target.dataset.category;
+        filterByCategory(category, event.target);
+      }
+    });
+  }
+});
+</script>
+```
