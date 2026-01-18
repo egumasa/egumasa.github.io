@@ -1,0 +1,66 @@
+project:
+  type: website
+  output-dir: ../docs
+  render:
+    - "*.qmd"
+    - "**/*.qmd"
+    - "!drafts/"
+
+# Freeze settings for computational content
+execute:
+  freeze: auto
+
+# bibliography: files/bib/references.bib
+# csl: files/bib/chicago-author-date.csl
+
+pagetitle: "{{< meta title >}} | Masaki EGUCHI"
+author-meta: "Masaki EGUCHI, Ph.D."
+
+
+website:
+  title: "Masaki EGUCHI"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research/index.qmd
+        text: Research
+      - href: publications/index.qmd
+        text: Publications
+      - href: teaching/index.qmd
+        text: Teaching
+      - href: tutorials/index.qmd
+        text: Tutorials
+      - href: blog/index.qmd
+        text: Blog
+      - about.qmd
+
+    right:
+      - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
+        href: https://github.com/egumasa
+        rel: me
+      - text: "{{< iconify bi linkedin size=1.1em title='LinkedIn' >}}"
+        href: https://www.linkedin.com/in/masaki-eguchi-861302162
+        rel: me
+      - text: "{{< iconify fa6-brands orcid size=1.1em title='Orcid' >}}"
+        href: https://orcid.org/0000-0002-0791-4935
+        target: blank
+      - text: "{{< iconify fa6-brands google-scholar size=1.1em title='Google Scholar' >}}"
+        href: https://scholar.google.com/citations?user=adPF2RgAAAAJ&hl=en
+        target: blank
+  page-footer:
+    background: light # or `dark` or omit this option altogether (footer color will match page body color)
+    left: Copyright 2026, Masaki Eguchi
+    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/egumasa/egumasa.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+
+format:
+  html:
+    theme:
+      - cosmo
+      - _styles/styles.scss
+    toc: true
+
+
+
+editor: source
+

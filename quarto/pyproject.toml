@@ -1,0 +1,9 @@
+[project]
+name = "egumasa-site"
+version = "0.1.0"
+description = "Personal research website"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.uv]
+dev-dependencies = []
