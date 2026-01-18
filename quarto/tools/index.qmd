@@ -1,0 +1,19 @@
+---
+title: "Tools"
+listing:
+  contents: "tool/*/index.qmd"
+  type: grid
+  sort: "date desc"
+  # categories: true
+  fields: [title, author, date, description]
+  grid-columns: 2
+  date-format: YYYY
+---
+
+Here are the list of corpus tools that I have developed.
+
+
+---
+
+
+

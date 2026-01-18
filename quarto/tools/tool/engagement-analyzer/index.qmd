@@ -1,0 +1,24 @@
+---
+title: "Engagement Analyzer"
+subtitle: ""
+author: "Masaki EGUCHI"
+description: "Automated analysis of rhetorical features"
+date: "2023"
+---
+
+---
+
+## Description
+
+Engagemen Analyzer [@Eguchi-2023] allows learners and teachers to find out rhetorical expressions in the user-input writing.
+
+![Example](media/illustration.png)
+
+
+## Free Demo site 
+
+[{{< fa globe >}} Try demo](https://huggingface.co/spaces/egumasa/engagement-analyzer-demo){.btn .btn-outline-primary}
+
+
+---
+
