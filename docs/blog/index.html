@@ -81,9 +81,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -210,7 +210,7 @@ window.Quarto = {
   <li><a href="#coming-soon" id="toc-coming-soon" class="nav-link active" data-scroll-target="#coming-soon">Coming soon …</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -242,7 +242,34 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1597676400000" data-listing-file-modified-sort="1768751605014" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1260">
+<div class="thumbnail"><a href="../blog/blog-posts/multiwordunits-profiler/index.html" class="no-external">
 
+<p class="card-img-top"><img src="blog-posts/multiwordunits-profiler/media/landing-page.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/blog-posts/multiwordunits-profiler/index.html" class="no-external">Multi-word Units Profilerの使い方 / How to Use Multi-word Units Profiler</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/blog-posts/multiwordunits-profiler/index.html" class="no-external"></a>
+</div>
+<div class="delink listing-description"><a href="../blog/blog-posts/multiwordunits-profiler/index.html" class="no-external">
+<p>A guide to using the Multi-Word Units Profiler web app for identifying and analyzing English chunks and formulaic expressions.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../blog/blog-posts/multiwordunits-profiler/index.html" class="no-external">
+<div class="listing-date">
+Aug 18, 2020
+</div>
+<div class="listing-author">
+Masaki EGUCHI
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->

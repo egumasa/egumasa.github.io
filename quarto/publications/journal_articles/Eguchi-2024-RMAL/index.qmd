@@ -12,7 +12,7 @@ nocite: |
   @Eguchi-2024
 categories:
   - "Rhetorical Analysis"
-  - "Corpus Annocation"
+  - "Corpus Annotation"
   - "NLP model training"
 ---
 

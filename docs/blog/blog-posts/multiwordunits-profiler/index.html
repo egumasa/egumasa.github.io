@@ -7,10 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Masaki EGUCHI, Ph.D.">
-<meta name="dcterms.date" content="2023-01-01">
-<meta name="description" content="Automated analysis of rhetorical features">
+<meta name="dcterms.date" content="2020-08-18">
+<meta name="description" content="A guide to using the Multi-Word Units Profiler web app for identifying and analyzing English chunks and formulaic expressions.">
 
-<title>Engagement Analyzer | Masaki EGUCHI – Masaki EGUCHI</title>
+<title>Multi-word Units Profilerの使い方 / How to Use Multi-word Units Profiler | Masaki EGUCHI – Masaki EGUCHI</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +23,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-  margin-bottom: 0em;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -64,8 +44,6 @@ div.csl-indent {
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../site_libs/bootstrap/bootstrap-576f9e4dc07b57fb62ab5069dbd979cd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="../../../site_libs/quarto-contrib/fontawesome6-6.7.2/all.min.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-contrib/fontawesome6-6.7.2/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -166,27 +144,19 @@ div.csl-indent {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#description" id="toc-description" class="nav-link active" data-scroll-target="#description">Description</a></li>
-  <li><a href="#free-demo-site" id="toc-free-demo-site" class="nav-link" data-scroll-target="#free-demo-site">Free Demo site</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Engagement Analyzer</h1>
+<h1 class="title">Multi-word Units Profilerの使い方 / How to Use Multi-word Units Profiler</h1>
 </div>
 
 <div>
   <div class="description">
-    Automated analysis of rhetorical features
+    A guide to using the Multi-Word Units Profiler web app for identifying and analyzing English chunks and formulaic expressions.
   </div>
 </div>
 
@@ -203,7 +173,7 @@ div.csl-indent {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">January 1, 2023</p>
+      <p class="date">August 18, 2020</p>
     </div>
   </div>
   
@@ -215,31 +185,251 @@ div.csl-indent {
 </header>
 
 
-<hr>
-<section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">Description</h2>
-<p>Engagemen Analyzer <span class="citation" data-cites="Eguchi-2023">(<a href="#ref-Eguchi-2023" role="doc-biblioref">Eguchi &amp; Kyle, 2023</a>)</span> allows learners and teachers to find out rhetorical expressions in the user-input writing.</p>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">日本語</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">English</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<section id="概要" class="level3">
+<h3 class="anchored" data-anchor-id="概要">概要</h3>
+<p>Multi-Word Units Profilerは英語で頻出するチャンクを特定し、ハイライトして、その表現の頻度等を参照することが出来る無料のウェブアプリです。この記事では、Multi-Word Units Profilerの使い方を簡単に紹介します。</p>
+</section>
+<section id="このアプリを作った背景" class="level3">
+<h3 class="anchored" data-anchor-id="このアプリを作った背景">このアプリを作った背景</h3>
+<p>言語を学ぶ上では、個別の単語を覚えるだけではなく、その言語で頻繁に使用される定形表現やチャンクを学習し使えるようになることが熟達度の向上に有効であると研究で示されています (Boers et al., 2006; Kremmel et al., 2017; Saito, 2020; Tavakoli &amp; Uchihara, 2019)。</p>
+<p>定形表現には、例えば “due to”や”no longer” など個別の単語から意味の推測が難しいものが多く含まれます。そのため、知っていないとリーディングで読み違えてしまったり、知っていればスピーキングやライティングで表現したい内容を効率よく伝えられるのに（知らないので表現できない）といったことが起こり得ます。</p>
+<p>また、定形表現には、例えば”is likely to”や “as well as”などのように、全体の意味が個別の単語と文法知識から予測できるものも含まれます。一見かたまり（チャンク）として覚える必要なさそうなこれらに関しても、あたかも1つの単語のように覚えることで、全体の言語処理の負担を軽減することができ、結果として流暢性の向上に貢献すると考えられています。</p>
+</section>
+<section id="multi-word-units-profilerの目的" class="level3">
+<h3 class="anchored" data-anchor-id="multi-word-units-profilerの目的">Multi-Word Units Profilerの目的</h3>
+<p><a href="https://multiwordunitsprofiler.pythonanywhere.com">Multi-Word Units Profiler</a>の意義目的は要約すると以下の４点です。 Multi-Word Units（あるいはチャンク・表現のかたまり）は、言語処理の認知的な負担を減らし流暢性を高めるなど、英語のスキル向上に貢献すると言われています(Carrol &amp; Conklin, 2019)。 しかし、頻出する便利なチャンクかどうかを見極めること自体が難易度の高いことであるため、学習者にこれを求めることは難しいかもしれません。 そのため、教師が先導して英文に出てくるチャンクを見つける活動(Awareness raising activities; chunk identification activities; Boers &amp; Lindstromberg, 2009)が推奨されていますが、授業時間の制約もあり、生徒それぞれに合わせたレベルで指導をすることは難しいことです。 「チャンク」を特定してくれるツールがあれば、その使用方法を指導することで学習者が自律的にチャンクを見つけ、表現活動のために覚えたりすることができるかもしれません。Multi-Word Units Profilerはこれを可能にするウェブアプリとして開発を進めています。</p>
+</section>
+<section id="multi-word-units-profilerでできること" class="level3">
+<h3 class="anchored" data-anchor-id="multi-word-units-profilerでできること">Multi-Word Units Profilerでできること</h3>
+<p>当アプリでできることは大きく分けて以下の2つです。</p>
+<ol type="1">
+<li>入力した英文の中に含まれるチャンクを特定して色分けする</li>
+<li>特定されたチャンクの出現頻度や機能などを調べる</li>
+</ol>
+<p>以下この２つの機能について使用手順を追って説明していきます。</p>
+</section>
+<section id="multi-word-units-profilerの使用手順" class="level3">
+<h3 class="anchored" data-anchor-id="multi-word-units-profilerの使用手順">Multi-Word Units Profilerの使用手順</h3>
+<section id="step0" class="level4">
+<h4 class="anchored" data-anchor-id="step0">STEP0:</h4>
+<p><a href="https://multiwordunitsprofiler.pythonanywhere.com">Multi-Word Units Profiler</a>にアクセスします。アプリではほとんどの操作をトップページのみでできるように設計されています。</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="media/illustration.png" class="img-fluid figure-img"></p>
-<figcaption>Example</figcaption>
+<p><img src="media/landing-page.png" class="img-fluid figure-img"></p>
+<figcaption>landing-page</figcaption>
 </figure>
 </div>
 </section>
-<section id="free-demo-site" class="level2">
-<h2 class="anchored" data-anchor-id="free-demo-site">Free Demo site</h2>
-<p><a href="https://huggingface.co/spaces/egumasa/engagement-analyzer-demo" class="btn btn-outline-primary" target="_blank"><i class="fa-solid fa-globe" aria-label="globe"></i> Try demo</a></p>
-<hr>
-
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
-<div id="ref-Eguchi-2023" class="csl-entry" role="listitem">
-Eguchi, M., &amp; Kyle, K. (2023). Span <span>Identification</span> of <span>Epistemic Stance-Taking</span> in <span>Academic Written English</span>. <em>Proceedings of the 18th <span>Workshop</span> on <span>Innovative Use</span> of <span>NLP</span> for <span>Building Educational Applications</span> (<span>BEA</span> 2023)</em>, 429–442. <a href="https://doi.org/10.18653/v1/2023.bea-1.35">https://doi.org/10.18653/v1/2023.bea-1.35</a>
+<section id="step1" class="level4">
+<h4 class="anchored" data-anchor-id="step1">STEP1:</h4>
+<p>トップページのテキストボックスに分析したい英文を貼り付けます。(例では、以下のページに掲載されているイチロー選手に関するこちらの記事を分析します。)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/text-box.jpg" class="img-fluid figure-img"></p>
+<figcaption>Text box</figcaption>
+</figure>
 </div>
-</div></section></div></main> <!-- /main -->
+</section>
+<section id="step2" class="level4">
+<h4 class="anchored" data-anchor-id="step2">STEP2:</h4>
+<p>分析するためのMulti-Word Unitsリストを選びます。Version 1.6.0現在は以下の3つのリストでの分析に対応しており、今後リストの拡充を行う予定です（それぞれの説明は今後アップロードします）。また、リストは複数選択が可能です。</p>
+<ul>
+<li>A Phrasal Expressions List (Martinez &amp; Schmitt, 2012)</li>
+<li>An Academic Formulas List (Simpson-vlach &amp; Ellis, 2010)</li>
+<li>Lexical Bundles in University language (Biber et al., 2004)</li>
+</ul>
+</section>
+<section id="step3" class="level4">
+<h4 class="anchored" data-anchor-id="step3">STEP3:</h4>
+<p>“Analyze” (分析)ボタンを押します。（分析に多少時間がかかる場合があります。）処理が終わると分析結果表示されます。</p>
+</section>
+</section>
+<section id="分析結果の見方" class="level3">
+<h3 class="anchored" data-anchor-id="分析結果の見方">分析結果の見方</h3>
+<p>分析が終わると、2種類のアウトプットが表示されます(Version 1.6.0; 2020/8/16現在)。それぞれ順番に説明します。</p>
+<section id="annotated-text" class="level4">
+<h4 class="anchored" data-anchor-id="annotated-text">1. Annotated text</h4>
+<p>Annotated textでは、分析した英文に含まれるMulti-Word Unitsが頻度別に色付き文字で表示されます。分析はSTEP2で選んだリストを基にされます。 特定されたMulti-Word Unitsは以下のように色付けされます。</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/ranking-color.png" class="img-fluid figure-img"></p>
+<figcaption>Colors for ranking</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/annotated-text.jpg" class="img-fluid figure-img"></p>
+<figcaption>Annotated text</figcaption>
+</figure>
+</div>
+</section>
+<section id="table-output" class="level4">
+<h4 class="anchored" data-anchor-id="table-output">2. Table output</h4>
+<p>Table outputでは、分析結果として特定されたMulti-Word Unitsの頻度情報やExample sentences等が参照出来ます。例えば、A Phrasal Expressions List (Martinez &amp; Schmitt, 2012)　の表を参照すると以下の5つの情報を確認できます。</p>
+<ol type="1">
+<li>頻度レベル: 1000語(1-K)から5000語(5-K)レベルまで</li>
+<li>実際の出現頻度（100万語に何回出現するか）</li>
+<li>ジャンル毎の出現傾向</li>
+<li>A Phrasal Expression Listで提供されている例文情報</li>
+</ol>
+<p>また、全リスト共通する情報として、左から2つ目の列にそのMWUが分析したテキスト内で何回出現するかを示します。</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/table-output.png" class="img-fluid figure-img"></p>
+<figcaption>Table output</figcaption>
+</figure>
+</div>
+<p>また、Version 1.6.0現在では、選択したリストによって、参照できる情報が異なり、全く同じ表現でも異なる頻度情報を示す場合があります。これは、Multi-Word Units Profilerが参照したもとの論文に掲載されている頻度情報をそのまま使用しているためです。</p>
+<p>今後のアップデートで表示項目や頻度情報の統一を図る予定ですが、アップデートの時期は未定です。</p>
+</section>
+</section>
+<section id="参考文献" class="level3">
+<h3 class="anchored" data-anchor-id="参考文献">参考文献</h3>
+<ul>
+<li><p>Biber, D., Conrad, S., &amp; Cortes, V. (2004). If you look at …: Lexical bundles in university teaching and textbooks. Applied Linguistics, 25(3), 371–405. https://doi.org/10.1093/applin/25.3.371</p></li>
+<li><p>Boers, F., Eyckmans, J., Kappel, J., Stengers, H., &amp; Demecheleer, M. (2006). Formulaic sequences and perceived oral proficiency: Putting a Lexical Approach to the test. Language Teaching Research, 10(3), 245–261. https://doi.org/10.1191/1362168806lr195oa</p></li>
+<li><p>Boers, F., &amp; Lindstromberg, S. (2009). Optimizing a Lexical Approach to Instructed Second Language Acquisition. Palgrave Macmillan UK. https://doi.org/10.1057/9780230245006 Carrol, G., &amp; Conklin, K. (2019). Is All Formulaic Language Created Equal? Unpacking the Processing Advantage for Different Types of Formulaic Sequences. Language and Speech, 002383091882323. https://doi.org/10.1177/0023830918823230</p></li>
+<li><p>Kremmel, B., Brunfaut, T., &amp; Alderson, J. C. (2017). Exploring the Role of Phraseological Knowledge in Foreign Language Reading. Applied Linguistics, amv070. https://doi.org/10.1093/applin/amv070</p></li>
+<li><p>Martinez, R., &amp; Schmitt, N. (2012). A Phrasal Expressions List. Applied Linguistics, 33(3), 299–320. https://doi.org/10.1093/applin/ams010</p></li>
+<li><p>Saito, K. (2020). Multi‐ or Single‐Word Units? The Role of Collocation Use in Comprehensible and Contextually Appropriate Second Language Speech. Language Learning, 70(2), 548–588. https://doi.org/10.1111/lang.12387</p></li>
+<li><p>Simpson-vlach, R., &amp; Ellis, N. C. (2010). An academic formulas list: New methods in phraseology research. Applied Linguistics, January, 487–512. https://doi.org/10.1093/applin/amp058</p></li>
+<li><p>Tavakoli, P., &amp; Uchihara, T. (2019). To What Extent Are Multiword Sequences Associated With Oral Fluency? Language Learning, lang.12384. https://doi.org/10.1111/lang.12384</p></li>
+</ul>
+</section>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<section id="overview" class="level3">
+<h3 class="anchored" data-anchor-id="overview">Overview</h3>
+<p><a href="https://multiwordunitsprofiler.pythonanywhere.com">Multi-Word Units Profiler</a> is a free web application that identifies frequently occurring chunks in English text, highlights them, and provides information about their frequency. This article provides a brief guide on how to use the Multi-Word Units Profiler.</p>
+</section>
+<section id="background" class="level3">
+<h3 class="anchored" data-anchor-id="background">Background</h3>
+<p>Research has shown that language learning is enhanced not only by memorizing individual words but also by learning and using formulaic expressions and chunks that are frequently used in the language (Boers et al., 2006; Kremmel et al., 2017; Saito, 2020; Tavakoli &amp; Uchihara, 2019).</p>
+<p>Formulaic expressions include phrases such as “due to” and “no longer” whose meanings are difficult to infer from individual words. Without knowing these expressions, learners may misunderstand texts while reading, or may not convey their meanings effectively in speaking and writing.</p>
+<p>Additionally, formulaic expressions include phrases like “is likely to” and “as well as” whose overall meaning can be predicted from individual words and grammatical knowledge. Even for these semantically more transparent chunks, learning them as single units can reduce the cognitive load of overall language processing, thereby contributing to improved fluency.</p>
+</section>
+<section id="purpose-of-multi-word-units-profiler" class="level3">
+<h3 class="anchored" data-anchor-id="purpose-of-multi-word-units-profiler">Purpose of Multi-Word Units Profiler</h3>
+<p>The significance and purpose of <a href="https://multiwordunitsprofiler.pythonanywhere.com">Multi-Word Units Profiler</a> can be summarized in the following four points:</p>
+<ol type="1">
+<li><p>Multi-Word Units (or chunks/formulaic expressions) are said to contribute to improving English skills by reducing cognitive load in language processing and enhancing fluency (Carrol &amp; Conklin, 2019).</p></li>
+<li><p>However, it can be difficult for learners to identify which chunks are frequently used and useful. The learner fails to notice the “usefulness” of the chunks therefore does not register them.</p></li>
+<li><p>Therefore, researcher recommends teacher-led activities to find chunks in English texts (awareness-raising activities; chunk identification activities; Boers &amp; Lindstromberg, 2009), but time constraints make it difficult to provide individualized instruction for each student in class.</p></li>
+<li><p>The profiler is to make this possible. In other words, with this tool, teachers could instruct learners on how to use it or learners can learn to find chunks and memorize them for productive use.</p></li>
+</ol>
+</section>
+<section id="what-multi-word-units-profiler-can-do" class="level3">
+<h3 class="anchored" data-anchor-id="what-multi-word-units-profiler-can-do">What Multi-Word Units Profiler Can Do</h3>
+<p>The application offers two main features:</p>
+<ol type="1">
+<li>Identify and color-code chunks contained in the input English text</li>
+<li>Look up the frequency and function of identified chunks</li>
+</ol>
+<p>The following sections explain how to use these two features step by step.</p>
+</section>
+<section id="how-to-use-multi-word-units-profiler" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-use-multi-word-units-profiler">How to Use Multi-Word Units Profiler</h3>
+<section id="step-0" class="level4">
+<h4 class="anchored" data-anchor-id="step-0">STEP 0:</h4>
+<p>Visit <a href="https://multiwordunitsprofiler.pythonanywhere.com">Multi-Word Units Profiler</a>. The application is designed so that most operations can be performed on the top page alone.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/landing-page.png" class="img-fluid figure-img"></p>
+<figcaption>landing-page</figcaption>
+</figure>
+</div>
+</section>
+<section id="step-1" class="level4">
+<h4 class="anchored" data-anchor-id="step-1">STEP 1:</h4>
+<p>Paste the English text you want to analyze into the text box on the top page. I recommend to use relatively short passage around 500-1000 words. (In this example, we will analyze an article about Ichiro.)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/text-box.jpg" class="img-fluid figure-img"></p>
+<figcaption>Text box</figcaption>
+</figure>
+</div>
+</section>
+<section id="step-2" class="level4">
+<h4 class="anchored" data-anchor-id="step-2">STEP 2:</h4>
+<p>Select the Multi-Word Units list for analysis. As of Version 1.6.0, the following three lists are supported for analysis, with plans to expand the list options in the future. Multiple lists can be selected.</p>
+<ul>
+<li>A Phrasal Expressions List (Martinez &amp; Schmitt, 2012)</li>
+<li>An Academic Formulas List (Simpson-vlach &amp; Ellis, 2010)</li>
+<li>Lexical Bundles in University language (Biber et al., 2004)</li>
+</ul>
+</section>
+<section id="step-3" class="level4">
+<h4 class="anchored" data-anchor-id="step-3">STEP 3:</h4>
+<p>Click the “Analyze” button. (Analysis may take some time.) When processing is complete, the analysis results will be displayed.</p>
+</section>
+</section>
+<section id="understanding-the-analysis-results" class="level3">
+<h3 class="anchored" data-anchor-id="understanding-the-analysis-results">Understanding the Analysis Results</h3>
+<p>After analysis is complete, two types of output are displayed.</p>
+<section id="annotated-text-1" class="level4">
+<h4 class="anchored" data-anchor-id="annotated-text-1">1. Annotated Text</h4>
+<p>In the Annotated text section, Multi-Word Units contained in the analyzed English text are displayed in colored text according to their frequency. Analysis is based on the list(s) selected in STEP 2. Identified Multi-Word Units are color-coded as follows:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/ranking-color.png" class="img-fluid figure-img"></p>
+<figcaption>Colors for ranking</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/annotated-text.jpg" class="img-fluid figure-img"></p>
+<figcaption>Annotated text</figcaption>
+</figure>
+</div>
+</section>
+<section id="table-output-1" class="level4">
+<h4 class="anchored" data-anchor-id="table-output-1">2. Table Output</h4>
+<p>In the Table output section, you can view frequency information and example sentences for the identified Multi-Word Units. For example, referring to the A Phrasal Expressions List (Martinez &amp; Schmitt, 2012) table, you can check the following information:</p>
+<ol type="1">
+<li>Frequency level: from 1000-word (1-K) to 5000-word (5-K) level</li>
+<li>Actual occurrence frequency (how many times per million words)</li>
+<li>Occurrence trends by genre</li>
+<li>Example sentence information provided in A Phrasal Expression List</li>
+</ol>
+<p>Additionally, common to all lists, the second column from the left shows how many times that MWU appears in the analyzed text.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/table-output.png" class="img-fluid figure-img"></p>
+<figcaption>Table output</figcaption>
+</figure>
+</div>
+</section>
+</section>
+<section id="some-constraints" class="level3">
+<h3 class="anchored" data-anchor-id="some-constraints">Some constraints</h3>
+<p>As of Version 1.6.0, the available information varies depending on the selected list, and the same expression may show different frequency information. This is because Multi-Word Units Profiler uses the frequency information as published in the original research papers.</p>
+<p>Future updates plan to standardize display items and frequency information, but the timing of these updates is undetermined.</p>
+</section>
+<section id="references" class="level3">
+<h3 class="anchored" data-anchor-id="references">References</h3>
+<ul>
+<li><p>Biber, D., Conrad, S., &amp; Cortes, V. (2004). If you look at …: Lexical bundles in university teaching and textbooks. Applied Linguistics, 25(3), 371–405. https://doi.org/10.1093/applin/25.3.371</p></li>
+<li><p>Boers, F., Eyckmans, J., Kappel, J., Stengers, H., &amp; Demecheleer, M. (2006). Formulaic sequences and perceived oral proficiency: Putting a Lexical Approach to the test. Language Teaching Research, 10(3), 245–261. https://doi.org/10.1191/1362168806lr195oa</p></li>
+<li><p>Boers, F., &amp; Lindstromberg, S. (2009). Optimizing a Lexical Approach to Instructed Second Language Acquisition. Palgrave Macmillan UK. https://doi.org/10.1057/9780230245006</p></li>
+<li><p>Carrol, G., &amp; Conklin, K. (2019). Is All Formulaic Language Created Equal? Unpacking the Processing Advantage for Different Types of Formulaic Sequences. Language and Speech, 002383091882323. https://doi.org/10.1177/0023830918823230</p></li>
+<li><p>Kremmel, B., Brunfaut, T., &amp; Alderson, J. C. (2017). Exploring the Role of Phraseological Knowledge in Foreign Language Reading. Applied Linguistics, amv070. https://doi.org/10.1093/applin/amv070</p></li>
+<li><p>Martinez, R., &amp; Schmitt, N. (2012). A Phrasal Expressions List. Applied Linguistics, 33(3), 299–320. https://doi.org/10.1093/applin/ams010</p></li>
+<li><p>Saito, K. (2020). Multi‐ or Single‐Word Units? The Role of Collocation Use in Comprehensible and Contextually Appropriate Second Language Speech. Language Learning, 70(2), 548–588. https://doi.org/10.1111/lang.12387</p></li>
+<li><p>Simpson-vlach, R., &amp; Ellis, N. C. (2010). An academic formulas list: New methods in phraseology research. Applied Linguistics, January, 487–512. https://doi.org/10.1093/applin/amp058</p></li>
+<li><p>Tavakoli, P., &amp; Uchihara, T. (2019). To What Extent Are Multiword Sequences Associated With Oral Fluency? Language Learning, lang.12384. https://doi.org/10.1111/lang.12384</p></li>
+</ul>
+</section>
+</div>
+</div>
+</div>
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

@@ -13,7 +13,9 @@
   },
   {
     "listing": "/blog/index.html",
-    "items": []
+    "items": [
+      "/blog/blog-posts/multiwordunits-profiler/index.html"
+    ]
   },
   {
     "listing": "/publications/index.html",

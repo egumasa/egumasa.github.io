@@ -17,7 +17,7 @@ Engagemen Analyzer [@Eguchi-2023] allows learners and teachers to find out rheto
 
 ## Free Demo site 
 
-[{{< fa globe >}} Try demo](https://huggingface.co/spaces/egumasa/engagement-analyzer-demo){.btn .btn-outline-primary}
+[{{< fa globe >}} Try demo](https://huggingface.co/spaces/egumasa/engagement-analyzer-demo){.btn .btn-outline-primary target="_blank"}
 
 
 ---

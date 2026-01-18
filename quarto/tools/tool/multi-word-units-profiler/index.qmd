@@ -12,4 +12,6 @@ Multiword Unit Profiler allows learners and teachers to identify multiword expre
 
 ![User-interface](media/mwu-profiler.png)
 
-[{{< fa globe >}} Visit Website](https://multiwordunitsprofiler.pythonanywhere.com/){.btn .btn-outline-primary}
+[{{< fa globe >}} Visit Website](https://multiwordunitsprofiler.pythonanywhere.com/){.btn .btn-outline-primary target="_blank"}
+
+[{{< fa book >}} Tutorial / 使い方](/blog/blog-posts/multiwordunits-profiler/){.btn .btn-outline-secondary target="_blank"}
