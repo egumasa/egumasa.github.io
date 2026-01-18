@@ -1,0 +1,17 @@
+---
+title: "Seminar on Teaching English as a Foreign Language"
+subtitle: "Vocabulary learning and Instruction"
+author: "Masaki EGUCHI"
+description: ""
+date: "2024-09-01"
+---
+
+---
+
+## Course Description
+
+This course introduces principles and methods of second language vocabulary instruction in an EFL context. It explores essential research findings in Instructed Second Language Acquisition research and discusses practical applications of these research findings. Specific emphasis is put on developing skills on how to use corpus linguistic tools in developing and evaluating materials for effective vocabulary teaching and assessment.
+
+---
+
+<!-- [{{< fa globe >}} Visit Course Website](https://egumasa.github.io/linguistic-data-analysis-I/){.btn .btn-outline-primary} -->

@@ -1,0 +1,15 @@
+---
+title: "Multi-Word Units Profiler"
+subtitle: ""
+author: "Masaki EGUCHI"
+description: "Profiling Collocations and Formulaic Sequences"
+date: "2021"
+---
+
+## Description
+
+Multiword Unit Profiler allows learners and teachers to identify multiword expressions that are found important to learn in previous research.
+
+![User-interface](media/mwu-profiler.png)
+
+[{{< fa globe >}} Visit Website](https://multiwordunitsprofiler.pythonanywhere.com/){.btn .btn-outline-primary}

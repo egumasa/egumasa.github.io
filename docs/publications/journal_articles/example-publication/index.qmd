@@ -1,0 +1,16 @@
+---
+params:
+  citekey: "YourCiteKey-2024"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+nocite: |
+  @YourCiteKey-2024
+categories:
+  - "Topic1"
+---
+
+## Abstract
+
+
+
+::: {#refs}
+:::

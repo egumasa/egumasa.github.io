@@ -1,0 +1,51 @@
+[
+  {
+    "listing": "/tutorials/index.html",
+    "items": []
+  },
+  {
+    "listing": "/teaching/index.html",
+    "items": [
+      "/teaching/classes/Tohoku-2025/index.html",
+      "/teaching/classes/Waseda-2024/index.html",
+      "/teaching/classes/UO-2023/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/invited_contributions/Eguchi-2026/index.html",
+      "/publications/journal_articles/Takatsu-2026/index.html",
+      "/publications/journal_articles/Eguchi-2025-TQ/index.html",
+      "/publications/journal_articles/Uchihara-2025/index.html",
+      "/publications/journal_articles/Eguchi-2024-RMAL/index.html",
+      "/publications/journal_articles/Kyle-2024a/index.html",
+      "/publications/journal_articles/Maie-2024/index.html",
+      "/publications/journal_articles/Kyle-2024/index.html",
+      "/publications/journal_articles/Mizumoto-2023a/index.html",
+      "/publications/journal_articles/Eguchi-2023a/index.html",
+      "/publications/journal_articles/Kyle-2023/index.html",
+      "/publications/journal_articles/Eguchi-2022a/index.html",
+      "/publications/journal_articles/Suzuki-2022a/index.html",
+      "/publications/journal_articles/Kyle-2022a/index.html",
+      "/publications/journal_articles/Kormos-2022/index.html",
+      "/publications/journal_articles/Uchihara-2022/index.html",
+      "/publications/journal_articles/Eguchi-2022/index.html",
+      "/publications/journal_articles/Eguchi-2020/index.html",
+      "/publications/conference_papers/Kurata-2025/index.html",
+      "/publications/conference_papers/Saeki-2024/index.html",
+      "/publications/conference_papers/Eguchi-2023/index.html"
+    ]
+  },
+  {
+    "listing": "/tools/index.html",
+    "items": [
+      "/tools/tool/engagement-analyzer/index.html",
+      "/tools/tool/multi-word-units-profiler/index.html"
+    ]
+  }
+]

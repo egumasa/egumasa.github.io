@@ -1,0 +1,74 @@
+.publications-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.publication-item {
+  margin-bottom: 1.5em;
+}
+
+.publication-citation {
+  margin: 0 0 0.5em 0;
+  line-height: 1.6;
+}
+
+.publication-citation a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.publication-citation a:hover {
+  text-decoration: underline;
+}
+
+.publication-categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3em;
+}
+
+.publication-category {
+  display: inline-block;
+  background-color: #e9ecef;
+  color: #3d5a80;
+  padding: 0.15em 0.5em;
+  border-radius: 3px;
+  font-size: 0.75em;
+}
+
+.publication-category:hover {
+  background-color: #3d5a80;
+  color: white;
+  cursor: pointer;
+}
+
+/* Category filter styles */
+.category-filter-container {
+  margin-bottom: 1.5em;
+  padding: 1em;
+  background-color: #f8f9fa;
+  border-radius: 6px;
+}
+
+.category-filter-btn {
+  display: inline-block;
+  background-color: #e9ecef;
+  color: #3d5a80;
+  padding: 0.3em 0.8em;
+  border-radius: 4px;
+  font-size: 0.9em;
+  cursor: pointer;
+  margin: 0.2em;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.category-filter-btn:hover {
+  background-color: #3d5a80;
+  color: white;
+}
+
+.category-filter-btn.active {
+  background-color: #3d5a80;
+  color: white;
+}
