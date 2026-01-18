@@ -1,0 +1,27 @@
+---
+title: "Publications"
+listing:
+  - id: journal-articles
+    contents: "journal_articles/*/index.qmd"
+    sort: "date desc"
+    type: default
+    categories: true
+    fields: [author, date, title, subtitle, categories]
+  - id: conference-papers
+    contents: "conference_papers/*/index.qmd"
+    sort: "date desc"
+    type: default
+    categories: true
+    fields: [author, date, title, subtitle, categories]
+# css: publications.css
+---
+
+## Journal Articles
+
+:::{#journal-articles}
+:::
+
+## Conference Papers
+
+:::{#conference-papers}
+:::

@@ -1,0 +1,35 @@
+---
+title: "Masaki Eguchi"
+image: assets/profile/masakieguchi.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links: # create buttons
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/masaki-eguchi-861302162
+      target: _blank # opens link in a new browser tab
+    - text: GitHub
+      icon: github
+      href: https://github.com/egumasa
+      target: _blank 
+---
+
+I am a Research Assistant Professor at Perceptual Computing Laboratory at Waseda University, Tokyo, Japan. My research centers on the assessment of second language spoken and written production using computational methods. My work draws on usage-based and functional approaches, as well as socio-cognitive theories of second language learning. I also work on developing and applying natural language processing tools that are tailored to specific needs in second language learning and assessment. I am also a strong advocate of Bayesian methods in (Instructed) Second Language Acquisition and assessment research. In my most recent publications, I have been increasingly relying on this analytic paradigm for its combination of flexibility, elegance and robustness in handling complex data structures. 
+
+## Positions
+
+Equmenopolis, Inc. | Research Scientist | 2025 - Present
+
+Waseda University | Guest Research Assistant Professor | 2025 - Present
+
+Waseda University | Research Assistant Professor | 2023 - 2025
+
+## Education
+
+University of Oregon | Eugene, Oregon, USA | PhD in Linguistics | Sept 2019 - June 2023
+
+Waseda University | Shinjuku, Tokyo, Japan | M.A in Education | Sept 2015 - June 2018
+
