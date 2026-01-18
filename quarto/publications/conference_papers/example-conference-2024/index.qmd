@@ -3,7 +3,8 @@ title: "Example Conference Paper Title"
 subtitle: "Conference Name 2024"
 date: 2024-06-15
 author:
-  - name: "Masaki Eguchi"
+  - name: "Eguchi, M."
+  - name: "Coauthor, A."
 categories:
   - "Applied Linguistics"
 ---
@@ -14,4 +15,4 @@ categories:
 
 ## Citation
 
-Eguchi, M. (2024, June). Example conference paper title. Paper presented at Conference Name 2024, Location.
+Eguchi, M., & Coauthor, A. (2024, June). Example conference paper title. Paper presented at Conference Name 2024, Location.

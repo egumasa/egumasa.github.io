@@ -1,0 +1,34 @@
+<ul class="publications-list">
+<% for (const item of items) { %><li class="publication-item"><p class="publication-citation"><%
+// item.author comes as a string like "Eguchi, M." or "Eguchi, M., Coauthor, A."
+let authorStr = item.author || '';
+
+// Split authors by pattern "., " (period-comma-space) which separates authors
+// e.g., "Eguchi, M., Coauthor, A." -> ["Eguchi, M", "Coauthor, A."]
+const authorParts = authorStr.split(/\.,\s*/);
+let formattedAuthors = [];
+
+for (let i = 0; i < authorParts.length; i++) {
+  let author = authorParts[i];
+  // Add period back if not last and not already has period
+  if (i < authorParts.length - 1 || !author.endsWith('.')) {
+    author = author + '.';
+  }
+  // Bold Eguchi
+  if (author.startsWith('Eguchi')) {
+    author = '<strong>' + author + '</strong>';
+  }
+  formattedAuthors.push(author);
+}
+
+// Join with ", & " for last author if multiple
+let finalAuthorStr;
+if (formattedAuthors.length === 1) {
+  finalAuthorStr = formattedAuthors[0];
+} else if (formattedAuthors.length === 2) {
+  finalAuthorStr = formattedAuthors[0] + ', & ' + formattedAuthors[1];
+} else {
+  finalAuthorStr = formattedAuthors.slice(0, -1).join(', ') + ', & ' + formattedAuthors[formattedAuthors.length - 1];
+}
+%><%= finalAuthorStr %><% if (item.date) { %> (<%- new Date(item.date).getFullYear() %>).<% } %> <a href="<%- item.path %>"><%- item.title %></a>.<% if (item.subtitle) { %> <em><%- item.subtitle %></em>.<% } %><% if (item.doi) { %> <a href="https://doi.org/<%- item.doi %>" target="_blank">https://doi.org/<%- item.doi %></a><% } %></p><% if (item.categories && item.categories.length > 0) { %><div class="publication-categories"><% for (const cat of item.categories) { %><span class="publication-category"><%- cat.toUpperCase() %></span> <% } %></div><% } %></li>
+<% } %></ul>

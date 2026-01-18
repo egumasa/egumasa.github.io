@@ -2,8 +2,9 @@
 title: "Example Journal Article Title"
 subtitle: "Journal Name"
 date: 2024-01-15
+doi: "10.xxxx/xxxxx"
 author:
-  - name: "Masaki Eguchi"
+  - name: "Eguchi, M."
 categories:
   - "Applied Linguistics"
   - "Corpus Linguistics"
@@ -15,4 +16,4 @@ categories:
 
 ## Citation
 
-Eguchi, M. (2024). Example journal article title. *Journal Name*, 1(1), 1-20.
+Eguchi, M. (2024). Example journal article title. *Journal Name*, 1(1), 1-20. https://doi.org/10.xxxx/xxxxx

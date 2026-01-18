@@ -4,16 +4,12 @@ listing:
   - id: journal-articles
     contents: "journal_articles/*/index.qmd"
     sort: "date desc"
-    type: default
-    categories: true
-    fields: [author, date, title, subtitle, categories]
+    template: listing-publications.ejs
   - id: conference-papers
     contents: "conference_papers/*/index.qmd"
     sort: "date desc"
-    type: default
-    categories: true
-    fields: [author, date, title, subtitle, categories]
-# css: publications.css
+    template: listing-publications.ejs
+css: publications.css
 ---
 
 ## Journal Articles
@@ -21,7 +17,3 @@ listing:
 :::{#journal-articles}
 :::
 
-## Conference Papers
-
-:::{#conference-papers}
-:::
