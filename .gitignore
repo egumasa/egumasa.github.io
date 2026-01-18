@@ -1,0 +1,18 @@
+# Quarto internal
+quarto/.quarto/
+/_site/
+
+# Planning files (local only)
+/_plans/
+
+# Environment files (never commit secrets)
+quarto/.env
+.env
+
+# OS and editor files
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+.vscode/
+.idea/
