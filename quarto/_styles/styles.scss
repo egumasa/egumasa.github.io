@@ -30,6 +30,12 @@ $green:   #118230 !default;
 $teal:    #20c997 !default;
 $cyan:    #3093CF !default;
 
+//
+$primary2: #123780 !default;
+$primarydark: #0c2453 !default;
+$primarylight: #184aad !default;
+
+//
 $primary:   $pink !default;
 $secondary: $gray-700 !default;
 $success:   $green !default;
@@ -42,8 +48,8 @@ $dark:      $black !default;
 
 
 // Navbar
-$navbar: $blue !default;
-$navbar-bg: $blue !default;
+$navbar: $primary2 !default;
+$navbar-bg: $primary2 !default;
 $navbar-fg: $white !default;
 $navbar-hl: $light-orange !default;
 

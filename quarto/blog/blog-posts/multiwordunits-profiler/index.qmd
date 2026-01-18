@@ -1,5 +1,5 @@
 ---
-title: "Multi-word Units Profilerの使い方 / How to Use Multi-word Units Profiler"
+title: "How to Use Multi-word Units Profiler / Multi-word Units Profilerの使い方"
 subtitle: ""
 author: "Masaki EGUCHI"
 description: "A guide to using the Multi-Word Units Profiler web app for identifying and analyzing English chunks and formulaic expressions."
