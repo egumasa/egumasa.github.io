@@ -7,221 +7,347 @@
     "text": "No matching items"
   },
   {
-    "objectID": "tools/tool/engagement-analyzer/index.html#description",
-    "href": "tools/tool/engagement-analyzer/index.html#description",
-    "title": "Engagement Analyzer",
-    "section": "Description",
-    "text": "Description\nEngagemen Analyzer (Eguchi & Kyle, 2023) allows learners and teachers to find out rhetorical expressions in the user-input writing.\n\n\n\nExample"
-  },
-  {
-    "objectID": "tools/tool/engagement-analyzer/index.html#free-demo-site",
-    "href": "tools/tool/engagement-analyzer/index.html#free-demo-site",
-    "title": "Engagement Analyzer",
-    "section": "Free Demo site",
-    "text": "Free Demo site\n Try demo"
-  },
-  {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
-    "title": "Teaching",
+    "objectID": "tools/tool/multi-word-units-profiler/index.html",
+    "href": "tools/tool/multi-word-units-profiler/index.html",
+    "title": "Multi-Word Units Profiler",
     "section": "",
-    "text": "Here are the list of courses I have taught or am teaching currently.\n\n\n\n\n\n\n\n\n\n\nLinguistic Data Analysis I\n\n\nCorpus linguistics and Natural Language Processing for Learner Language Analysis\n\n\n\n\n\nAug 1, 2025\n\n\nMasaki EGUCHI\n\n\nTohoku University\n\n\n\n\n\n\n\nSeminar on Teaching English as a Foreign Language\n\n\nVocabulary learning and Instruction\n\n\n\n\n\nSep 1, 2024\n\n\nMasaki EGUCHI\n\n\nWaseda University\n\n\n\n\n\n\n\nLT549 Measureing Language Ability\n\n\nClassroom Language Assessment\n\n\n\n\n\nApr 1, 2023\n\n\nMasaki EGUCHI\n\n\nUniversity of Oregon\n\n\n\n\n\nNo matching items"
+    "text": "Multiword Unit Profiler allows learners and teachers to identify multiword expressions that are found important to learn in previous research.\n\n\n\nUser-interface\n\n\n Visit Website\n Tutorial / 使い方"
   },
   {
-    "objectID": "teaching/classes/UO-2023/index.html#course-description",
-    "href": "teaching/classes/UO-2023/index.html#course-description",
-    "title": "LT549 Measureing Language Ability",
+    "objectID": "tools/tool/multi-word-units-profiler/index.html#description",
+    "href": "tools/tool/multi-word-units-profiler/index.html#description",
+    "title": "Multi-Word Units Profiler",
+    "section": "",
+    "text": "Multiword Unit Profiler allows learners and teachers to identify multiword expressions that are found important to learn in previous research.\n\n\n\nUser-interface\n\n\n Visit Website\n Tutorial / 使い方"
+  },
+  {
+    "objectID": "tools/index.html",
+    "href": "tools/index.html",
+    "title": "Tools",
+    "section": "",
+    "text": "Here are the list of corpus tools that I have developed.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEngagement Analyzer\n\n\nAutomated analysis of rhetorical features, inspired by Appraisal Framework\n\n\n\nMasaki EGUCHI\n\n\n2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nTheme Analyzer\n\n\nAutomated analysis of Theme/Rheme structure, inspired by Systemic Functional Linguistics\n\n\n\nMasaki EGUCHI\n\n\n2022\n\n\n\n\n\n\n\n\n\n\n\nMulti-Word Units Profiler\n\n\nProfiling Collocations and Formulaic Sequences\n\n\n\nMasaki EGUCHI\n\n\n2021\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/classes/Waseda-2024/index.html#course-description",
+    "href": "teaching/classes/Waseda-2024/index.html#course-description",
+    "title": "Seminar on Teaching English as a Foreign Language",
     "section": "Course Description",
-    "text": "Course Description"
+    "text": "Course Description\nThis graduate seminar introduces principles and methods of second language vocabulary instruction in an EFL context. It explores essential research findings in Instructed Second Language Acquisition research and discusses practical applications of these research findings. Specific emphasis is put on developing skills on how to use corpus linguistic tools in developing and evaluating materials for effective vocabulary teaching and assessment."
   },
   {
-    "objectID": "publications/journal_articles/Uchihara-2022/index.html",
-    "href": "publications/journal_articles/Uchihara-2022/index.html",
-    "title": "To What Extent Is Collocation Knowledge Associated with Oral Proficiency? A Corpus-Based Approach to Word Association",
+    "objectID": "teaching/classes/Tohoku-2025/index.html#course-description",
+    "href": "teaching/classes/Tohoku-2025/index.html#course-description",
+    "title": "Linguistic Data Analysis I",
+    "section": "Course Description",
+    "text": "Course Description\nThis intensive 5-day graduate course introduces students to corpus linguistics and learner language analysis. Through hands-on activities and practical applications, you’ll learn to use computational tools to analyze linguistic data, with a special focus on learner corpora.\n\n Visit Course Website"
+  },
+  {
+    "objectID": "publications/journal_articles/Uchihara-2025/index.html",
+    "href": "publications/journal_articles/Uchihara-2025/index.html",
+    "title": "The Contribution of Guessing from Context and Dictionary Use to Receptive and Productive Vocabulary Knowledge: A Structural Equation Modeling Approach",
     "section": "",
-    "text": "This study examined the relationship between second language (L2) learners’ collocation knowledge and oral proficiency. A new approach to measuring collocation was adopted by eliciting responses through a word association task and using corpus-based measures (absolute frequency count, t-score, MI score) to analyze the degree to which stimulus words and responses were collocated. Oral proficiency was measured using human judgements and objective measures of fluency (articulation rate, silent pause ratio, filled pause ratio) and lexical richness (diversity, frequency, range). Forty Japanese university students completed a word association task and a spontaneous speaking task (picture narrative). Results indicated that speakers who used more low-frequency collocations in the word association task (i.e., lower collocation frequency scores) spoke faster with fewer silent pauses and were perceived to be more fluent. Speakers who provided more strongly associated collocations (as measured by MI) used more sophisticated lexical items and were perceived to be lexically proficient. Collocation knowledge remained as a unique predictor after the influence of learners’ vocabulary size (i.e., knowledge of single-word items) was considered. These findings support the key role that collocation plays in oral proficiency and provide important insights into understanding L2 speech development from the perspective of phraseological competence."
+    "text": "This study investigated the relationships between two vocabulary learning strategies (guessing from context and dictionary use) and two aspects of vocabulary knowledge (receptive and productive vocabulary knowledge). One hundred and thirty-five university students in Japan completed a vocabulary learning strategies survey, the Updated Vocabulary Levels Test, the Productive Vocabulary Levels Test, and Lex30. Results showed that the dictionary strategy significantly predicted receptive vocabulary knowledge, whereas no significant relationship between the guessing strategy and receptive vocabulary knowledge was observed. Neither guessing nor dictionary use significantly predicted productive vocabulary knowledge. Mediation analyses showed that dictionary use, but not guessing, had a significant indirect effect on productive lexicons via the development of receptive vocabulary knowledge. However, the extent to which the dictionary strategy is associated with productive vocabulary knowledge depended on how the knowledge was measured. The advantage of dictionary consultation in light of the quality of attention and type of focus induced by the strategy were discussed, and implications for second language (L2) vocabulary instruction were considered."
   },
   {
-    "objectID": "publications/journal_articles/Uchihara-2022/index.html#abstract",
-    "href": "publications/journal_articles/Uchihara-2022/index.html#abstract",
-    "title": "To What Extent Is Collocation Knowledge Associated with Oral Proficiency? A Corpus-Based Approach to Word Association",
+    "objectID": "publications/journal_articles/Uchihara-2025/index.html#abstract",
+    "href": "publications/journal_articles/Uchihara-2025/index.html#abstract",
+    "title": "The Contribution of Guessing from Context and Dictionary Use to Receptive and Productive Vocabulary Knowledge: A Structural Equation Modeling Approach",
     "section": "",
-    "text": "This study examined the relationship between second language (L2) learners’ collocation knowledge and oral proficiency. A new approach to measuring collocation was adopted by eliciting responses through a word association task and using corpus-based measures (absolute frequency count, t-score, MI score) to analyze the degree to which stimulus words and responses were collocated. Oral proficiency was measured using human judgements and objective measures of fluency (articulation rate, silent pause ratio, filled pause ratio) and lexical richness (diversity, frequency, range). Forty Japanese university students completed a word association task and a spontaneous speaking task (picture narrative). Results indicated that speakers who used more low-frequency collocations in the word association task (i.e., lower collocation frequency scores) spoke faster with fewer silent pauses and were perceived to be more fluent. Speakers who provided more strongly associated collocations (as measured by MI) used more sophisticated lexical items and were perceived to be lexically proficient. Collocation knowledge remained as a unique predictor after the influence of learners’ vocabulary size (i.e., knowledge of single-word items) was considered. These findings support the key role that collocation plays in oral proficiency and provide important insights into understanding L2 speech development from the perspective of phraseological competence."
+    "text": "This study investigated the relationships between two vocabulary learning strategies (guessing from context and dictionary use) and two aspects of vocabulary knowledge (receptive and productive vocabulary knowledge). One hundred and thirty-five university students in Japan completed a vocabulary learning strategies survey, the Updated Vocabulary Levels Test, the Productive Vocabulary Levels Test, and Lex30. Results showed that the dictionary strategy significantly predicted receptive vocabulary knowledge, whereas no significant relationship between the guessing strategy and receptive vocabulary knowledge was observed. Neither guessing nor dictionary use significantly predicted productive vocabulary knowledge. Mediation analyses showed that dictionary use, but not guessing, had a significant indirect effect on productive lexicons via the development of receptive vocabulary knowledge. However, the extent to which the dictionary strategy is associated with productive vocabulary knowledge depended on how the knowledge was measured. The advantage of dictionary consultation in light of the quality of attention and type of focus induced by the strategy were discussed, and implications for second language (L2) vocabulary instruction were considered."
   },
   {
-    "objectID": "publications/journal_articles/Uchihara-2022/index.html#apa-reference",
-    "href": "publications/journal_articles/Uchihara-2022/index.html#apa-reference",
-    "title": "To What Extent Is Collocation Knowledge Associated with Oral Proficiency? A Corpus-Based Approach to Word Association",
+    "objectID": "publications/journal_articles/Uchihara-2025/index.html#apa-reference",
+    "href": "publications/journal_articles/Uchihara-2025/index.html#apa-reference",
+    "title": "The Contribution of Guessing from Context and Dictionary Use to Receptive and Productive Vocabulary Knowledge: A Structural Equation Modeling Approach",
     "section": "APA Reference",
-    "text": "APA Reference\n\n\nUchihara, T., Eguchi, M., Clenton, J., Kyle, K., & Saito, K. (2022). To What Extent is Collocation Knowledge Associated with Oral Proficiency? A Corpus-Based Approach to Word Association. Language and Speech, 65(2), 311–336. https://doi.org/10.1177/00238309211013865"
+    "text": "APA Reference\n\n\nUchihara, T., Eguchi, M., & Clenton, J. (2025). The contribution of guessing from context and dictionary use to receptive and productive vocabulary knowledge: A structural equation modeling approach. Language Teaching Research, 29(6), 2583–2606. https://doi.org/10.1177/13621688221122138"
   },
   {
-    "objectID": "publications/journal_articles/Suzuki-2022a/index.html",
-    "href": "publications/journal_articles/Suzuki-2022a/index.html",
-    "title": "Does the Reuse of Constructions Promote Fluency Development in Task Repetition? A Usage-Based Perspective",
+    "objectID": "publications/journal_articles/Takatsu-2026/index.html",
+    "href": "publications/journal_articles/Takatsu-2026/index.html",
+    "title": "Gnowsis: Multimodal Multitask Learning for Oral Proficiency Assessments",
     "section": "",
-    "text": "In this task-repetition intervention study, L2 learners’ reuse of linguistic constructions was analyzed to investigate to what extent recurring reliance on specific constructions during the same task repetition predicts fluency development. English-as-a-foreign-language (EFL) learners performed oral narrative tasks three times per day under two task repetition schedules: blocked (Day 1: Prompt A-A-A, Day 2: B-B-B, Day 3: C-C-C) versus interleaved (Day 1: Prompt A-B-C, Day 2: A-B-C, Day 3: A-B-C). From a usage-based perspective, their reuse of constructions across the same prompt was examined at both concrete (lexical unigram [e.g., “bicycle”] and trigram [e.g., “behind the bicycle”]) and abstract (parts of speech trigram [e.g., “preposition determiner noun”]) level. Subsequent analyses revealed that blocked practice led to higher reuse of both concrete and abstract constructions than interleaved practice. Reuse frequency was correlated with during-training and pretest–posttest fluency changes. Particularly, greater reuse of lexical and abstract trigrams during interleaved practice led to improvements in speed and breakdown fluency (i.e., shorter mean syllable duration and fewer mid-clause pauses) after the intervention, albeit with higher effort (indicated by longer mid-clause and clause-final pauses). Taken together, these findings indicate that manipulating task-repetition schedule may systematically induce reuse of linguistic constructions, which may promote proceduralization (entrenchment) of constructional knowledge at both concrete and abstract levels."
+    "text": "Although oral proficiency assessments are crucial to understand second language (L2) learners’ progress, they are resource-intensive. Herein we propose a multimodal multitask learning model to assess L2 proficiency levels from multiple aspects on the basis of multimodal dialogue data. To construct the model, we first created a dataset of speech samples collected through oral proficiency interviews between Japanese learners of English and a conversational virtual agent. Expert human raters subsequently categorized the samples into the six levels based on the rating scales defined in the Common European Framework of Reference for Languages with respect to proficiency in one holistic and five analytic assessment criteria (vocabulary richness, grammatical accuracy, fluency, goodness of pronunciation, and coherence). The model was trained using this dataset via the multitask learning approach to simultaneously predict the proficiency levels of these language competences from various linguistic features. These features were extracted via multiple encoder modules, which were composed of feature extractors pretrained through various natural language processing tasks such as grammatical error correction, coreference resolution, discourse marker prediction, and pronunciation scoring. In experiments comparing the proposed model to baseline models with a feature extractor pretrained with single modality (textual or acoustic) features, the proposed model outperformed the baseline models. In particular, the proposed model was robust even with limited training data or short dialogues with a smaller number of topics because it considered rich features."
   },
   {
-    "objectID": "publications/journal_articles/Suzuki-2022a/index.html#abstract",
-    "href": "publications/journal_articles/Suzuki-2022a/index.html#abstract",
-    "title": "Does the Reuse of Constructions Promote Fluency Development in Task Repetition? A Usage-Based Perspective",
+    "objectID": "publications/journal_articles/Takatsu-2026/index.html#abstract",
+    "href": "publications/journal_articles/Takatsu-2026/index.html#abstract",
+    "title": "Gnowsis: Multimodal Multitask Learning for Oral Proficiency Assessments",
     "section": "",
-    "text": "In this task-repetition intervention study, L2 learners’ reuse of linguistic constructions was analyzed to investigate to what extent recurring reliance on specific constructions during the same task repetition predicts fluency development. English-as-a-foreign-language (EFL) learners performed oral narrative tasks three times per day under two task repetition schedules: blocked (Day 1: Prompt A-A-A, Day 2: B-B-B, Day 3: C-C-C) versus interleaved (Day 1: Prompt A-B-C, Day 2: A-B-C, Day 3: A-B-C). From a usage-based perspective, their reuse of constructions across the same prompt was examined at both concrete (lexical unigram [e.g., “bicycle”] and trigram [e.g., “behind the bicycle”]) and abstract (parts of speech trigram [e.g., “preposition determiner noun”]) level. Subsequent analyses revealed that blocked practice led to higher reuse of both concrete and abstract constructions than interleaved practice. Reuse frequency was correlated with during-training and pretest–posttest fluency changes. Particularly, greater reuse of lexical and abstract trigrams during interleaved practice led to improvements in speed and breakdown fluency (i.e., shorter mean syllable duration and fewer mid-clause pauses) after the intervention, albeit with higher effort (indicated by longer mid-clause and clause-final pauses). Taken together, these findings indicate that manipulating task-repetition schedule may systematically induce reuse of linguistic constructions, which may promote proceduralization (entrenchment) of constructional knowledge at both concrete and abstract levels."
+    "text": "Although oral proficiency assessments are crucial to understand second language (L2) learners’ progress, they are resource-intensive. Herein we propose a multimodal multitask learning model to assess L2 proficiency levels from multiple aspects on the basis of multimodal dialogue data. To construct the model, we first created a dataset of speech samples collected through oral proficiency interviews between Japanese learners of English and a conversational virtual agent. Expert human raters subsequently categorized the samples into the six levels based on the rating scales defined in the Common European Framework of Reference for Languages with respect to proficiency in one holistic and five analytic assessment criteria (vocabulary richness, grammatical accuracy, fluency, goodness of pronunciation, and coherence). The model was trained using this dataset via the multitask learning approach to simultaneously predict the proficiency levels of these language competences from various linguistic features. These features were extracted via multiple encoder modules, which were composed of feature extractors pretrained through various natural language processing tasks such as grammatical error correction, coreference resolution, discourse marker prediction, and pronunciation scoring. In experiments comparing the proposed model to baseline models with a feature extractor pretrained with single modality (textual or acoustic) features, the proposed model outperformed the baseline models. In particular, the proposed model was robust even with limited training data or short dialogues with a smaller number of topics because it considered rich features."
   },
   {
-    "objectID": "publications/journal_articles/Suzuki-2022a/index.html#apa-reference",
-    "href": "publications/journal_articles/Suzuki-2022a/index.html#apa-reference",
-    "title": "Does the Reuse of Constructions Promote Fluency Development in Task Repetition? A Usage-Based Perspective",
+    "objectID": "publications/journal_articles/Takatsu-2026/index.html#apa-reference",
+    "href": "publications/journal_articles/Takatsu-2026/index.html#apa-reference",
+    "title": "Gnowsis: Multimodal Multitask Learning for Oral Proficiency Assessments",
     "section": "APA Reference",
-    "text": "APA Reference\n\n\nSuzuki, Y., Eguchi, M., & De Jong, N. (2022). Does the Reuse of Constructions Promote Fluency Development in Task Repetition? A Usage-Based Perspective. TESOL Quarterly, 56(4), 1290–1319. https://doi.org/10.1002/tesq.3103"
+    "text": "APA Reference\n\n\nTakatsu, H., Suzuki, S., Eguchi, M., Matsuura, R., Saeki, M., & Matsuyama, Y. (2026). Gnowsis: Multimodal Multitask Learning for Oral Proficiency Assessments. Computer Speech & Language, 95, 101860. https://doi.org/10.1016/j.csl.2025.101860"
   },
   {
-    "objectID": "publications/journal_articles/Maie-2024/index.html",
-    "href": "publications/journal_articles/Maie-2024/index.html",
-    "title": "Arbitrary Choices, Arbitrary Results: Three Cases of Multiverse Analysis in L2 Research",
+    "objectID": "publications/journal_articles/Mizumoto-2023a/index.html",
+    "href": "publications/journal_articles/Mizumoto-2023a/index.html",
+    "title": "Exploring the Potential of Using an AI Language Model for Automated Essay Scoring",
     "section": "",
-    "text": "Research studies typically involve a series of decisions on how data should be collected, processed, and analyzed. In this decision-making process, there often exists great flexibility, involving more or less equally reasonable options. The inherent flexibility introduces researcher degrees of freedom, where the choices made throughout the research process can significantly affect study outcomes. In this article, we introduce multiverse analysis as a viable approach to mitigating researcher degrees of freedom and enhancing research transparency. Multiverse analysis entails declaring multiple equally plausible options to collect, process, and analyze data, and performing all analyses across the entire set. We present worked examples of multiverse analysis in three subareas of applied linguistics research (psycholinguistic research, vocabulary research, and corpus research) by reanalyzing data from our own published studies. We showcase how seemingly innocuous decisions made by researchers can lead to variations in research outcomes and sometimes divergent conclusions. Through the examples, we discuss how one may reason against the variation in statistical results and propose recommendations for future research."
+    "text": "The widespread adoption of ChatGPT, an AI language model, has the potential to bring about significant changes to the research, teaching, and learning of foreign languages. The present study aims to leverage this technology to perform automated essay scoring (AES) and evaluate its reliability and accuracy. Specifically, we utilized the GPT-3 text-davinci-003 model to automatically score all 12,100 essays contained in the ETS Corpus of Non-Native Written English (TOEFL11) and compared these scores to benchmark levels. The study also explored the extent to which linguistic features influence AES with GPT. The results showed that AES using GPT has a certain level of accuracy and reliability and could provide valuable support for human evaluations. Furthermore, the analysis revealed that utilizing linguistic features could enhance the accuracy of the scoring. These findings suggest that AI language models, such as ChatGPT, can be effectively utilized as AES tools, potentially revolutionizing methods of writing evaluation and feedback in both research and practice. The paper concludes by discussing the practical implications of using GPT for AES and exploring prospective future considerations."
   },
   {
-    "objectID": "publications/journal_articles/Maie-2024/index.html#abstract",
-    "href": "publications/journal_articles/Maie-2024/index.html#abstract",
-    "title": "Arbitrary Choices, Arbitrary Results: Three Cases of Multiverse Analysis in L2 Research",
+    "objectID": "publications/journal_articles/Mizumoto-2023a/index.html#abstract",
+    "href": "publications/journal_articles/Mizumoto-2023a/index.html#abstract",
+    "title": "Exploring the Potential of Using an AI Language Model for Automated Essay Scoring",
     "section": "",
-    "text": "Research studies typically involve a series of decisions on how data should be collected, processed, and analyzed. In this decision-making process, there often exists great flexibility, involving more or less equally reasonable options. The inherent flexibility introduces researcher degrees of freedom, where the choices made throughout the research process can significantly affect study outcomes. In this article, we introduce multiverse analysis as a viable approach to mitigating researcher degrees of freedom and enhancing research transparency. Multiverse analysis entails declaring multiple equally plausible options to collect, process, and analyze data, and performing all analyses across the entire set. We present worked examples of multiverse analysis in three subareas of applied linguistics research (psycholinguistic research, vocabulary research, and corpus research) by reanalyzing data from our own published studies. We showcase how seemingly innocuous decisions made by researchers can lead to variations in research outcomes and sometimes divergent conclusions. Through the examples, we discuss how one may reason against the variation in statistical results and propose recommendations for future research."
+    "text": "The widespread adoption of ChatGPT, an AI language model, has the potential to bring about significant changes to the research, teaching, and learning of foreign languages. The present study aims to leverage this technology to perform automated essay scoring (AES) and evaluate its reliability and accuracy. Specifically, we utilized the GPT-3 text-davinci-003 model to automatically score all 12,100 essays contained in the ETS Corpus of Non-Native Written English (TOEFL11) and compared these scores to benchmark levels. The study also explored the extent to which linguistic features influence AES with GPT. The results showed that AES using GPT has a certain level of accuracy and reliability and could provide valuable support for human evaluations. Furthermore, the analysis revealed that utilizing linguistic features could enhance the accuracy of the scoring. These findings suggest that AI language models, such as ChatGPT, can be effectively utilized as AES tools, potentially revolutionizing methods of writing evaluation and feedback in both research and practice. The paper concludes by discussing the practical implications of using GPT for AES and exploring prospective future considerations."
   },
   {
-    "objectID": "publications/journal_articles/Maie-2024/index.html#apa-reference",
-    "href": "publications/journal_articles/Maie-2024/index.html#apa-reference",
-    "title": "Arbitrary Choices, Arbitrary Results: Three Cases of Multiverse Analysis in L2 Research",
+    "objectID": "publications/journal_articles/Mizumoto-2023a/index.html#apa-reference",
+    "href": "publications/journal_articles/Mizumoto-2023a/index.html#apa-reference",
+    "title": "Exploring the Potential of Using an AI Language Model for Automated Essay Scoring",
     "section": "APA Reference",
-    "text": "APA Reference\n\n\nMaie, R., Eguchi, M., & Uchihara, T. (2024). Arbitrary choices, arbitrary results: Three cases of multiverse analysis in L2 research. Research Methods in Applied Linguistics, 3(2), 100124. https://doi.org/10.1016/j.rmal.2024.100124"
+    "text": "APA Reference\n\n\nMizumoto, A., & Eguchi, M. (2023). Exploring the potential of using an AI language model for automated essay scoring. Research Methods in Applied Linguistics, 2(2), 100050. https://doi.org/10.1016/j.rmal.2023.100050"
   },
   {
-    "objectID": "publications/journal_articles/Kyle-2024/index.html",
-    "href": "publications/journal_articles/Kyle-2024/index.html",
-    "title": "Evaluating Evidence for the Reliability and Validity of Lexical Diversity Indices in L2 Oral Task Responses",
+    "objectID": "publications/journal_articles/Kyle-2024a/index.html",
+    "href": "publications/journal_articles/Kyle-2024a/index.html",
+    "title": "Evaluating NLP Models with Written and Spoken L2 Samples",
     "section": "",
-    "text": "Although lexical diversity is often used as a measure of productive proficiency (e.g., as an aspect of lexical complexity) in SLA studies involving oral tasks, relatively little research has been conducted to support the reliability and/or validity of these indices in spoken contexts. Furthermore, SLA researchers commonly use indices of lexical diversity such as Root TTR (Guiraud’s index) and D (vocd-D and HD-D) that have been preliminarily shown to lack reliability in spoken L2 contexts and/or have been consistently shown to lack reliability in written L2 contexts. In this study, we empirically evaluate lexical diversity indices with respect to two aspects of reliability (text-length independence and across-task stability) and one aspect of validity (relationship with proficiency scores). The results indicated that neither Root TTR nor D is reliable across different text lengths. However, support for the reliability and validity of optimized versions of MATTR and MTLD was found."
+    "text": "The use of natural language processing tools such as part-of-speech taggers and syntactic parsers are increasingly being used in studies of second language (L2) proficiency and development. However, relatively little work has focused on reporting on the accuracy of these tools or optimizing their performance in L2 contexts. While some studies reference the published overall accuracy of a particular tool or include a small-scale accuracy analysis, very few (if any) studies provide a comprehensive account of the performance of taggers and parsers across a range of written and spoken registers. In this study, we provide a large-scale accuracy analysis of popular taggers and parsers across L1 and L2 written and spoken texts, both when default and L2optimized models are used. Accuracy is examined both at the feature level (e.g., identifying adjective-noun relationships) and the text level (e.g., mean mutual information scores). The results highlight the strength and weaknesses of these tools."
   },
   {
-    "objectID": "publications/journal_articles/Kyle-2024/index.html#abstract",
-    "href": "publications/journal_articles/Kyle-2024/index.html#abstract",
-    "title": "Evaluating Evidence for the Reliability and Validity of Lexical Diversity Indices in L2 Oral Task Responses",
+    "objectID": "publications/journal_articles/Kyle-2024a/index.html#abstract",
+    "href": "publications/journal_articles/Kyle-2024a/index.html#abstract",
+    "title": "Evaluating NLP Models with Written and Spoken L2 Samples",
     "section": "",
-    "text": "Although lexical diversity is often used as a measure of productive proficiency (e.g., as an aspect of lexical complexity) in SLA studies involving oral tasks, relatively little research has been conducted to support the reliability and/or validity of these indices in spoken contexts. Furthermore, SLA researchers commonly use indices of lexical diversity such as Root TTR (Guiraud’s index) and D (vocd-D and HD-D) that have been preliminarily shown to lack reliability in spoken L2 contexts and/or have been consistently shown to lack reliability in written L2 contexts. In this study, we empirically evaluate lexical diversity indices with respect to two aspects of reliability (text-length independence and across-task stability) and one aspect of validity (relationship with proficiency scores). The results indicated that neither Root TTR nor D is reliable across different text lengths. However, support for the reliability and validity of optimized versions of MATTR and MTLD was found."
+    "text": "The use of natural language processing tools such as part-of-speech taggers and syntactic parsers are increasingly being used in studies of second language (L2) proficiency and development. However, relatively little work has focused on reporting on the accuracy of these tools or optimizing their performance in L2 contexts. While some studies reference the published overall accuracy of a particular tool or include a small-scale accuracy analysis, very few (if any) studies provide a comprehensive account of the performance of taggers and parsers across a range of written and spoken registers. In this study, we provide a large-scale accuracy analysis of popular taggers and parsers across L1 and L2 written and spoken texts, both when default and L2optimized models are used. Accuracy is examined both at the feature level (e.g., identifying adjective-noun relationships) and the text level (e.g., mean mutual information scores). The results highlight the strength and weaknesses of these tools."
   },
   {
-    "objectID": "publications/journal_articles/Kyle-2024/index.html#apa-reference",
-    "href": "publications/journal_articles/Kyle-2024/index.html#apa-reference",
-    "title": "Evaluating Evidence for the Reliability and Validity of Lexical Diversity Indices in L2 Oral Task Responses",
+    "objectID": "publications/journal_articles/Kyle-2024a/index.html#apa-reference",
+    "href": "publications/journal_articles/Kyle-2024a/index.html#apa-reference",
+    "title": "Evaluating NLP Models with Written and Spoken L2 Samples",
     "section": "APA Reference",
-    "text": "APA Reference\n\n\nKyle, K., Sung, H., Eguchi, M., & Zenker, F. (2024). Evaluating evidence for the reliability and validity of lexical diversity indices in L2 oral task responses. Studies in Second Language Acquisition, 46(1), 278–299. https://doi.org/10.1017/S0272263123000402"
+    "text": "APA Reference\n\n\nKyle, K., & Eguchi, M. (2024). Evaluating NLP models with written and spoken L2 samples. Research Methods in Applied Linguistics, 3(2), 100120. https://doi.org/10.1016/j.rmal.2024.100120"
   },
   {
-    "objectID": "publications/journal_articles/Kyle-2022a/index.html",
-    "href": "publications/journal_articles/Kyle-2022a/index.html",
-    "title": "Register Variation in Spoken and Written Language Use across Technology-Mediated and Non-Technology-Mediated Learning Environments",
+    "objectID": "publications/journal_articles/Kyle-2023/index.html",
+    "href": "publications/journal_articles/Kyle-2023/index.html",
+    "title": "Assessing Spoken Lexical and Lexicogrammatical Proficiency Using Features of Word, Bigram, and Dependency Bigram Use",
     "section": "",
-    "text": "In the realm of language proficiency assessments, the domain description inference and the extrapolation inference are key components of a validity argument. Biber et al.’s description of the lexicogrammatical features of the spoken and written registers in the T2K-SWAL corpus has served as support for the TOEFL iBT test’s domain description and extrapolation inferences. In the time since the T2K-SWAL corpus was collected, however, university learning environments have increasingly become technology-mediated. Accordingly, any description of the linguistic features of university language should account for the language produced in technology-mediated learning environments (TMLEs) in addition to non-technology-mediated learning environments (nonTMLEs). Kyle et al. recently began to address this issue by collecting a corpus of TMLE language use, which they then compared to language use in non-TMLEs using multidimensional analysis (MDA). The results indicated both similarities and substantive differences across the learning environments, but the study did not investigate the effects of particular registers on these results. In this study, we build on previous research by investigating lexicogrammatical features of specific spoken and written registers across technology-mediated and non-technology-mediated learning environments."
+    "text": "The measurement of second language (L2) productive lexical proficiency has driven a great deal of research over the past two decades. Research has indicated that more proficient speakers and writers tend to use a wider range of words and that more proficient writers tend to use words that are more sophisticated (less frequent in reference corpora). Research over the past 15 years has also demonstrated that the way words are used in context (i.e., collocation use) is also an important indicator of both written and spoken proficiency. In this study, we extend recent research that has modeled writing proficiency using collocation indices based on grammatical dependencies (e.g., verb–direct object) to spoken contexts. In particular, we model speaking proficiency scores from a large corpus of oral proficiency interview responses using a range of well-known indices of productive proficiency and newly developed grammatical dependency indices. The results indicated that all index types demonstrated small to moderate correlations with speaking proficiency individually but explained a large proportion of the variance when used in a multivariate model that included dependency collocation indices."
   },
   {
-    "objectID": "publications/journal_articles/Kyle-2022a/index.html#abstract",
-    "href": "publications/journal_articles/Kyle-2022a/index.html#abstract",
-    "title": "Register Variation in Spoken and Written Language Use across Technology-Mediated and Non-Technology-Mediated Learning Environments",
+    "objectID": "publications/journal_articles/Kyle-2023/index.html#abstract",
+    "href": "publications/journal_articles/Kyle-2023/index.html#abstract",
+    "title": "Assessing Spoken Lexical and Lexicogrammatical Proficiency Using Features of Word, Bigram, and Dependency Bigram Use",
     "section": "",
-    "text": "In the realm of language proficiency assessments, the domain description inference and the extrapolation inference are key components of a validity argument. Biber et al.’s description of the lexicogrammatical features of the spoken and written registers in the T2K-SWAL corpus has served as support for the TOEFL iBT test’s domain description and extrapolation inferences. In the time since the T2K-SWAL corpus was collected, however, university learning environments have increasingly become technology-mediated. Accordingly, any description of the linguistic features of university language should account for the language produced in technology-mediated learning environments (TMLEs) in addition to non-technology-mediated learning environments (nonTMLEs). Kyle et al. recently began to address this issue by collecting a corpus of TMLE language use, which they then compared to language use in non-TMLEs using multidimensional analysis (MDA). The results indicated both similarities and substantive differences across the learning environments, but the study did not investigate the effects of particular registers on these results. In this study, we build on previous research by investigating lexicogrammatical features of specific spoken and written registers across technology-mediated and non-technology-mediated learning environments."
+    "text": "The measurement of second language (L2) productive lexical proficiency has driven a great deal of research over the past two decades. Research has indicated that more proficient speakers and writers tend to use a wider range of words and that more proficient writers tend to use words that are more sophisticated (less frequent in reference corpora). Research over the past 15 years has also demonstrated that the way words are used in context (i.e., collocation use) is also an important indicator of both written and spoken proficiency. In this study, we extend recent research that has modeled writing proficiency using collocation indices based on grammatical dependencies (e.g., verb–direct object) to spoken contexts. In particular, we model speaking proficiency scores from a large corpus of oral proficiency interview responses using a range of well-known indices of productive proficiency and newly developed grammatical dependency indices. The results indicated that all index types demonstrated small to moderate correlations with speaking proficiency individually but explained a large proportion of the variance when used in a multivariate model that included dependency collocation indices."
   },
   {
-    "objectID": "publications/journal_articles/Kyle-2022a/index.html#apa-reference",
-    "href": "publications/journal_articles/Kyle-2022a/index.html#apa-reference",
-    "title": "Register Variation in Spoken and Written Language Use across Technology-Mediated and Non-Technology-Mediated Learning Environments",
+    "objectID": "publications/journal_articles/Kyle-2023/index.html#apa-reference",
+    "href": "publications/journal_articles/Kyle-2023/index.html#apa-reference",
+    "title": "Assessing Spoken Lexical and Lexicogrammatical Proficiency Using Features of Word, Bigram, and Dependency Bigram Use",
     "section": "APA Reference",
-    "text": "APA Reference\n\n\nKyle, K., Eguchi, M., Choe, A. T., & LaFlair, G. (2022). Register variation in spoken and written language use across technology-mediated and non-technology-mediated learning environments. Language Testing, 39(4), 618–648. https://doi.org/10.1177/02655322211057868"
+    "text": "APA Reference\n\n\nKyle, K., & Eguchi, M. (2023). Assessing spoken lexical and lexicogrammatical proficiency using features of word, bigram, and dependency bigram use. The Modern Language Journal, 107(2), 531–564. https://doi.org/10.1111/modl.12845"
   },
   {
-    "objectID": "publications/journal_articles/Kormos-2022/index.html",
-    "href": "publications/journal_articles/Kormos-2022/index.html",
-    "title": "The Role of Input Modality and Vocabulary Knowledge in Alignment in Reading-to-Speaking Tasks",
+    "objectID": "publications/journal_articles/Kyle-2021c/index.html",
+    "href": "publications/journal_articles/Kyle-2021c/index.html",
+    "title": "A Comparison of Spoken and Written Language Use in Traditional and textscTechnologytextsc-textscMediated Learning Environments",
     "section": "",
-    "text": "Our study investigated lexical alignment in a reading-to-speaking task, in two modalities of input text presentation. We also explored whether participants’ vocabulary knowledge moderates the effects of text modality and difficulty on lexical alignment. We addressed these questions by analyzing lexical overlap in the speech of 128 Japanese learners of English. Students were asked to summarize the information given in two different expository informational texts that were presented in reading-only mode and in reading-while-listening mode, using a within-subject design. The results showed that participants produced fewer overlapping 5-grams in readingwhile-listening condition than in the reading-only condition. However for shorter n-grams no significant differences between modes of exposure were found. Students with larger vocabulary size produced less lexical overlap with the input text at the level of single words. We discuss the implications of the findings of the study for language teaching pedagogy."
+    "text": "A key piece of a validity argument for a language assessment tool is clear overlap between assessment tasks and the target language use (TLU) domain (i.e., the domain description inference). The TOEFL 2000 Spoken and Written Academic Language (T2K-SWAL) corpus, which represents a variety of academic registers and disciplines in traditional learning environments (e.g., lectures, office hours, textbooks, course packs), has served as an important foundation for the TOEFL iBT® test’s domain description inference for more than 15 years. There are, however, signs that the characteristics of the registers that students encounter may be changing. Increasingly, typical university courses include technology-mediated learning environments (TMLEs), such as those represented by course management software and other online educational tools. To ensure that the characteristics of TOEFL iBT test tasks continue to align with the TLU domain, it is important to analyze the registers that are typically encountered in TMLEs. In this study, we address this issue by collecting a relatively large (4.5 million words) corpus of spoken and written TMLE registers across the six primary disciplines represented in T2KSWAL. This corpus was subsequently tagged for a wide variety of linguistic features, and a multidimensional analysis was conducted to compare and contrast written and spoken language in TMLE and T2K-SWAL. The results indicate that although some similarities exist across spoken and written texts in traditional learning environments and TMLEs, language use also differs across learning environments (and modes) with regard to key linguistic dimensions."
   },
   {
-    "objectID": "publications/journal_articles/Kormos-2022/index.html#abstract",
-    "href": "publications/journal_articles/Kormos-2022/index.html#abstract",
-    "title": "The Role of Input Modality and Vocabulary Knowledge in Alignment in Reading-to-Speaking Tasks",
+    "objectID": "publications/journal_articles/Kyle-2021c/index.html#abstract",
+    "href": "publications/journal_articles/Kyle-2021c/index.html#abstract",
+    "title": "A Comparison of Spoken and Written Language Use in Traditional and textscTechnologytextsc-textscMediated Learning Environments",
     "section": "",
-    "text": "Our study investigated lexical alignment in a reading-to-speaking task, in two modalities of input text presentation. We also explored whether participants’ vocabulary knowledge moderates the effects of text modality and difficulty on lexical alignment. We addressed these questions by analyzing lexical overlap in the speech of 128 Japanese learners of English. Students were asked to summarize the information given in two different expository informational texts that were presented in reading-only mode and in reading-while-listening mode, using a within-subject design. The results showed that participants produced fewer overlapping 5-grams in readingwhile-listening condition than in the reading-only condition. However for shorter n-grams no significant differences between modes of exposure were found. Students with larger vocabulary size produced less lexical overlap with the input text at the level of single words. We discuss the implications of the findings of the study for language teaching pedagogy."
+    "text": "A key piece of a validity argument for a language assessment tool is clear overlap between assessment tasks and the target language use (TLU) domain (i.e., the domain description inference). The TOEFL 2000 Spoken and Written Academic Language (T2K-SWAL) corpus, which represents a variety of academic registers and disciplines in traditional learning environments (e.g., lectures, office hours, textbooks, course packs), has served as an important foundation for the TOEFL iBT® test’s domain description inference for more than 15 years. There are, however, signs that the characteristics of the registers that students encounter may be changing. Increasingly, typical university courses include technology-mediated learning environments (TMLEs), such as those represented by course management software and other online educational tools. To ensure that the characteristics of TOEFL iBT test tasks continue to align with the TLU domain, it is important to analyze the registers that are typically encountered in TMLEs. In this study, we address this issue by collecting a relatively large (4.5 million words) corpus of spoken and written TMLE registers across the six primary disciplines represented in T2KSWAL. This corpus was subsequently tagged for a wide variety of linguistic features, and a multidimensional analysis was conducted to compare and contrast written and spoken language in TMLE and T2K-SWAL. The results indicate that although some similarities exist across spoken and written texts in traditional learning environments and TMLEs, language use also differs across learning environments (and modes) with regard to key linguistic dimensions."
   },
   {
-    "objectID": "publications/journal_articles/Kormos-2022/index.html#apa-reference",
-    "href": "publications/journal_articles/Kormos-2022/index.html#apa-reference",
-    "title": "The Role of Input Modality and Vocabulary Knowledge in Alignment in Reading-to-Speaking Tasks",
+    "objectID": "publications/journal_articles/Kyle-2021c/index.html#apa-reference",
+    "href": "publications/journal_articles/Kyle-2021c/index.html#apa-reference",
+    "title": "A Comparison of Spoken and Written Language Use in Traditional and textscTechnologytextsc-textscMediated Learning Environments",
     "section": "APA Reference",
-    "text": "APA Reference\n\n\nKormos, J., Suzuki, S., & Eguchi, M. (2022). The role of input modality and vocabulary knowledge in alignment in reading-to-speaking tasks. System, 108, 102854. https://doi.org/10.1016/j.system.2022.102854"
+    "text": "APA Reference\n\n\nKyle, K., Choe, A. T., Eguchi, M., LaFlair, G., & Ziegler, N. (2021). A Comparison of Spoken and Written Language Use in Traditional and Technology-Mediated Learning Environments. ETS Research Report Series, 2021(1), 1–29. https://doi.org/10.1002/ets2.12329"
   },
   {
-    "objectID": "publications/journal_articles/Eguchi-2024-RMAL/index.html",
-    "href": "publications/journal_articles/Eguchi-2024-RMAL/index.html",
-    "title": "Building Custom NLP Tools to Annotate Discourse-Functional Features for Second Language Writing Research: A Tutorial",
+    "objectID": "publications/journal_articles/Eguchi-2025-TQ/index.html",
+    "href": "publications/journal_articles/Eguchi-2025-TQ/index.html",
+    "title": "Human- versus artificial intelligence-delivered roleplay tasks for assessing interactional competence: An applied conversation analytic study",
     "section": "",
-    "text": "The current tutorial paper describes a process of developing a custom natural language processing model with a particular focus on a discourse annotation task. After an overview of recent developments in natural language processing (NLP), the paper discusses the development of the Engagement Analyzer ((Eguchi & Kyle, 2023)), focusing on corpus annotation, the machine learning model, model training, evaluation, and dissemination. A step-by-step tutorial of this process via the spaCy Python package is provided. The paper highlights the feasibility of developing custom NLP tools to enhance the scalability and replicability of the annotation of context-sensitive linguistic features in L2 writing research."
+    "text": "This study investigates the nature of co-construction in roleplays conducted with human versus AI interlocutors for assessing interactional competence (IC) in L2 English. Seventy-five university students in Japan completed roleplay tasks with both human tutors and an AI agent. The AI agent is a multimodal dialog system integrated with a large language model (LLM), designed to allow synchronous interaction with the participant through autonomous turn-taking. Using conversation analysis, 24 interactions were analyzed to investigate how participants managed preference organization, sequence expansion, and turn-taking. The analysis revealed that the AI-delivered roleplays elicited some IC-relevant practices and that participants treated the roleplay as a co-constructed interaction, responding contingently to the AI’s contributions. While the data suggested both human and AI interlocutors maintained mutual understanding, striking differences in turn-taking practices were observed, including more frequent overlaps and inter-turn gaps in the AI-delivered condition. The study concludes that LLM-integrated multimodal dialog systems, by producing recognizable verbal actions and multimodal signals, have the potential to effectively elicit co-constructed interactional performances relevant to IC assessment."
   },
   {
-    "objectID": "publications/journal_articles/Eguchi-2024-RMAL/index.html#abstract",
-    "href": "publications/journal_articles/Eguchi-2024-RMAL/index.html#abstract",
-    "title": "Building Custom NLP Tools to Annotate Discourse-Functional Features for Second Language Writing Research: A Tutorial",
+    "objectID": "publications/journal_articles/Eguchi-2025-TQ/index.html#abstract",
+    "href": "publications/journal_articles/Eguchi-2025-TQ/index.html#abstract",
+    "title": "Human- versus artificial intelligence-delivered roleplay tasks for assessing interactional competence: An applied conversation analytic study",
     "section": "",
-    "text": "The current tutorial paper describes a process of developing a custom natural language processing model with a particular focus on a discourse annotation task. After an overview of recent developments in natural language processing (NLP), the paper discusses the development of the Engagement Analyzer ((Eguchi & Kyle, 2023)), focusing on corpus annotation, the machine learning model, model training, evaluation, and dissemination. A step-by-step tutorial of this process via the spaCy Python package is provided. The paper highlights the feasibility of developing custom NLP tools to enhance the scalability and replicability of the annotation of context-sensitive linguistic features in L2 writing research."
+    "text": "This study investigates the nature of co-construction in roleplays conducted with human versus AI interlocutors for assessing interactional competence (IC) in L2 English. Seventy-five university students in Japan completed roleplay tasks with both human tutors and an AI agent. The AI agent is a multimodal dialog system integrated with a large language model (LLM), designed to allow synchronous interaction with the participant through autonomous turn-taking. Using conversation analysis, 24 interactions were analyzed to investigate how participants managed preference organization, sequence expansion, and turn-taking. The analysis revealed that the AI-delivered roleplays elicited some IC-relevant practices and that participants treated the roleplay as a co-constructed interaction, responding contingently to the AI’s contributions. While the data suggested both human and AI interlocutors maintained mutual understanding, striking differences in turn-taking practices were observed, including more frequent overlaps and inter-turn gaps in the AI-delivered condition. The study concludes that LLM-integrated multimodal dialog systems, by producing recognizable verbal actions and multimodal signals, have the potential to effectively elicit co-constructed interactional performances relevant to IC assessment."
   },
   {
-    "objectID": "publications/journal_articles/Eguchi-2024-RMAL/index.html#apa-reference",
-    "href": "publications/journal_articles/Eguchi-2024-RMAL/index.html#apa-reference",
-    "title": "Building Custom NLP Tools to Annotate Discourse-Functional Features for Second Language Writing Research: A Tutorial",
-    "section": "APA reference",
-    "text": "APA reference\n\n\nEguchi, M., & Kyle, K. (2023). Span Identification of Epistemic Stance-Taking in Academic Written English. Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023), 429–442. https://doi.org/10.18653/v1/2023.bea-1.35\n\n\nEguchi, M., & Kyle, K. (2024). Building custom NLP tools to annotate discourse-functional features for second language writing research: A tutorial. Research Methods in Applied Linguistics, 3(3), 100153. https://doi.org/10.1016/j.rmal.2024.100153"
+    "objectID": "publications/journal_articles/Eguchi-2025-TQ/index.html#citation",
+    "href": "publications/journal_articles/Eguchi-2025-TQ/index.html#citation",
+    "title": "Human- versus artificial intelligence-delivered roleplay tasks for assessing interactional competence: An applied conversation analytic study",
+    "section": "Citation",
+    "text": "Citation"
   },
   {
-    "objectID": "publications/journal_articles/Eguchi-2022a/index.html",
-    "href": "publications/journal_articles/Eguchi-2022a/index.html",
-    "title": "Modeling Lexical and Phraseological Sophistication in Oral Proficiency Interviews: A Conceptual Replication",
-    "section": "",
-    "text": "Building on previous studies investigating the multidimensional nature of lexical use in task-based L2 performance, this study clarified the roles that the distinct lexical features play in predicting vocabulary proficiency in a corpus of L2 Oral Proficiency Interviews (OPI). A total of 85 OPI samples were rated by three separate raters based on a Common European Frame of Reference (CEFR) based rubric in terms of their linguistic range. The interview transcription was analyzed for 56 lexical and phraseological indices using modern natural language processing tools. The result of an exploratory factor analysis (EFA) revealed that the 56 indices tapped into 10 distinct factors of lexical use in OPI: three factors related to content words, three related to n-grams, three lexical collocation factors, and one function-word factor. A subsequent Bayesian mixed-effect ordinal regression indicated that six out of the 10 factors meaningfully predicted the CEFR levels on Range with reasonable accuracy (quadratic kappa coefficient = .81 with the human rating). The result highlights the distinct roles that multiple content-word, collocation, and function-word factors play in characterizing the linguistic range in a CEFR-based assessment of OPI. The implication for the assessment of lexical richness, as well as future directions of this research domain, are discussed."
-  },
-  {
-    "objectID": "publications/journal_articles/Eguchi-2022a/index.html#abstract",
-    "href": "publications/journal_articles/Eguchi-2022a/index.html#abstract",
-    "title": "Modeling Lexical and Phraseological Sophistication in Oral Proficiency Interviews: A Conceptual Replication",
-    "section": "",
-    "text": "Building on previous studies investigating the multidimensional nature of lexical use in task-based L2 performance, this study clarified the roles that the distinct lexical features play in predicting vocabulary proficiency in a corpus of L2 Oral Proficiency Interviews (OPI). A total of 85 OPI samples were rated by three separate raters based on a Common European Frame of Reference (CEFR) based rubric in terms of their linguistic range. The interview transcription was analyzed for 56 lexical and phraseological indices using modern natural language processing tools. The result of an exploratory factor analysis (EFA) revealed that the 56 indices tapped into 10 distinct factors of lexical use in OPI: three factors related to content words, three related to n-grams, three lexical collocation factors, and one function-word factor. A subsequent Bayesian mixed-effect ordinal regression indicated that six out of the 10 factors meaningfully predicted the CEFR levels on Range with reasonable accuracy (quadratic kappa coefficient = .81 with the human rating). The result highlights the distinct roles that multiple content-word, collocation, and function-word factors play in characterizing the linguistic range in a CEFR-based assessment of OPI. The implication for the assessment of lexical richness, as well as future directions of this research domain, are discussed."
-  },
-  {
-    "objectID": "publications/journal_articles/Eguchi-2022a/index.html#apa-reference",
-    "href": "publications/journal_articles/Eguchi-2022a/index.html#apa-reference",
-    "title": "Modeling Lexical and Phraseological Sophistication in Oral Proficiency Interviews: A Conceptual Replication",
+    "objectID": "publications/journal_articles/Eguchi-2023a/index.html#apa-reference",
+    "href": "publications/journal_articles/Eguchi-2023a/index.html#apa-reference",
+    "title": "L2 Collocation Profiles and Their Relationship with Vocabulary Proficiency: A Learner Corpus Approach",
     "section": "APA Reference",
-    "text": "APA Reference\n\n\nEguchi, M. (2022). Modeling Lexical and Phraseological Sophistication in Oral Proficiency Interviews: A Conceptual Replication. Vocabulary Learning and Instruction, 11(2), 1–16. https://doi.org/10.7820/vli.v11.2.Eguchi"
+    "text": "APA Reference\n\n\nEguchi, M., & Kyle, K. (2023). L2 collocation profiles and their relationship with vocabulary proficiency: A learner corpus approach. Journal of Second Language Writing, 60, 100975. https://doi.org/10.1016/j.jslw.2023.100975"
   },
   {
-    "objectID": "publications/journal_articles/Eguchi-2020/index.html",
-    "href": "publications/journal_articles/Eguchi-2020/index.html",
-    "title": "Continuing to Explore the Multidimensional Nature of Lexical Sophistication: The Case of Oral Proficiency Interviews",
+    "objectID": "publications/journal_articles/Eguchi-2022/index.html",
+    "href": "publications/journal_articles/Eguchi-2022/index.html",
+    "title": "LEXICAL COMPETENCE UNDERLYING SECOND LANGUAGE WORD ASSOCIATION TASKS: EXAMINING THE CONSTRUCT VALIDITY OF RESPONSE TYPE AND RESPONSE TIME MEASURES",
     "section": "",
-    "text": "Lexical sophistication has been an important indicator of productive lexical proficiency for almost 30 years. Although lexical sophistication has most often been operationalized as the proportion of low frequency words in a text, a growing body of research has indicated that a number of indices such as concreteness, hypernymy, and n-gram association strengths meaningfully contribute to the construct. While the increase in available indices has expanded our understanding of the multidimensional construct, the sheer number of indices presents a practical barrier for researchers. Although some studies have begun to address this issue, most have been confined to the analysis of argumentative tasks, which are not necessarily representative of the range of tasks learners may encounter. This study therefore investigates the structure of lexical sophistication indices in a large learner corpus of English second language (L2) oral proficiency interviews (OPIs). An exploratory factor analysis identified 10 factors, 7 of which explained approximately 58% of the variance in OPI scores in a follow-up regression analysis. The results suggest that while some features of lexical sophistication (e.g., concreteness) may be task independent, others (e.g., frequency) may be task specific."
+    "text": "This study investigated the constructs underlying second language (L2) word association (WA) with regard to three dimensions of lexical competence—size, organization, and accessibility—and the lexical performance of speech. One-hundred and thirteen Japanese learners of English completed a computer-delivered oral WA task along with three vocabulary tasks: a formrecall gap-filling task (size), a primed lexical decision task (organization and accessibility), and an oral cartoon narrative (lexical richness). Regression analyses explored how well these lexical competence and performance scores predicted two WA outcome variables: response profiles and response times. Form-recall vocabulary knowledge, (collocational) priming, and lexical richness explained a large amount of variance in WA response type profiles (Nagelkerke’s pseudo R2 = .901). Form-recall vocabulary knowledge and lexical decision time explained 28.5% of the variance of WA response times. A three-stage model of L2 WA task performance is proposed to account for the constructs underlying WA performance."
   },
   {
-    "objectID": "publications/journal_articles/Eguchi-2020/index.html#abstract",
-    "href": "publications/journal_articles/Eguchi-2020/index.html#abstract",
-    "title": "Continuing to Explore the Multidimensional Nature of Lexical Sophistication: The Case of Oral Proficiency Interviews",
+    "objectID": "publications/journal_articles/Eguchi-2022/index.html#abstract",
+    "href": "publications/journal_articles/Eguchi-2022/index.html#abstract",
+    "title": "LEXICAL COMPETENCE UNDERLYING SECOND LANGUAGE WORD ASSOCIATION TASKS: EXAMINING THE CONSTRUCT VALIDITY OF RESPONSE TYPE AND RESPONSE TIME MEASURES",
     "section": "",
-    "text": "Lexical sophistication has been an important indicator of productive lexical proficiency for almost 30 years. Although lexical sophistication has most often been operationalized as the proportion of low frequency words in a text, a growing body of research has indicated that a number of indices such as concreteness, hypernymy, and n-gram association strengths meaningfully contribute to the construct. While the increase in available indices has expanded our understanding of the multidimensional construct, the sheer number of indices presents a practical barrier for researchers. Although some studies have begun to address this issue, most have been confined to the analysis of argumentative tasks, which are not necessarily representative of the range of tasks learners may encounter. This study therefore investigates the structure of lexical sophistication indices in a large learner corpus of English second language (L2) oral proficiency interviews (OPIs). An exploratory factor analysis identified 10 factors, 7 of which explained approximately 58% of the variance in OPI scores in a follow-up regression analysis. The results suggest that while some features of lexical sophistication (e.g., concreteness) may be task independent, others (e.g., frequency) may be task specific."
+    "text": "This study investigated the constructs underlying second language (L2) word association (WA) with regard to three dimensions of lexical competence—size, organization, and accessibility—and the lexical performance of speech. One-hundred and thirteen Japanese learners of English completed a computer-delivered oral WA task along with three vocabulary tasks: a formrecall gap-filling task (size), a primed lexical decision task (organization and accessibility), and an oral cartoon narrative (lexical richness). Regression analyses explored how well these lexical competence and performance scores predicted two WA outcome variables: response profiles and response times. Form-recall vocabulary knowledge, (collocational) priming, and lexical richness explained a large amount of variance in WA response type profiles (Nagelkerke’s pseudo R2 = .901). Form-recall vocabulary knowledge and lexical decision time explained 28.5% of the variance of WA response times. A three-stage model of L2 WA task performance is proposed to account for the constructs underlying WA performance."
   },
   {
-    "objectID": "publications/journal_articles/Eguchi-2020/index.html#apa-reference",
-    "href": "publications/journal_articles/Eguchi-2020/index.html#apa-reference",
-    "title": "Continuing to Explore the Multidimensional Nature of Lexical Sophistication: The Case of Oral Proficiency Interviews",
+    "objectID": "publications/journal_articles/Eguchi-2022/index.html#apa-reference",
+    "href": "publications/journal_articles/Eguchi-2022/index.html#apa-reference",
+    "title": "LEXICAL COMPETENCE UNDERLYING SECOND LANGUAGE WORD ASSOCIATION TASKS: EXAMINING THE CONSTRUCT VALIDITY OF RESPONSE TYPE AND RESPONSE TIME MEASURES",
     "section": "APA Reference",
-    "text": "APA Reference\n\n\nEguchi, M., & Kyle, K. (2020). Continuing to Explore the Multidimensional Nature of Lexical Sophistication: The Case of Oral Proficiency Interviews. The Modern Language Journal, 104(2), 381–400. https://doi.org/10.1111/modl.12637"
+    "text": "APA Reference\n\n\nEguchi, M., Suzuki, S., & Suzuki, Y. (2022). LEXICAL COMPETENCE UNDERLYING SECOND LANGUAGE WORD ASSOCIATION TASKS: EXAMINING THE CONSTRUCT VALIDITY OF RESPONSE TYPE AND RESPONSE TIME MEASURES. Studies in Second Language Acquisition, 44(1), 112–142. https://doi.org/10.1017/S0272263121000164"
+  },
+  {
+    "objectID": "publications/invited_contributions/Eguchi-2026/index.html",
+    "href": "publications/invited_contributions/Eguchi-2026/index.html",
+    "title": "Automated Essay Evaluation and Scoring",
+    "section": "",
+    "text": "Automated Writing Evaluation and Scoring refers to the application of natural language processing and artificial intelligence in writing assessment, including assigning scores and providing formative feedback. To date, AWE systems are widely used to give scores on test-takers’ performance in several high-stakes tests such as TOEFL iBT®, as well as to augment classroom writing instructions. In the last decade, the field of AWE has experienced transformative changes due to breakthroughs in NLP and the broader application of an argument-based validation framework. This entry provides an overview of the AWE research, highlighting its scope, current empirical findings, and important considerations when developing and evaluating AWE systems."
+  },
+  {
+    "objectID": "publications/invited_contributions/Eguchi-2026/index.html#abstract",
+    "href": "publications/invited_contributions/Eguchi-2026/index.html#abstract",
+    "title": "Automated Essay Evaluation and Scoring",
+    "section": "",
+    "text": "Automated Writing Evaluation and Scoring refers to the application of natural language processing and artificial intelligence in writing assessment, including assigning scores and providing formative feedback. To date, AWE systems are widely used to give scores on test-takers’ performance in several high-stakes tests such as TOEFL iBT®, as well as to augment classroom writing instructions. In the last decade, the field of AWE has experienced transformative changes due to breakthroughs in NLP and the broader application of an argument-based validation framework. This entry provides an overview of the AWE research, highlighting its scope, current empirical findings, and important considerations when developing and evaluating AWE systems."
+  },
+  {
+    "objectID": "publications/invited_contributions/Eguchi-2026/index.html#apa-reference",
+    "href": "publications/invited_contributions/Eguchi-2026/index.html#apa-reference",
+    "title": "Automated Essay Evaluation and Scoring",
+    "section": "APA Reference",
+    "text": "APA Reference\n\n\nEguchi, M. (2026). Automated Essay Evaluation and Scoring. In The encyclopedia of applied linguistics. Wiley-Blackwell."
+  },
+  {
+    "objectID": "publications/example-publication/index.html#apa-reference",
+    "href": "publications/example-publication/index.html#apa-reference",
+    "title": "Masaki EGUCHI",
+    "section": "APA Reference",
+    "text": "APA Reference"
+  },
+  {
+    "objectID": "publications/conference_papers/Kurata-2025/index.html",
+    "href": "publications/conference_papers/Kurata-2025/index.html",
+    "title": "Development and Validation of Engagement and Rapport Scales for Evaluating User Experience in Multimodal Dialogue Systems",
+    "section": "",
+    "text": "This study aimed to develop and validate two scales of engagement and rapport to evaluate the user experience quality with multimodal dialogue systems in the context of foreign language learning. The scales were designed based on theories of engagement in educational psychology, social psychology, and second language acquisition. Seventy-four Japanese learners of English completed roleplay and discussion tasks with trained human tutors and a dialog agent. After each dialogic task was completed, they responded to the scales of engagement and rapport. The validity and reliability of the scales were investigated through two analyses. We first conducted analysis of Cronbach’s alpha coefficient and a series of confirmatory factor analyses to test the structural validity of the scales and the reliability of our designed items. We then compared the scores of engagement and rapport between the dialogue with human tutors and the one with a dialogue agent. The results revealed that our scales succeeded in capturing the difference in the dialogue experience quality between the human interlocutors and the dialogue agent from multiple perspectives."
+  },
+  {
+    "objectID": "publications/conference_papers/Kurata-2025/index.html#abstract",
+    "href": "publications/conference_papers/Kurata-2025/index.html#abstract",
+    "title": "Development and Validation of Engagement and Rapport Scales for Evaluating User Experience in Multimodal Dialogue Systems",
+    "section": "",
+    "text": "This study aimed to develop and validate two scales of engagement and rapport to evaluate the user experience quality with multimodal dialogue systems in the context of foreign language learning. The scales were designed based on theories of engagement in educational psychology, social psychology, and second language acquisition. Seventy-four Japanese learners of English completed roleplay and discussion tasks with trained human tutors and a dialog agent. After each dialogic task was completed, they responded to the scales of engagement and rapport. The validity and reliability of the scales were investigated through two analyses. We first conducted analysis of Cronbach’s alpha coefficient and a series of confirmatory factor analyses to test the structural validity of the scales and the reliability of our designed items. We then compared the scores of engagement and rapport between the dialogue with human tutors and the one with a dialogue agent. The results revealed that our scales succeeded in capturing the difference in the dialogue experience quality between the human interlocutors and the dialogue agent from multiple perspectives."
+  },
+  {
+    "objectID": "publications/conference_papers/Kurata-2025/index.html#apa-reference",
+    "href": "publications/conference_papers/Kurata-2025/index.html#apa-reference",
+    "title": "Development and Validation of Engagement and Rapport Scales for Evaluating User Experience in Multimodal Dialogue Systems",
+    "section": "APA Reference",
+    "text": "APA Reference\n\n\nKurata, F., Saeki, M., Eguchi, M., Suzuki, S., Takatsu, H., & Matsuyama, Y. (2025). Development and Validation of Engagement and Rapport Scales for Evaluating User Experience in Multimodal Dialogue Systems (arXiv:2505.17075). arXiv. https://doi.org/10.48550/arXiv.2505.17075"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Masaki Eguchi",
+    "section": "",
+    "text": "I am a Research Scientist at Equmenopolis, Inc. and a Guest Research Assistant Professor at Perceptual Computing Laboratory at Waseda University. My research centers on the assessment of second language spoken and written production using computational methods. My work draws on usage-based and functional approaches, as well as socio-cognitive theories of second language learning. I also work on developing and applying natural language processing tools that are tailored to specific needs in second language learning and assessment.\nI am also a strong advocate of Bayesian methods in (Instructed) Second Language Acquisition and assessment research. In my most recent publications, I have been increasingly relying on this analytic paradigm for its combination of flexibility, elegance and robustness in handling complex data structures."
+  },
+  {
+    "objectID": "index.html#positions",
+    "href": "index.html#positions",
+    "title": "Masaki Eguchi",
+    "section": "Positions",
+    "text": "Positions\nEqumenopolis, Inc. | Research Scientist | 2025 - Present\nWaseda University | Guest Research Assistant Professor | 2025 - Present\nWaseda University | Research Assistant Professor | 2023 - 2025"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Masaki Eguchi",
+    "section": "Education",
+    "text": "Education\nUniversity of Oregon | Eugene, Oregon, USA | PhD in Linguistics | Sept 2019 - June 2023\nWaseda University | Shinjuku, Tokyo, Japan | M.A in Education | April 2015 - March 2018"
+  },
+  {
+    "objectID": "blog/blog-posts/multiwordunits-profiler/index.html",
+    "href": "blog/blog-posts/multiwordunits-profiler/index.html",
+    "title": "How to Use Multi-word Units Profiler / Multi-word Units Profilerの使い方",
+    "section": "",
+    "text": "日本語English\n\n\n\n概要\nMulti-Word Units Profilerは英語で頻出するチャンクを特定し、ハイライトして、その表現の頻度等を参照することが出来る無料のウェブアプリです。この記事では、Multi-Word Units Profilerの使い方を簡単に紹介します。\n\n\nこのアプリを作った背景\n言語を学ぶ上では、個別の単語を覚えるだけではなく、その言語で頻繁に使用される定形表現やチャンクを学習し使えるようになることが熟達度の向上に有効であると研究で示されています (Boers et al., 2006; Kremmel et al., 2017; Saito, 2020; Tavakoli & Uchihara, 2019)。\n定形表現には、例えば “due to”や”no longer” など個別の単語から意味の推測が難しいものが多く含まれます。そのため、知っていないとリーディングで読み違えてしまったり、知っていればスピーキングやライティングで表現したい内容を効率よく伝えられるのに（知らないので表現できない）といったことが起こり得ます。\nまた、定形表現には、例えば”is likely to”や “as well as”などのように、全体の意味が個別の単語と文法知識から予測できるものも含まれます。一見かたまり（チャンク）として覚える必要なさそうなこれらに関しても、あたかも1つの単語のように覚えることで、全体の言語処理の負担を軽減することができ、結果として流暢性の向上に貢献すると考えられています。\n\n\nMulti-Word Units Profilerの目的\nMulti-Word Units Profilerの意義目的は要約すると以下の４点です。 Multi-Word Units（あるいはチャンク・表現のかたまり）は、言語処理の認知的な負担を減らし流暢性を高めるなど、英語のスキル向上に貢献すると言われています(Carrol & Conklin, 2019)。 しかし、頻出する便利なチャンクかどうかを見極めること自体が難易度の高いことであるため、学習者にこれを求めることは難しいかもしれません。 そのため、教師が先導して英文に出てくるチャンクを見つける活動(Awareness raising activities; chunk identification activities; Boers & Lindstromberg, 2009)が推奨されていますが、授業時間の制約もあり、生徒それぞれに合わせたレベルで指導をすることは難しいことです。 「チャンク」を特定してくれるツールがあれば、その使用方法を指導することで学習者が自律的にチャンクを見つけ、表現活動のために覚えたりすることができるかもしれません。Multi-Word Units Profilerはこれを可能にするウェブアプリとして開発を進めています。\n\n\nMulti-Word Units Profilerでできること\n当アプリでできることは大きく分けて以下の2つです。\n\n入力した英文の中に含まれるチャンクを特定して色分けする\n特定されたチャンクの出現頻度や機能などを調べる\n\n以下この２つの機能について使用手順を追って説明していきます。\n\n\nMulti-Word Units Profilerの使用手順\n\nSTEP0:\nMulti-Word Units Profilerにアクセスします。アプリではほとんどの操作をトップページのみでできるように設計されています。\n\n\n\nlanding-page\n\n\n\n\nSTEP1:\nトップページのテキストボックスに分析したい英文を貼り付けます。(例では、以下のページに掲載されているイチロー選手に関するこちらの記事を分析します。)\n\n\n\nText box\n\n\n\n\nSTEP2:\n分析するためのMulti-Word Unitsリストを選びます。Version 1.6.0現在は以下の3つのリストでの分析に対応しており、今後リストの拡充を行う予定です（それぞれの説明は今後アップロードします）。また、リストは複数選択が可能です。\n\nA Phrasal Expressions List (Martinez & Schmitt, 2012)\nAn Academic Formulas List (Simpson-vlach & Ellis, 2010)\nLexical Bundles in University language (Biber et al., 2004)\n\n\n\nSTEP3:\n“Analyze” (分析)ボタンを押します。（分析に多少時間がかかる場合があります。）処理が終わると分析結果表示されます。\n\n\n\n分析結果の見方\n分析が終わると、2種類のアウトプットが表示されます(Version 1.6.0; 2020/8/16現在)。それぞれ順番に説明します。\n\n1. Annotated text\nAnnotated textでは、分析した英文に含まれるMulti-Word Unitsが頻度別に色付き文字で表示されます。分析はSTEP2で選んだリストを基にされます。 特定されたMulti-Word Unitsは以下のように色付けされます。\n\n\n\nColors for ranking\n\n\n\n\n\nAnnotated text\n\n\n\n\n2. Table output\nTable outputでは、分析結果として特定されたMulti-Word Unitsの頻度情報やExample sentences等が参照出来ます。例えば、A Phrasal Expressions List (Martinez & Schmitt, 2012)　の表を参照すると以下の5つの情報を確認できます。\n\n頻度レベル: 1000語(1-K)から5000語(5-K)レベルまで\n実際の出現頻度（100万語に何回出現するか）\nジャンル毎の出現傾向\nA Phrasal Expression Listで提供されている例文情報\n\nまた、全リスト共通する情報として、左から2つ目の列にそのMWUが分析したテキスト内で何回出現するかを示します。\n\n\n\nTable output\n\n\nまた、Version 1.6.0現在では、選択したリストによって、参照できる情報が異なり、全く同じ表現でも異なる頻度情報を示す場合があります。これは、Multi-Word Units Profilerが参照したもとの論文に掲載されている頻度情報をそのまま使用しているためです。\n今後のアップデートで表示項目や頻度情報の統一を図る予定ですが、アップデートの時期は未定です。\n\n\n\n参考文献\n\nBiber, D., Conrad, S., & Cortes, V. (2004). If you look at …: Lexical bundles in university teaching and textbooks. Applied Linguistics, 25(3), 371–405. https://doi.org/10.1093/applin/25.3.371\nBoers, F., Eyckmans, J., Kappel, J., Stengers, H., & Demecheleer, M. (2006). Formulaic sequences and perceived oral proficiency: Putting a Lexical Approach to the test. Language Teaching Research, 10(3), 245–261. https://doi.org/10.1191/1362168806lr195oa\nBoers, F., & Lindstromberg, S. (2009). Optimizing a Lexical Approach to Instructed Second Language Acquisition. Palgrave Macmillan UK. https://doi.org/10.1057/9780230245006 Carrol, G., & Conklin, K. (2019). Is All Formulaic Language Created Equal? Unpacking the Processing Advantage for Different Types of Formulaic Sequences. Language and Speech, 002383091882323. https://doi.org/10.1177/0023830918823230\nKremmel, B., Brunfaut, T., & Alderson, J. C. (2017). Exploring the Role of Phraseological Knowledge in Foreign Language Reading. Applied Linguistics, amv070. https://doi.org/10.1093/applin/amv070\nMartinez, R., & Schmitt, N. (2012). A Phrasal Expressions List. Applied Linguistics, 33(3), 299–320. https://doi.org/10.1093/applin/ams010\nSaito, K. (2020). Multi‐ or Single‐Word Units? The Role of Collocation Use in Comprehensible and Contextually Appropriate Second Language Speech. Language Learning, 70(2), 548–588. https://doi.org/10.1111/lang.12387\nSimpson-vlach, R., & Ellis, N. C. (2010). An academic formulas list: New methods in phraseology research. Applied Linguistics, January, 487–512. https://doi.org/10.1093/applin/amp058\nTavakoli, P., & Uchihara, T. (2019). To What Extent Are Multiword Sequences Associated With Oral Fluency? Language Learning, lang.12384. https://doi.org/10.1111/lang.12384\n\n\n\n\n\nOverview\nMulti-Word Units Profiler is a free web application that identifies frequently occurring chunks in English text, highlights them, and provides information about their frequency. This article provides a brief guide on how to use the Multi-Word Units Profiler.\n\n\nBackground\nResearch has shown that language learning is enhanced not only by memorizing individual words but also by learning and using formulaic expressions and chunks that are frequently used in the language (Boers et al., 2006; Kremmel et al., 2017; Saito, 2020; Tavakoli & Uchihara, 2019).\nFormulaic expressions include phrases such as “due to” and “no longer” whose meanings are difficult to infer from individual words. Without knowing these expressions, learners may misunderstand texts while reading, or may not convey their meanings effectively in speaking and writing.\nAdditionally, formulaic expressions include phrases like “is likely to” and “as well as” whose overall meaning can be predicted from individual words and grammatical knowledge. Even for these semantically more transparent chunks, learning them as single units can reduce the cognitive load of overall language processing, thereby contributing to improved fluency.\n\n\nPurpose of Multi-Word Units Profiler\nThe significance and purpose of Multi-Word Units Profiler can be summarized in the following four points:\n\nMulti-Word Units (or chunks/formulaic expressions) are said to contribute to improving English skills by reducing cognitive load in language processing and enhancing fluency (Carrol & Conklin, 2019).\nHowever, it can be difficult for learners to identify which chunks are frequently used and useful. The learner fails to notice the “usefulness” of the chunks therefore does not register them.\nTherefore, researcher recommends teacher-led activities to find chunks in English texts (awareness-raising activities; chunk identification activities; Boers & Lindstromberg, 2009), but time constraints make it difficult to provide individualized instruction for each student in class.\nThe profiler is to make this possible. In other words, with this tool, teachers could instruct learners on how to use it or learners can learn to find chunks and memorize them for productive use.\n\n\n\nWhat Multi-Word Units Profiler Can Do\nThe application offers two main features:\n\nIdentify and color-code chunks contained in the input English text\nLook up the frequency and function of identified chunks\n\nThe following sections explain how to use these two features step by step.\n\n\nHow to Use Multi-Word Units Profiler\n\nSTEP 0:\nVisit Multi-Word Units Profiler. The application is designed so that most operations can be performed on the top page alone.\n\n\n\nlanding-page\n\n\n\n\nSTEP 1:\nPaste the English text you want to analyze into the text box on the top page. I recommend to use relatively short passage around 500-1000 words. (In this example, we will analyze an article about Ichiro.)\n\n\n\nText box\n\n\n\n\nSTEP 2:\nSelect the Multi-Word Units list for analysis. As of Version 1.6.0, the following three lists are supported for analysis, with plans to expand the list options in the future. Multiple lists can be selected.\n\nA Phrasal Expressions List (Martinez & Schmitt, 2012)\nAn Academic Formulas List (Simpson-vlach & Ellis, 2010)\nLexical Bundles in University language (Biber et al., 2004)\n\n\n\nSTEP 3:\nClick the “Analyze” button. (Analysis may take some time.) When processing is complete, the analysis results will be displayed.\n\n\n\nUnderstanding the Analysis Results\nAfter analysis is complete, two types of output are displayed.\n\n1. Annotated Text\nIn the Annotated text section, Multi-Word Units contained in the analyzed English text are displayed in colored text according to their frequency. Analysis is based on the list(s) selected in STEP 2. Identified Multi-Word Units are color-coded as follows:\n\n\n\nColors for ranking\n\n\n\n\n\nAnnotated text\n\n\n\n\n2. Table Output\nIn the Table output section, you can view frequency information and example sentences for the identified Multi-Word Units. For example, referring to the A Phrasal Expressions List (Martinez & Schmitt, 2012) table, you can check the following information:\n\nFrequency level: from 1000-word (1-K) to 5000-word (5-K) level\nActual occurrence frequency (how many times per million words)\nOccurrence trends by genre\nExample sentence information provided in A Phrasal Expression List\n\nAdditionally, common to all lists, the second column from the left shows how many times that MWU appears in the analyzed text.\n\n\n\nTable output\n\n\n\n\n\nSome constraints\nAs of Version 1.6.0, the available information varies depending on the selected list, and the same expression may show different frequency information. This is because Multi-Word Units Profiler uses the frequency information as published in the original research papers.\nFuture updates plan to standardize display items and frequency information, but the timing of these updates is undetermined.\n\n\nReferences\n\nBiber, D., Conrad, S., & Cortes, V. (2004). If you look at …: Lexical bundles in university teaching and textbooks. Applied Linguistics, 25(3), 371–405. https://doi.org/10.1093/applin/25.3.371\nBoers, F., Eyckmans, J., Kappel, J., Stengers, H., & Demecheleer, M. (2006). Formulaic sequences and perceived oral proficiency: Putting a Lexical Approach to the test. Language Teaching Research, 10(3), 245–261. https://doi.org/10.1191/1362168806lr195oa\nBoers, F., & Lindstromberg, S. (2009). Optimizing a Lexical Approach to Instructed Second Language Acquisition. Palgrave Macmillan UK. https://doi.org/10.1057/9780230245006\nCarrol, G., & Conklin, K. (2019). Is All Formulaic Language Created Equal? Unpacking the Processing Advantage for Different Types of Formulaic Sequences. Language and Speech, 002383091882323. https://doi.org/10.1177/0023830918823230\nKremmel, B., Brunfaut, T., & Alderson, J. C. (2017). Exploring the Role of Phraseological Knowledge in Foreign Language Reading. Applied Linguistics, amv070. https://doi.org/10.1093/applin/amv070\nMartinez, R., & Schmitt, N. (2012). A Phrasal Expressions List. Applied Linguistics, 33(3), 299–320. https://doi.org/10.1093/applin/ams010\nSaito, K. (2020). Multi‐ or Single‐Word Units? The Role of Collocation Use in Comprehensible and Contextually Appropriate Second Language Speech. Language Learning, 70(2), 548–588. https://doi.org/10.1111/lang.12387\nSimpson-vlach, R., & Ellis, N. C. (2010). An academic formulas list: New methods in phraseology research. Applied Linguistics, January, 487–512. https://doi.org/10.1093/applin/amp058\nTavakoli, P., & Uchihara, T. (2019). To What Extent Are Multiword Sequences Associated With Oral Fluency? Language Learning, lang.12384. https://doi.org/10.1111/lang.12384"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "How to Use Multi-word Units Profiler / Multi-word Units Profilerの使い方\n\n\n\n\n\nA guide to using the Multi-Word Units Profiler web app for identifying and analyzing English chunks and formulaic expressions.\n\n\n\n\n\nAug 18, 2020\n\n\nMasaki EGUCHI\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/conference_papers/Eguchi-2023/index.html",
+    "href": "publications/conference_papers/Eguchi-2023/index.html",
+    "title": "Span Identification of Epistemic Stance-Taking in Academic Written English",
+    "section": "",
+    "text": "Responding to the increasing need for automated writing evaluation (AWE) systems to assess language use beyond lexis and grammar (Burstein et al., 2016), we introduce a new approach to identify rhetorical features of stance in academic English writing. Drawing on the discourseanalytic framework of engagement in the Appraisal analysis (Martin & White, 2005), we manually annotated 4,688 sentences (126,411 tokens) for eight rhetorical stance categories (e.g., PROCLAIM, ATTRIBUTION) and additional discourse elements. We then report an experiment to train machine learning models to identify and categorize the spans of these stance expressions. The best-performing model (RoBERTa + LSTM) achieved macroaveraged F1 of .7208 in the span identification of stance-taking expressions, slightly outperforming the intercoder reliability estimates before adjudication (F1 = .6629)."
+  },
+  {
+    "objectID": "publications/conference_papers/Eguchi-2023/index.html#abstract",
+    "href": "publications/conference_papers/Eguchi-2023/index.html#abstract",
+    "title": "Span Identification of Epistemic Stance-Taking in Academic Written English",
+    "section": "",
+    "text": "Responding to the increasing need for automated writing evaluation (AWE) systems to assess language use beyond lexis and grammar (Burstein et al., 2016), we introduce a new approach to identify rhetorical features of stance in academic English writing. Drawing on the discourseanalytic framework of engagement in the Appraisal analysis (Martin & White, 2005), we manually annotated 4,688 sentences (126,411 tokens) for eight rhetorical stance categories (e.g., PROCLAIM, ATTRIBUTION) and additional discourse elements. We then report an experiment to train machine learning models to identify and categorize the spans of these stance expressions. The best-performing model (RoBERTa + LSTM) achieved macroaveraged F1 of .7208 in the span identification of stance-taking expressions, slightly outperforming the intercoder reliability estimates before adjudication (F1 = .6629)."
+  },
+  {
+    "objectID": "publications/conference_papers/Eguchi-2023/index.html#apa-reference",
+    "href": "publications/conference_papers/Eguchi-2023/index.html#apa-reference",
+    "title": "Span Identification of Epistemic Stance-Taking in Academic Written English",
+    "section": "APA Reference",
+    "text": "APA Reference\n\n\nEguchi, M., & Kyle, K. (2023). Span Identification of Epistemic Stance-Taking in Academic Written English. Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023), 429–442. https://doi.org/10.18653/v1/2023.bea-1.35"
+  },
+  {
+    "objectID": "publications/conference_papers/Saeki-2024/index.html",
+    "href": "publications/conference_papers/Saeki-2024/index.html",
+    "title": "InteLLA: Intelligent Language Learning Assistant for Assessing Language Proficiency through Interviews and Roleplays",
+    "section": "",
+    "text": "The primary challenge in utilizing dialogue systems for reliable language assessment for interactional skills lies in obtaining ratable speech samples that demonstrate the user’s full range of ability. We thus developed a multimodal dialogue system that employs adaptive sampling strategies and enables a mixed initiative interaction through extended interview and roleplay dialogues. The interview is a system-led dialogue aimed at evaluating the user’s overall proficiency. The system dynamically adjusts the question difficulty based on a real-time assessment to induce linguistic breakdowns, which provides evidence of the user’s upper limits of proficiency. The roleplay, on the other hand, is a mixed-initiative, collaborative conversation intended to assess interactional competence such as turn management skills. Two experiments were conducted to evaluate our system in assessing oral proficiency. In the first experiment, which involved an interview dataset of 152 speakers, our system demonstrated high accuracy in automatically assessing overall proficiency. However, we observed that linguistic breakdowns were less likely to occur among high-proficiency users, indicating some room for further enhancing the ratability of speech samples. In the second experiment based on a role-play dataset of 75 speakers, the speech samples elicited by our system was found to be as ratable for interactional competence as those elicited by experienced teachers, demonstrating our system’s capability in conducting interactive conversations. Finally, we report on the deployment of our system with over 10,000 students in two real-world testing scenarios."
+  },
+  {
+    "objectID": "publications/conference_papers/Saeki-2024/index.html#abstract",
+    "href": "publications/conference_papers/Saeki-2024/index.html#abstract",
+    "title": "InteLLA: Intelligent Language Learning Assistant for Assessing Language Proficiency through Interviews and Roleplays",
+    "section": "",
+    "text": "The primary challenge in utilizing dialogue systems for reliable language assessment for interactional skills lies in obtaining ratable speech samples that demonstrate the user’s full range of ability. We thus developed a multimodal dialogue system that employs adaptive sampling strategies and enables a mixed initiative interaction through extended interview and roleplay dialogues. The interview is a system-led dialogue aimed at evaluating the user’s overall proficiency. The system dynamically adjusts the question difficulty based on a real-time assessment to induce linguistic breakdowns, which provides evidence of the user’s upper limits of proficiency. The roleplay, on the other hand, is a mixed-initiative, collaborative conversation intended to assess interactional competence such as turn management skills. Two experiments were conducted to evaluate our system in assessing oral proficiency. In the first experiment, which involved an interview dataset of 152 speakers, our system demonstrated high accuracy in automatically assessing overall proficiency. However, we observed that linguistic breakdowns were less likely to occur among high-proficiency users, indicating some room for further enhancing the ratability of speech samples. In the second experiment based on a role-play dataset of 75 speakers, the speech samples elicited by our system was found to be as ratable for interactional competence as those elicited by experienced teachers, demonstrating our system’s capability in conducting interactive conversations. Finally, we report on the deployment of our system with over 10,000 students in two real-world testing scenarios."
+  },
+  {
+    "objectID": "publications/conference_papers/Saeki-2024/index.html#apa-reference",
+    "href": "publications/conference_papers/Saeki-2024/index.html#apa-reference",
+    "title": "InteLLA: Intelligent Language Learning Assistant for Assessing Language Proficiency through Interviews and Roleplays",
+    "section": "APA Reference",
+    "text": "APA Reference\n\n\nSaeki, M., Takatsu, H., Kurata, F., Suzuki, S., Eguchi, M., Matsuura, R., Takizawa, K., Yoshikawa, S., & Matsuyama, Y. (2024). InteLLA: Intelligent Language Learning Assistant for Assessing Language Proficiency through Interviews and Roleplays. Proceedings of the 25th Annual Meeting of the Special Interest Group on Discourse and Dialogue, 385–399. https://doi.org/10.18653/v1/2024.sigdial-1.34"
   },
   {
     "objectID": "publications/index.html",
@@ -252,346 +378,241 @@
     "text": "Conference Papers\n\n\n\n\nKurata, F., Saeki, M., Eguchi, M., Suzuki, S., Takatsu, H., & Matsuyama, Y. (2025). Development and Validation of Engagement and Rapport Scales for Evaluating User Experience in Multimodal Dialogue Systems. https://doi.org/10.48550/arXiv.2505.17075\n\n\nAI-MEDIATED ASSESSMENT LEARNER ENGAGEMENT\n\n\n\n\nSaeki, M., Takatsu, H., Kurata, F., Suzuki, S., Eguchi, M., Matsuura, R., Takizawa, K., Yoshikawa, S., & Matsuyama, Y. (2024). InteLLA: Intelligent Language Learning Assistant for Assessing Language Proficiency through Interviews and Roleplays. https://doi.org/10.18653/v1/2024.sigdial-1.34\n\n\nAI-MEDIATED ASSESSMENT RATER-MEDIATED ASSESSMENT\n\n\n\n\nEguchi, M., & Kyle, K. (2023). Span Identification of Epistemic Stance-Taking in Academic Written English. https://doi.org/10.18653/v1/2023.bea-1.35\n\n\nNLP MODEL TRAINING CORPUS ANNOTATION AUTOMATED WRITING EVALUATION\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications/conference_papers/Saeki-2024/index.html",
-    "href": "publications/conference_papers/Saeki-2024/index.html",
-    "title": "InteLLA: Intelligent Language Learning Assistant for Assessing Language Proficiency through Interviews and Roleplays",
+    "objectID": "publications/journal_articles/Eguchi-2020/index.html",
+    "href": "publications/journal_articles/Eguchi-2020/index.html",
+    "title": "Continuing to Explore the Multidimensional Nature of Lexical Sophistication: The Case of Oral Proficiency Interviews",
     "section": "",
-    "text": "The primary challenge in utilizing dialogue systems for reliable language assessment for interactional skills lies in obtaining ratable speech samples that demonstrate the user’s full range of ability. We thus developed a multimodal dialogue system that employs adaptive sampling strategies and enables a mixed initiative interaction through extended interview and roleplay dialogues. The interview is a system-led dialogue aimed at evaluating the user’s overall proficiency. The system dynamically adjusts the question difficulty based on a real-time assessment to induce linguistic breakdowns, which provides evidence of the user’s upper limits of proficiency. The roleplay, on the other hand, is a mixed-initiative, collaborative conversation intended to assess interactional competence such as turn management skills. Two experiments were conducted to evaluate our system in assessing oral proficiency. In the first experiment, which involved an interview dataset of 152 speakers, our system demonstrated high accuracy in automatically assessing overall proficiency. However, we observed that linguistic breakdowns were less likely to occur among high-proficiency users, indicating some room for further enhancing the ratability of speech samples. In the second experiment based on a role-play dataset of 75 speakers, the speech samples elicited by our system was found to be as ratable for interactional competence as those elicited by experienced teachers, demonstrating our system’s capability in conducting interactive conversations. Finally, we report on the deployment of our system with over 10,000 students in two real-world testing scenarios."
+    "text": "Lexical sophistication has been an important indicator of productive lexical proficiency for almost 30 years. Although lexical sophistication has most often been operationalized as the proportion of low frequency words in a text, a growing body of research has indicated that a number of indices such as concreteness, hypernymy, and n-gram association strengths meaningfully contribute to the construct. While the increase in available indices has expanded our understanding of the multidimensional construct, the sheer number of indices presents a practical barrier for researchers. Although some studies have begun to address this issue, most have been confined to the analysis of argumentative tasks, which are not necessarily representative of the range of tasks learners may encounter. This study therefore investigates the structure of lexical sophistication indices in a large learner corpus of English second language (L2) oral proficiency interviews (OPIs). An exploratory factor analysis identified 10 factors, 7 of which explained approximately 58% of the variance in OPI scores in a follow-up regression analysis. The results suggest that while some features of lexical sophistication (e.g., concreteness) may be task independent, others (e.g., frequency) may be task specific."
   },
   {
-    "objectID": "publications/conference_papers/Saeki-2024/index.html#abstract",
-    "href": "publications/conference_papers/Saeki-2024/index.html#abstract",
-    "title": "InteLLA: Intelligent Language Learning Assistant for Assessing Language Proficiency through Interviews and Roleplays",
+    "objectID": "publications/journal_articles/Eguchi-2020/index.html#abstract",
+    "href": "publications/journal_articles/Eguchi-2020/index.html#abstract",
+    "title": "Continuing to Explore the Multidimensional Nature of Lexical Sophistication: The Case of Oral Proficiency Interviews",
     "section": "",
-    "text": "The primary challenge in utilizing dialogue systems for reliable language assessment for interactional skills lies in obtaining ratable speech samples that demonstrate the user’s full range of ability. We thus developed a multimodal dialogue system that employs adaptive sampling strategies and enables a mixed initiative interaction through extended interview and roleplay dialogues. The interview is a system-led dialogue aimed at evaluating the user’s overall proficiency. The system dynamically adjusts the question difficulty based on a real-time assessment to induce linguistic breakdowns, which provides evidence of the user’s upper limits of proficiency. The roleplay, on the other hand, is a mixed-initiative, collaborative conversation intended to assess interactional competence such as turn management skills. Two experiments were conducted to evaluate our system in assessing oral proficiency. In the first experiment, which involved an interview dataset of 152 speakers, our system demonstrated high accuracy in automatically assessing overall proficiency. However, we observed that linguistic breakdowns were less likely to occur among high-proficiency users, indicating some room for further enhancing the ratability of speech samples. In the second experiment based on a role-play dataset of 75 speakers, the speech samples elicited by our system was found to be as ratable for interactional competence as those elicited by experienced teachers, demonstrating our system’s capability in conducting interactive conversations. Finally, we report on the deployment of our system with over 10,000 students in two real-world testing scenarios."
+    "text": "Lexical sophistication has been an important indicator of productive lexical proficiency for almost 30 years. Although lexical sophistication has most often been operationalized as the proportion of low frequency words in a text, a growing body of research has indicated that a number of indices such as concreteness, hypernymy, and n-gram association strengths meaningfully contribute to the construct. While the increase in available indices has expanded our understanding of the multidimensional construct, the sheer number of indices presents a practical barrier for researchers. Although some studies have begun to address this issue, most have been confined to the analysis of argumentative tasks, which are not necessarily representative of the range of tasks learners may encounter. This study therefore investigates the structure of lexical sophistication indices in a large learner corpus of English second language (L2) oral proficiency interviews (OPIs). An exploratory factor analysis identified 10 factors, 7 of which explained approximately 58% of the variance in OPI scores in a follow-up regression analysis. The results suggest that while some features of lexical sophistication (e.g., concreteness) may be task independent, others (e.g., frequency) may be task specific."
   },
   {
-    "objectID": "publications/conference_papers/Saeki-2024/index.html#apa-reference",
-    "href": "publications/conference_papers/Saeki-2024/index.html#apa-reference",
-    "title": "InteLLA: Intelligent Language Learning Assistant for Assessing Language Proficiency through Interviews and Roleplays",
+    "objectID": "publications/journal_articles/Eguchi-2020/index.html#apa-reference",
+    "href": "publications/journal_articles/Eguchi-2020/index.html#apa-reference",
+    "title": "Continuing to Explore the Multidimensional Nature of Lexical Sophistication: The Case of Oral Proficiency Interviews",
     "section": "APA Reference",
-    "text": "APA Reference\n\n\nSaeki, M., Takatsu, H., Kurata, F., Suzuki, S., Eguchi, M., Matsuura, R., Takizawa, K., Yoshikawa, S., & Matsuyama, Y. (2024). InteLLA: Intelligent Language Learning Assistant for Assessing Language Proficiency through Interviews and Roleplays. Proceedings of the 25th Annual Meeting of the Special Interest Group on Discourse and Dialogue, 385–399. https://doi.org/10.18653/v1/2024.sigdial-1.34"
+    "text": "APA Reference\n\n\nEguchi, M., & Kyle, K. (2020). Continuing to Explore the Multidimensional Nature of Lexical Sophistication: The Case of Oral Proficiency Interviews. The Modern Language Journal, 104(2), 381–400. https://doi.org/10.1111/modl.12637"
   },
   {
-    "objectID": "publications/conference_papers/Eguchi-2023/index.html",
-    "href": "publications/conference_papers/Eguchi-2023/index.html",
-    "title": "Span Identification of Epistemic Stance-Taking in Academic Written English",
+    "objectID": "publications/journal_articles/Eguchi-2022a/index.html",
+    "href": "publications/journal_articles/Eguchi-2022a/index.html",
+    "title": "Modeling Lexical and Phraseological Sophistication in Oral Proficiency Interviews: A Conceptual Replication",
     "section": "",
-    "text": "Responding to the increasing need for automated writing evaluation (AWE) systems to assess language use beyond lexis and grammar (Burstein et al., 2016), we introduce a new approach to identify rhetorical features of stance in academic English writing. Drawing on the discourseanalytic framework of engagement in the Appraisal analysis (Martin & White, 2005), we manually annotated 4,688 sentences (126,411 tokens) for eight rhetorical stance categories (e.g., PROCLAIM, ATTRIBUTION) and additional discourse elements. We then report an experiment to train machine learning models to identify and categorize the spans of these stance expressions. The best-performing model (RoBERTa + LSTM) achieved macroaveraged F1 of .7208 in the span identification of stance-taking expressions, slightly outperforming the intercoder reliability estimates before adjudication (F1 = .6629)."
+    "text": "Building on previous studies investigating the multidimensional nature of lexical use in task-based L2 performance, this study clarified the roles that the distinct lexical features play in predicting vocabulary proficiency in a corpus of L2 Oral Proficiency Interviews (OPI). A total of 85 OPI samples were rated by three separate raters based on a Common European Frame of Reference (CEFR) based rubric in terms of their linguistic range. The interview transcription was analyzed for 56 lexical and phraseological indices using modern natural language processing tools. The result of an exploratory factor analysis (EFA) revealed that the 56 indices tapped into 10 distinct factors of lexical use in OPI: three factors related to content words, three related to n-grams, three lexical collocation factors, and one function-word factor. A subsequent Bayesian mixed-effect ordinal regression indicated that six out of the 10 factors meaningfully predicted the CEFR levels on Range with reasonable accuracy (quadratic kappa coefficient = .81 with the human rating). The result highlights the distinct roles that multiple content-word, collocation, and function-word factors play in characterizing the linguistic range in a CEFR-based assessment of OPI. The implication for the assessment of lexical richness, as well as future directions of this research domain, are discussed."
   },
   {
-    "objectID": "publications/conference_papers/Eguchi-2023/index.html#abstract",
-    "href": "publications/conference_papers/Eguchi-2023/index.html#abstract",
-    "title": "Span Identification of Epistemic Stance-Taking in Academic Written English",
+    "objectID": "publications/journal_articles/Eguchi-2022a/index.html#abstract",
+    "href": "publications/journal_articles/Eguchi-2022a/index.html#abstract",
+    "title": "Modeling Lexical and Phraseological Sophistication in Oral Proficiency Interviews: A Conceptual Replication",
     "section": "",
-    "text": "Responding to the increasing need for automated writing evaluation (AWE) systems to assess language use beyond lexis and grammar (Burstein et al., 2016), we introduce a new approach to identify rhetorical features of stance in academic English writing. Drawing on the discourseanalytic framework of engagement in the Appraisal analysis (Martin & White, 2005), we manually annotated 4,688 sentences (126,411 tokens) for eight rhetorical stance categories (e.g., PROCLAIM, ATTRIBUTION) and additional discourse elements. We then report an experiment to train machine learning models to identify and categorize the spans of these stance expressions. The best-performing model (RoBERTa + LSTM) achieved macroaveraged F1 of .7208 in the span identification of stance-taking expressions, slightly outperforming the intercoder reliability estimates before adjudication (F1 = .6629)."
+    "text": "Building on previous studies investigating the multidimensional nature of lexical use in task-based L2 performance, this study clarified the roles that the distinct lexical features play in predicting vocabulary proficiency in a corpus of L2 Oral Proficiency Interviews (OPI). A total of 85 OPI samples were rated by three separate raters based on a Common European Frame of Reference (CEFR) based rubric in terms of their linguistic range. The interview transcription was analyzed for 56 lexical and phraseological indices using modern natural language processing tools. The result of an exploratory factor analysis (EFA) revealed that the 56 indices tapped into 10 distinct factors of lexical use in OPI: three factors related to content words, three related to n-grams, three lexical collocation factors, and one function-word factor. A subsequent Bayesian mixed-effect ordinal regression indicated that six out of the 10 factors meaningfully predicted the CEFR levels on Range with reasonable accuracy (quadratic kappa coefficient = .81 with the human rating). The result highlights the distinct roles that multiple content-word, collocation, and function-word factors play in characterizing the linguistic range in a CEFR-based assessment of OPI. The implication for the assessment of lexical richness, as well as future directions of this research domain, are discussed."
   },
   {
-    "objectID": "publications/conference_papers/Eguchi-2023/index.html#apa-reference",
-    "href": "publications/conference_papers/Eguchi-2023/index.html#apa-reference",
-    "title": "Span Identification of Epistemic Stance-Taking in Academic Written English",
+    "objectID": "publications/journal_articles/Eguchi-2022a/index.html#apa-reference",
+    "href": "publications/journal_articles/Eguchi-2022a/index.html#apa-reference",
+    "title": "Modeling Lexical and Phraseological Sophistication in Oral Proficiency Interviews: A Conceptual Replication",
     "section": "APA Reference",
-    "text": "APA Reference\n\n\nEguchi, M., & Kyle, K. (2023). Span Identification of Epistemic Stance-Taking in Academic Written English. Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023), 429–442. https://doi.org/10.18653/v1/2023.bea-1.35"
+    "text": "APA Reference\n\n\nEguchi, M. (2022). Modeling Lexical and Phraseological Sophistication in Oral Proficiency Interviews: A Conceptual Replication. Vocabulary Learning and Instruction, 11(2), 1–16. https://doi.org/10.7820/vli.v11.2.Eguchi"
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
+    "objectID": "publications/journal_articles/Eguchi-2024-RMAL/index.html",
+    "href": "publications/journal_articles/Eguchi-2024-RMAL/index.html",
+    "title": "Building Custom NLP Tools to Annotate Discourse-Functional Features for Second Language Writing Research: A Tutorial",
     "section": "",
-    "text": "How to Use Multi-word Units Profiler / Multi-word Units Profilerの使い方\n\n\n\n\n\nA guide to using the Multi-Word Units Profiler web app for identifying and analyzing English chunks and formulaic expressions.\n\n\n\n\n\nAug 18, 2020\n\n\nMasaki EGUCHI\n\n\n\n\n\nNo matching items"
+    "text": "The current tutorial paper describes a process of developing a custom natural language processing model with a particular focus on a discourse annotation task. After an overview of recent developments in natural language processing (NLP), the paper discusses the development of the Engagement Analyzer ((Eguchi & Kyle, 2023)), focusing on corpus annotation, the machine learning model, model training, evaluation, and dissemination. A step-by-step tutorial of this process via the spaCy Python package is provided. The paper highlights the feasibility of developing custom NLP tools to enhance the scalability and replicability of the annotation of context-sensitive linguistic features in L2 writing research."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "publications/journal_articles/Eguchi-2024-RMAL/index.html#abstract",
+    "href": "publications/journal_articles/Eguchi-2024-RMAL/index.html#abstract",
+    "title": "Building Custom NLP Tools to Annotate Discourse-Functional Features for Second Language Writing Research: A Tutorial",
     "section": "",
-    "text": "About this site"
+    "text": "The current tutorial paper describes a process of developing a custom natural language processing model with a particular focus on a discourse annotation task. After an overview of recent developments in natural language processing (NLP), the paper discusses the development of the Engagement Analyzer ((Eguchi & Kyle, 2023)), focusing on corpus annotation, the machine learning model, model training, evaluation, and dissemination. A step-by-step tutorial of this process via the spaCy Python package is provided. The paper highlights the feasibility of developing custom NLP tools to enhance the scalability and replicability of the annotation of context-sensitive linguistic features in L2 writing research."
   },
   {
-    "objectID": "blog/blog-posts/multiwordunits-profiler/index.html",
-    "href": "blog/blog-posts/multiwordunits-profiler/index.html",
-    "title": "How to Use Multi-word Units Profiler / Multi-word Units Profilerの使い方",
+    "objectID": "publications/journal_articles/Eguchi-2024-RMAL/index.html#apa-reference",
+    "href": "publications/journal_articles/Eguchi-2024-RMAL/index.html#apa-reference",
+    "title": "Building Custom NLP Tools to Annotate Discourse-Functional Features for Second Language Writing Research: A Tutorial",
+    "section": "APA reference",
+    "text": "APA reference\n\n\nEguchi, M., & Kyle, K. (2023). Span Identification of Epistemic Stance-Taking in Academic Written English. Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023), 429–442. https://doi.org/10.18653/v1/2023.bea-1.35\n\n\nEguchi, M., & Kyle, K. (2024). Building custom NLP tools to annotate discourse-functional features for second language writing research: A tutorial. Research Methods in Applied Linguistics, 3(3), 100153. https://doi.org/10.1016/j.rmal.2024.100153"
+  },
+  {
+    "objectID": "publications/journal_articles/Kormos-2022/index.html",
+    "href": "publications/journal_articles/Kormos-2022/index.html",
+    "title": "The Role of Input Modality and Vocabulary Knowledge in Alignment in Reading-to-Speaking Tasks",
     "section": "",
-    "text": "日本語English\n\n\n\n概要\nMulti-Word Units Profilerは英語で頻出するチャンクを特定し、ハイライトして、その表現の頻度等を参照することが出来る無料のウェブアプリです。この記事では、Multi-Word Units Profilerの使い方を簡単に紹介します。\n\n\nこのアプリを作った背景\n言語を学ぶ上では、個別の単語を覚えるだけではなく、その言語で頻繁に使用される定形表現やチャンクを学習し使えるようになることが熟達度の向上に有効であると研究で示されています (Boers et al., 2006; Kremmel et al., 2017; Saito, 2020; Tavakoli & Uchihara, 2019)。\n定形表現には、例えば “due to”や”no longer” など個別の単語から意味の推測が難しいものが多く含まれます。そのため、知っていないとリーディングで読み違えてしまったり、知っていればスピーキングやライティングで表現したい内容を効率よく伝えられるのに（知らないので表現できない）といったことが起こり得ます。\nまた、定形表現には、例えば”is likely to”や “as well as”などのように、全体の意味が個別の単語と文法知識から予測できるものも含まれます。一見かたまり（チャンク）として覚える必要なさそうなこれらに関しても、あたかも1つの単語のように覚えることで、全体の言語処理の負担を軽減することができ、結果として流暢性の向上に貢献すると考えられています。\n\n\nMulti-Word Units Profilerの目的\nMulti-Word Units Profilerの意義目的は要約すると以下の４点です。 Multi-Word Units（あるいはチャンク・表現のかたまり）は、言語処理の認知的な負担を減らし流暢性を高めるなど、英語のスキル向上に貢献すると言われています(Carrol & Conklin, 2019)。 しかし、頻出する便利なチャンクかどうかを見極めること自体が難易度の高いことであるため、学習者にこれを求めることは難しいかもしれません。 そのため、教師が先導して英文に出てくるチャンクを見つける活動(Awareness raising activities; chunk identification activities; Boers & Lindstromberg, 2009)が推奨されていますが、授業時間の制約もあり、生徒それぞれに合わせたレベルで指導をすることは難しいことです。 「チャンク」を特定してくれるツールがあれば、その使用方法を指導することで学習者が自律的にチャンクを見つけ、表現活動のために覚えたりすることができるかもしれません。Multi-Word Units Profilerはこれを可能にするウェブアプリとして開発を進めています。\n\n\nMulti-Word Units Profilerでできること\n当アプリでできることは大きく分けて以下の2つです。\n\n入力した英文の中に含まれるチャンクを特定して色分けする\n特定されたチャンクの出現頻度や機能などを調べる\n\n以下この２つの機能について使用手順を追って説明していきます。\n\n\nMulti-Word Units Profilerの使用手順\n\nSTEP0:\nMulti-Word Units Profilerにアクセスします。アプリではほとんどの操作をトップページのみでできるように設計されています。\n\n\n\nlanding-page\n\n\n\n\nSTEP1:\nトップページのテキストボックスに分析したい英文を貼り付けます。(例では、以下のページに掲載されているイチロー選手に関するこちらの記事を分析します。)\n\n\n\nText box\n\n\n\n\nSTEP2:\n分析するためのMulti-Word Unitsリストを選びます。Version 1.6.0現在は以下の3つのリストでの分析に対応しており、今後リストの拡充を行う予定です（それぞれの説明は今後アップロードします）。また、リストは複数選択が可能です。\n\nA Phrasal Expressions List (Martinez & Schmitt, 2012)\nAn Academic Formulas List (Simpson-vlach & Ellis, 2010)\nLexical Bundles in University language (Biber et al., 2004)\n\n\n\nSTEP3:\n“Analyze” (分析)ボタンを押します。（分析に多少時間がかかる場合があります。）処理が終わると分析結果表示されます。\n\n\n\n分析結果の見方\n分析が終わると、2種類のアウトプットが表示されます(Version 1.6.0; 2020/8/16現在)。それぞれ順番に説明します。\n\n1. Annotated text\nAnnotated textでは、分析した英文に含まれるMulti-Word Unitsが頻度別に色付き文字で表示されます。分析はSTEP2で選んだリストを基にされます。 特定されたMulti-Word Unitsは以下のように色付けされます。\n\n\n\nColors for ranking\n\n\n\n\n\nAnnotated text\n\n\n\n\n2. Table output\nTable outputでは、分析結果として特定されたMulti-Word Unitsの頻度情報やExample sentences等が参照出来ます。例えば、A Phrasal Expressions List (Martinez & Schmitt, 2012)　の表を参照すると以下の5つの情報を確認できます。\n\n頻度レベル: 1000語(1-K)から5000語(5-K)レベルまで\n実際の出現頻度（100万語に何回出現するか）\nジャンル毎の出現傾向\nA Phrasal Expression Listで提供されている例文情報\n\nまた、全リスト共通する情報として、左から2つ目の列にそのMWUが分析したテキスト内で何回出現するかを示します。\n\n\n\nTable output\n\n\nまた、Version 1.6.0現在では、選択したリストによって、参照できる情報が異なり、全く同じ表現でも異なる頻度情報を示す場合があります。これは、Multi-Word Units Profilerが参照したもとの論文に掲載されている頻度情報をそのまま使用しているためです。\n今後のアップデートで表示項目や頻度情報の統一を図る予定ですが、アップデートの時期は未定です。\n\n\n\n参考文献\n\nBiber, D., Conrad, S., & Cortes, V. (2004). If you look at …: Lexical bundles in university teaching and textbooks. Applied Linguistics, 25(3), 371–405. https://doi.org/10.1093/applin/25.3.371\nBoers, F., Eyckmans, J., Kappel, J., Stengers, H., & Demecheleer, M. (2006). Formulaic sequences and perceived oral proficiency: Putting a Lexical Approach to the test. Language Teaching Research, 10(3), 245–261. https://doi.org/10.1191/1362168806lr195oa\nBoers, F., & Lindstromberg, S. (2009). Optimizing a Lexical Approach to Instructed Second Language Acquisition. Palgrave Macmillan UK. https://doi.org/10.1057/9780230245006 Carrol, G., & Conklin, K. (2019). Is All Formulaic Language Created Equal? Unpacking the Processing Advantage for Different Types of Formulaic Sequences. Language and Speech, 002383091882323. https://doi.org/10.1177/0023830918823230\nKremmel, B., Brunfaut, T., & Alderson, J. C. (2017). Exploring the Role of Phraseological Knowledge in Foreign Language Reading. Applied Linguistics, amv070. https://doi.org/10.1093/applin/amv070\nMartinez, R., & Schmitt, N. (2012). A Phrasal Expressions List. Applied Linguistics, 33(3), 299–320. https://doi.org/10.1093/applin/ams010\nSaito, K. (2020). Multi‐ or Single‐Word Units? The Role of Collocation Use in Comprehensible and Contextually Appropriate Second Language Speech. Language Learning, 70(2), 548–588. https://doi.org/10.1111/lang.12387\nSimpson-vlach, R., & Ellis, N. C. (2010). An academic formulas list: New methods in phraseology research. Applied Linguistics, January, 487–512. https://doi.org/10.1093/applin/amp058\nTavakoli, P., & Uchihara, T. (2019). To What Extent Are Multiword Sequences Associated With Oral Fluency? Language Learning, lang.12384. https://doi.org/10.1111/lang.12384\n\n\n\n\n\nOverview\nMulti-Word Units Profiler is a free web application that identifies frequently occurring chunks in English text, highlights them, and provides information about their frequency. This article provides a brief guide on how to use the Multi-Word Units Profiler.\n\n\nBackground\nResearch has shown that language learning is enhanced not only by memorizing individual words but also by learning and using formulaic expressions and chunks that are frequently used in the language (Boers et al., 2006; Kremmel et al., 2017; Saito, 2020; Tavakoli & Uchihara, 2019).\nFormulaic expressions include phrases such as “due to” and “no longer” whose meanings are difficult to infer from individual words. Without knowing these expressions, learners may misunderstand texts while reading, or may not convey their meanings effectively in speaking and writing.\nAdditionally, formulaic expressions include phrases like “is likely to” and “as well as” whose overall meaning can be predicted from individual words and grammatical knowledge. Even for these semantically more transparent chunks, learning them as single units can reduce the cognitive load of overall language processing, thereby contributing to improved fluency.\n\n\nPurpose of Multi-Word Units Profiler\nThe significance and purpose of Multi-Word Units Profiler can be summarized in the following four points:\n\nMulti-Word Units (or chunks/formulaic expressions) are said to contribute to improving English skills by reducing cognitive load in language processing and enhancing fluency (Carrol & Conklin, 2019).\nHowever, it can be difficult for learners to identify which chunks are frequently used and useful. The learner fails to notice the “usefulness” of the chunks therefore does not register them.\nTherefore, researcher recommends teacher-led activities to find chunks in English texts (awareness-raising activities; chunk identification activities; Boers & Lindstromberg, 2009), but time constraints make it difficult to provide individualized instruction for each student in class.\nThe profiler is to make this possible. In other words, with this tool, teachers could instruct learners on how to use it or learners can learn to find chunks and memorize them for productive use.\n\n\n\nWhat Multi-Word Units Profiler Can Do\nThe application offers two main features:\n\nIdentify and color-code chunks contained in the input English text\nLook up the frequency and function of identified chunks\n\nThe following sections explain how to use these two features step by step.\n\n\nHow to Use Multi-Word Units Profiler\n\nSTEP 0:\nVisit Multi-Word Units Profiler. The application is designed so that most operations can be performed on the top page alone.\n\n\n\nlanding-page\n\n\n\n\nSTEP 1:\nPaste the English text you want to analyze into the text box on the top page. I recommend to use relatively short passage around 500-1000 words. (In this example, we will analyze an article about Ichiro.)\n\n\n\nText box\n\n\n\n\nSTEP 2:\nSelect the Multi-Word Units list for analysis. As of Version 1.6.0, the following three lists are supported for analysis, with plans to expand the list options in the future. Multiple lists can be selected.\n\nA Phrasal Expressions List (Martinez & Schmitt, 2012)\nAn Academic Formulas List (Simpson-vlach & Ellis, 2010)\nLexical Bundles in University language (Biber et al., 2004)\n\n\n\nSTEP 3:\nClick the “Analyze” button. (Analysis may take some time.) When processing is complete, the analysis results will be displayed.\n\n\n\nUnderstanding the Analysis Results\nAfter analysis is complete, two types of output are displayed.\n\n1. Annotated Text\nIn the Annotated text section, Multi-Word Units contained in the analyzed English text are displayed in colored text according to their frequency. Analysis is based on the list(s) selected in STEP 2. Identified Multi-Word Units are color-coded as follows:\n\n\n\nColors for ranking\n\n\n\n\n\nAnnotated text\n\n\n\n\n2. Table Output\nIn the Table output section, you can view frequency information and example sentences for the identified Multi-Word Units. For example, referring to the A Phrasal Expressions List (Martinez & Schmitt, 2012) table, you can check the following information:\n\nFrequency level: from 1000-word (1-K) to 5000-word (5-K) level\nActual occurrence frequency (how many times per million words)\nOccurrence trends by genre\nExample sentence information provided in A Phrasal Expression List\n\nAdditionally, common to all lists, the second column from the left shows how many times that MWU appears in the analyzed text.\n\n\n\nTable output\n\n\n\n\n\nSome constraints\nAs of Version 1.6.0, the available information varies depending on the selected list, and the same expression may show different frequency information. This is because Multi-Word Units Profiler uses the frequency information as published in the original research papers.\nFuture updates plan to standardize display items and frequency information, but the timing of these updates is undetermined.\n\n\nReferences\n\nBiber, D., Conrad, S., & Cortes, V. (2004). If you look at …: Lexical bundles in university teaching and textbooks. Applied Linguistics, 25(3), 371–405. https://doi.org/10.1093/applin/25.3.371\nBoers, F., Eyckmans, J., Kappel, J., Stengers, H., & Demecheleer, M. (2006). Formulaic sequences and perceived oral proficiency: Putting a Lexical Approach to the test. Language Teaching Research, 10(3), 245–261. https://doi.org/10.1191/1362168806lr195oa\nBoers, F., & Lindstromberg, S. (2009). Optimizing a Lexical Approach to Instructed Second Language Acquisition. Palgrave Macmillan UK. https://doi.org/10.1057/9780230245006\nCarrol, G., & Conklin, K. (2019). Is All Formulaic Language Created Equal? Unpacking the Processing Advantage for Different Types of Formulaic Sequences. Language and Speech, 002383091882323. https://doi.org/10.1177/0023830918823230\nKremmel, B., Brunfaut, T., & Alderson, J. C. (2017). Exploring the Role of Phraseological Knowledge in Foreign Language Reading. Applied Linguistics, amv070. https://doi.org/10.1093/applin/amv070\nMartinez, R., & Schmitt, N. (2012). A Phrasal Expressions List. Applied Linguistics, 33(3), 299–320. https://doi.org/10.1093/applin/ams010\nSaito, K. (2020). Multi‐ or Single‐Word Units? The Role of Collocation Use in Comprehensible and Contextually Appropriate Second Language Speech. Language Learning, 70(2), 548–588. https://doi.org/10.1111/lang.12387\nSimpson-vlach, R., & Ellis, N. C. (2010). An academic formulas list: New methods in phraseology research. Applied Linguistics, January, 487–512. https://doi.org/10.1093/applin/amp058\nTavakoli, P., & Uchihara, T. (2019). To What Extent Are Multiword Sequences Associated With Oral Fluency? Language Learning, lang.12384. https://doi.org/10.1111/lang.12384"
+    "text": "Our study investigated lexical alignment in a reading-to-speaking task, in two modalities of input text presentation. We also explored whether participants’ vocabulary knowledge moderates the effects of text modality and difficulty on lexical alignment. We addressed these questions by analyzing lexical overlap in the speech of 128 Japanese learners of English. Students were asked to summarize the information given in two different expository informational texts that were presented in reading-only mode and in reading-while-listening mode, using a within-subject design. The results showed that participants produced fewer overlapping 5-grams in readingwhile-listening condition than in the reading-only condition. However for shorter n-grams no significant differences between modes of exposure were found. Students with larger vocabulary size produced less lexical overlap with the input text at the level of single words. We discuss the implications of the findings of the study for language teaching pedagogy."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Masaki Eguchi",
+    "objectID": "publications/journal_articles/Kormos-2022/index.html#abstract",
+    "href": "publications/journal_articles/Kormos-2022/index.html#abstract",
+    "title": "The Role of Input Modality and Vocabulary Knowledge in Alignment in Reading-to-Speaking Tasks",
     "section": "",
-    "text": "I am a Research Scientist at Equmenopolis, Inc. and a Guest Research Assistant Professor at Perceptual Computing Laboratory at Waseda University. My research centers on the assessment of second language spoken and written production using computational methods. My work draws on usage-based and functional approaches, as well as socio-cognitive theories of second language learning. I also work on developing and applying natural language processing tools that are tailored to specific needs in second language learning and assessment.\nI am also a strong advocate of Bayesian methods in (Instructed) Second Language Acquisition and assessment research. In my most recent publications, I have been increasingly relying on this analytic paradigm for its combination of flexibility, elegance and robustness in handling complex data structures."
+    "text": "Our study investigated lexical alignment in a reading-to-speaking task, in two modalities of input text presentation. We also explored whether participants’ vocabulary knowledge moderates the effects of text modality and difficulty on lexical alignment. We addressed these questions by analyzing lexical overlap in the speech of 128 Japanese learners of English. Students were asked to summarize the information given in two different expository informational texts that were presented in reading-only mode and in reading-while-listening mode, using a within-subject design. The results showed that participants produced fewer overlapping 5-grams in readingwhile-listening condition than in the reading-only condition. However for shorter n-grams no significant differences between modes of exposure were found. Students with larger vocabulary size produced less lexical overlap with the input text at the level of single words. We discuss the implications of the findings of the study for language teaching pedagogy."
   },
   {
-    "objectID": "index.html#positions",
-    "href": "index.html#positions",
-    "title": "Masaki Eguchi",
-    "section": "Positions",
-    "text": "Positions\nEqumenopolis, Inc. | Research Scientist | 2025 - Present\nWaseda University | Guest Research Assistant Professor | 2025 - Present\nWaseda University | Research Assistant Professor | 2023 - 2025"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Masaki Eguchi",
-    "section": "Education",
-    "text": "Education\nUniversity of Oregon | Eugene, Oregon, USA | PhD in Linguistics | Sept 2019 - June 2023\nWaseda University | Shinjuku, Tokyo, Japan | M.A in Education | April 2015 - March 2018"
-  },
-  {
-    "objectID": "publications/conference_papers/Kurata-2025/index.html",
-    "href": "publications/conference_papers/Kurata-2025/index.html",
-    "title": "Development and Validation of Engagement and Rapport Scales for Evaluating User Experience in Multimodal Dialogue Systems",
-    "section": "",
-    "text": "This study aimed to develop and validate two scales of engagement and rapport to evaluate the user experience quality with multimodal dialogue systems in the context of foreign language learning. The scales were designed based on theories of engagement in educational psychology, social psychology, and second language acquisition. Seventy-four Japanese learners of English completed roleplay and discussion tasks with trained human tutors and a dialog agent. After each dialogic task was completed, they responded to the scales of engagement and rapport. The validity and reliability of the scales were investigated through two analyses. We first conducted analysis of Cronbach’s alpha coefficient and a series of confirmatory factor analyses to test the structural validity of the scales and the reliability of our designed items. We then compared the scores of engagement and rapport between the dialogue with human tutors and the one with a dialogue agent. The results revealed that our scales succeeded in capturing the difference in the dialogue experience quality between the human interlocutors and the dialogue agent from multiple perspectives."
-  },
-  {
-    "objectID": "publications/conference_papers/Kurata-2025/index.html#abstract",
-    "href": "publications/conference_papers/Kurata-2025/index.html#abstract",
-    "title": "Development and Validation of Engagement and Rapport Scales for Evaluating User Experience in Multimodal Dialogue Systems",
-    "section": "",
-    "text": "This study aimed to develop and validate two scales of engagement and rapport to evaluate the user experience quality with multimodal dialogue systems in the context of foreign language learning. The scales were designed based on theories of engagement in educational psychology, social psychology, and second language acquisition. Seventy-four Japanese learners of English completed roleplay and discussion tasks with trained human tutors and a dialog agent. After each dialogic task was completed, they responded to the scales of engagement and rapport. The validity and reliability of the scales were investigated through two analyses. We first conducted analysis of Cronbach’s alpha coefficient and a series of confirmatory factor analyses to test the structural validity of the scales and the reliability of our designed items. We then compared the scores of engagement and rapport between the dialogue with human tutors and the one with a dialogue agent. The results revealed that our scales succeeded in capturing the difference in the dialogue experience quality between the human interlocutors and the dialogue agent from multiple perspectives."
-  },
-  {
-    "objectID": "publications/conference_papers/Kurata-2025/index.html#apa-reference",
-    "href": "publications/conference_papers/Kurata-2025/index.html#apa-reference",
-    "title": "Development and Validation of Engagement and Rapport Scales for Evaluating User Experience in Multimodal Dialogue Systems",
+    "objectID": "publications/journal_articles/Kormos-2022/index.html#apa-reference",
+    "href": "publications/journal_articles/Kormos-2022/index.html#apa-reference",
+    "title": "The Role of Input Modality and Vocabulary Knowledge in Alignment in Reading-to-Speaking Tasks",
     "section": "APA Reference",
-    "text": "APA Reference\n\n\nKurata, F., Saeki, M., Eguchi, M., Suzuki, S., Takatsu, H., & Matsuyama, Y. (2025). Development and Validation of Engagement and Rapport Scales for Evaluating User Experience in Multimodal Dialogue Systems (arXiv:2505.17075). arXiv. https://doi.org/10.48550/arXiv.2505.17075"
+    "text": "APA Reference\n\n\nKormos, J., Suzuki, S., & Eguchi, M. (2022). The role of input modality and vocabulary knowledge in alignment in reading-to-speaking tasks. System, 108, 102854. https://doi.org/10.1016/j.system.2022.102854"
   },
   {
-    "objectID": "publications/example-publication/index.html#apa-reference",
-    "href": "publications/example-publication/index.html#apa-reference",
-    "title": "Masaki EGUCHI",
+    "objectID": "publications/journal_articles/Kyle-2022a/index.html",
+    "href": "publications/journal_articles/Kyle-2022a/index.html",
+    "title": "Register Variation in Spoken and Written Language Use across Technology-Mediated and Non-Technology-Mediated Learning Environments",
+    "section": "",
+    "text": "In the realm of language proficiency assessments, the domain description inference and the extrapolation inference are key components of a validity argument. Biber et al.’s description of the lexicogrammatical features of the spoken and written registers in the T2K-SWAL corpus has served as support for the TOEFL iBT test’s domain description and extrapolation inferences. In the time since the T2K-SWAL corpus was collected, however, university learning environments have increasingly become technology-mediated. Accordingly, any description of the linguistic features of university language should account for the language produced in technology-mediated learning environments (TMLEs) in addition to non-technology-mediated learning environments (nonTMLEs). Kyle et al. recently began to address this issue by collecting a corpus of TMLE language use, which they then compared to language use in non-TMLEs using multidimensional analysis (MDA). The results indicated both similarities and substantive differences across the learning environments, but the study did not investigate the effects of particular registers on these results. In this study, we build on previous research by investigating lexicogrammatical features of specific spoken and written registers across technology-mediated and non-technology-mediated learning environments."
+  },
+  {
+    "objectID": "publications/journal_articles/Kyle-2022a/index.html#abstract",
+    "href": "publications/journal_articles/Kyle-2022a/index.html#abstract",
+    "title": "Register Variation in Spoken and Written Language Use across Technology-Mediated and Non-Technology-Mediated Learning Environments",
+    "section": "",
+    "text": "In the realm of language proficiency assessments, the domain description inference and the extrapolation inference are key components of a validity argument. Biber et al.’s description of the lexicogrammatical features of the spoken and written registers in the T2K-SWAL corpus has served as support for the TOEFL iBT test’s domain description and extrapolation inferences. In the time since the T2K-SWAL corpus was collected, however, university learning environments have increasingly become technology-mediated. Accordingly, any description of the linguistic features of university language should account for the language produced in technology-mediated learning environments (TMLEs) in addition to non-technology-mediated learning environments (nonTMLEs). Kyle et al. recently began to address this issue by collecting a corpus of TMLE language use, which they then compared to language use in non-TMLEs using multidimensional analysis (MDA). The results indicated both similarities and substantive differences across the learning environments, but the study did not investigate the effects of particular registers on these results. In this study, we build on previous research by investigating lexicogrammatical features of specific spoken and written registers across technology-mediated and non-technology-mediated learning environments."
+  },
+  {
+    "objectID": "publications/journal_articles/Kyle-2022a/index.html#apa-reference",
+    "href": "publications/journal_articles/Kyle-2022a/index.html#apa-reference",
+    "title": "Register Variation in Spoken and Written Language Use across Technology-Mediated and Non-Technology-Mediated Learning Environments",
     "section": "APA Reference",
-    "text": "APA Reference"
+    "text": "APA Reference\n\n\nKyle, K., Eguchi, M., Choe, A. T., & LaFlair, G. (2022). Register variation in spoken and written language use across technology-mediated and non-technology-mediated learning environments. Language Testing, 39(4), 618–648. https://doi.org/10.1177/02655322211057868"
   },
   {
-    "objectID": "publications/invited_contributions/Eguchi-2026/index.html",
-    "href": "publications/invited_contributions/Eguchi-2026/index.html",
-    "title": "Automated Essay Evaluation and Scoring",
+    "objectID": "publications/journal_articles/Kyle-2024/index.html",
+    "href": "publications/journal_articles/Kyle-2024/index.html",
+    "title": "Evaluating Evidence for the Reliability and Validity of Lexical Diversity Indices in L2 Oral Task Responses",
     "section": "",
-    "text": "Automated Writing Evaluation and Scoring refers to the application of natural language processing and artificial intelligence in writing assessment, including assigning scores and providing formative feedback. To date, AWE systems are widely used to give scores on test-takers’ performance in several high-stakes tests such as TOEFL iBT®, as well as to augment classroom writing instructions. In the last decade, the field of AWE has experienced transformative changes due to breakthroughs in NLP and the broader application of an argument-based validation framework. This entry provides an overview of the AWE research, highlighting its scope, current empirical findings, and important considerations when developing and evaluating AWE systems."
+    "text": "Although lexical diversity is often used as a measure of productive proficiency (e.g., as an aspect of lexical complexity) in SLA studies involving oral tasks, relatively little research has been conducted to support the reliability and/or validity of these indices in spoken contexts. Furthermore, SLA researchers commonly use indices of lexical diversity such as Root TTR (Guiraud’s index) and D (vocd-D and HD-D) that have been preliminarily shown to lack reliability in spoken L2 contexts and/or have been consistently shown to lack reliability in written L2 contexts. In this study, we empirically evaluate lexical diversity indices with respect to two aspects of reliability (text-length independence and across-task stability) and one aspect of validity (relationship with proficiency scores). The results indicated that neither Root TTR nor D is reliable across different text lengths. However, support for the reliability and validity of optimized versions of MATTR and MTLD was found."
   },
   {
-    "objectID": "publications/invited_contributions/Eguchi-2026/index.html#abstract",
-    "href": "publications/invited_contributions/Eguchi-2026/index.html#abstract",
-    "title": "Automated Essay Evaluation and Scoring",
+    "objectID": "publications/journal_articles/Kyle-2024/index.html#abstract",
+    "href": "publications/journal_articles/Kyle-2024/index.html#abstract",
+    "title": "Evaluating Evidence for the Reliability and Validity of Lexical Diversity Indices in L2 Oral Task Responses",
     "section": "",
-    "text": "Automated Writing Evaluation and Scoring refers to the application of natural language processing and artificial intelligence in writing assessment, including assigning scores and providing formative feedback. To date, AWE systems are widely used to give scores on test-takers’ performance in several high-stakes tests such as TOEFL iBT®, as well as to augment classroom writing instructions. In the last decade, the field of AWE has experienced transformative changes due to breakthroughs in NLP and the broader application of an argument-based validation framework. This entry provides an overview of the AWE research, highlighting its scope, current empirical findings, and important considerations when developing and evaluating AWE systems."
+    "text": "Although lexical diversity is often used as a measure of productive proficiency (e.g., as an aspect of lexical complexity) in SLA studies involving oral tasks, relatively little research has been conducted to support the reliability and/or validity of these indices in spoken contexts. Furthermore, SLA researchers commonly use indices of lexical diversity such as Root TTR (Guiraud’s index) and D (vocd-D and HD-D) that have been preliminarily shown to lack reliability in spoken L2 contexts and/or have been consistently shown to lack reliability in written L2 contexts. In this study, we empirically evaluate lexical diversity indices with respect to two aspects of reliability (text-length independence and across-task stability) and one aspect of validity (relationship with proficiency scores). The results indicated that neither Root TTR nor D is reliable across different text lengths. However, support for the reliability and validity of optimized versions of MATTR and MTLD was found."
   },
   {
-    "objectID": "publications/invited_contributions/Eguchi-2026/index.html#apa-reference",
-    "href": "publications/invited_contributions/Eguchi-2026/index.html#apa-reference",
-    "title": "Automated Essay Evaluation and Scoring",
+    "objectID": "publications/journal_articles/Kyle-2024/index.html#apa-reference",
+    "href": "publications/journal_articles/Kyle-2024/index.html#apa-reference",
+    "title": "Evaluating Evidence for the Reliability and Validity of Lexical Diversity Indices in L2 Oral Task Responses",
     "section": "APA Reference",
-    "text": "APA Reference\n\n\nEguchi, M. (2026). Automated Essay Evaluation and Scoring. In The encyclopedia of applied linguistics. Wiley-Blackwell."
+    "text": "APA Reference\n\n\nKyle, K., Sung, H., Eguchi, M., & Zenker, F. (2024). Evaluating evidence for the reliability and validity of lexical diversity indices in L2 oral task responses. Studies in Second Language Acquisition, 46(1), 278–299. https://doi.org/10.1017/S0272263123000402"
   },
   {
-    "objectID": "publications/journal_articles/Eguchi-2022/index.html",
-    "href": "publications/journal_articles/Eguchi-2022/index.html",
-    "title": "LEXICAL COMPETENCE UNDERLYING SECOND LANGUAGE WORD ASSOCIATION TASKS: EXAMINING THE CONSTRUCT VALIDITY OF RESPONSE TYPE AND RESPONSE TIME MEASURES",
+    "objectID": "publications/journal_articles/Maie-2024/index.html",
+    "href": "publications/journal_articles/Maie-2024/index.html",
+    "title": "Arbitrary Choices, Arbitrary Results: Three Cases of Multiverse Analysis in L2 Research",
     "section": "",
-    "text": "This study investigated the constructs underlying second language (L2) word association (WA) with regard to three dimensions of lexical competence—size, organization, and accessibility—and the lexical performance of speech. One-hundred and thirteen Japanese learners of English completed a computer-delivered oral WA task along with three vocabulary tasks: a formrecall gap-filling task (size), a primed lexical decision task (organization and accessibility), and an oral cartoon narrative (lexical richness). Regression analyses explored how well these lexical competence and performance scores predicted two WA outcome variables: response profiles and response times. Form-recall vocabulary knowledge, (collocational) priming, and lexical richness explained a large amount of variance in WA response type profiles (Nagelkerke’s pseudo R2 = .901). Form-recall vocabulary knowledge and lexical decision time explained 28.5% of the variance of WA response times. A three-stage model of L2 WA task performance is proposed to account for the constructs underlying WA performance."
+    "text": "Research studies typically involve a series of decisions on how data should be collected, processed, and analyzed. In this decision-making process, there often exists great flexibility, involving more or less equally reasonable options. The inherent flexibility introduces researcher degrees of freedom, where the choices made throughout the research process can significantly affect study outcomes. In this article, we introduce multiverse analysis as a viable approach to mitigating researcher degrees of freedom and enhancing research transparency. Multiverse analysis entails declaring multiple equally plausible options to collect, process, and analyze data, and performing all analyses across the entire set. We present worked examples of multiverse analysis in three subareas of applied linguistics research (psycholinguistic research, vocabulary research, and corpus research) by reanalyzing data from our own published studies. We showcase how seemingly innocuous decisions made by researchers can lead to variations in research outcomes and sometimes divergent conclusions. Through the examples, we discuss how one may reason against the variation in statistical results and propose recommendations for future research."
   },
   {
-    "objectID": "publications/journal_articles/Eguchi-2022/index.html#abstract",
-    "href": "publications/journal_articles/Eguchi-2022/index.html#abstract",
-    "title": "LEXICAL COMPETENCE UNDERLYING SECOND LANGUAGE WORD ASSOCIATION TASKS: EXAMINING THE CONSTRUCT VALIDITY OF RESPONSE TYPE AND RESPONSE TIME MEASURES",
+    "objectID": "publications/journal_articles/Maie-2024/index.html#abstract",
+    "href": "publications/journal_articles/Maie-2024/index.html#abstract",
+    "title": "Arbitrary Choices, Arbitrary Results: Three Cases of Multiverse Analysis in L2 Research",
     "section": "",
-    "text": "This study investigated the constructs underlying second language (L2) word association (WA) with regard to three dimensions of lexical competence—size, organization, and accessibility—and the lexical performance of speech. One-hundred and thirteen Japanese learners of English completed a computer-delivered oral WA task along with three vocabulary tasks: a formrecall gap-filling task (size), a primed lexical decision task (organization and accessibility), and an oral cartoon narrative (lexical richness). Regression analyses explored how well these lexical competence and performance scores predicted two WA outcome variables: response profiles and response times. Form-recall vocabulary knowledge, (collocational) priming, and lexical richness explained a large amount of variance in WA response type profiles (Nagelkerke’s pseudo R2 = .901). Form-recall vocabulary knowledge and lexical decision time explained 28.5% of the variance of WA response times. A three-stage model of L2 WA task performance is proposed to account for the constructs underlying WA performance."
+    "text": "Research studies typically involve a series of decisions on how data should be collected, processed, and analyzed. In this decision-making process, there often exists great flexibility, involving more or less equally reasonable options. The inherent flexibility introduces researcher degrees of freedom, where the choices made throughout the research process can significantly affect study outcomes. In this article, we introduce multiverse analysis as a viable approach to mitigating researcher degrees of freedom and enhancing research transparency. Multiverse analysis entails declaring multiple equally plausible options to collect, process, and analyze data, and performing all analyses across the entire set. We present worked examples of multiverse analysis in three subareas of applied linguistics research (psycholinguistic research, vocabulary research, and corpus research) by reanalyzing data from our own published studies. We showcase how seemingly innocuous decisions made by researchers can lead to variations in research outcomes and sometimes divergent conclusions. Through the examples, we discuss how one may reason against the variation in statistical results and propose recommendations for future research."
   },
   {
-    "objectID": "publications/journal_articles/Eguchi-2022/index.html#apa-reference",
-    "href": "publications/journal_articles/Eguchi-2022/index.html#apa-reference",
-    "title": "LEXICAL COMPETENCE UNDERLYING SECOND LANGUAGE WORD ASSOCIATION TASKS: EXAMINING THE CONSTRUCT VALIDITY OF RESPONSE TYPE AND RESPONSE TIME MEASURES",
+    "objectID": "publications/journal_articles/Maie-2024/index.html#apa-reference",
+    "href": "publications/journal_articles/Maie-2024/index.html#apa-reference",
+    "title": "Arbitrary Choices, Arbitrary Results: Three Cases of Multiverse Analysis in L2 Research",
     "section": "APA Reference",
-    "text": "APA Reference\n\n\nEguchi, M., Suzuki, S., & Suzuki, Y. (2022). LEXICAL COMPETENCE UNDERLYING SECOND LANGUAGE WORD ASSOCIATION TASKS: EXAMINING THE CONSTRUCT VALIDITY OF RESPONSE TYPE AND RESPONSE TIME MEASURES. Studies in Second Language Acquisition, 44(1), 112–142. https://doi.org/10.1017/S0272263121000164"
+    "text": "APA Reference\n\n\nMaie, R., Eguchi, M., & Uchihara, T. (2024). Arbitrary choices, arbitrary results: Three cases of multiverse analysis in L2 research. Research Methods in Applied Linguistics, 3(2), 100124. https://doi.org/10.1016/j.rmal.2024.100124"
   },
   {
-    "objectID": "publications/journal_articles/Eguchi-2023a/index.html#apa-reference",
-    "href": "publications/journal_articles/Eguchi-2023a/index.html#apa-reference",
-    "title": "L2 Collocation Profiles and Their Relationship with Vocabulary Proficiency: A Learner Corpus Approach",
+    "objectID": "publications/journal_articles/Suzuki-2022a/index.html",
+    "href": "publications/journal_articles/Suzuki-2022a/index.html",
+    "title": "Does the Reuse of Constructions Promote Fluency Development in Task Repetition? A Usage-Based Perspective",
+    "section": "",
+    "text": "In this task-repetition intervention study, L2 learners’ reuse of linguistic constructions was analyzed to investigate to what extent recurring reliance on specific constructions during the same task repetition predicts fluency development. English-as-a-foreign-language (EFL) learners performed oral narrative tasks three times per day under two task repetition schedules: blocked (Day 1: Prompt A-A-A, Day 2: B-B-B, Day 3: C-C-C) versus interleaved (Day 1: Prompt A-B-C, Day 2: A-B-C, Day 3: A-B-C). From a usage-based perspective, their reuse of constructions across the same prompt was examined at both concrete (lexical unigram [e.g., “bicycle”] and trigram [e.g., “behind the bicycle”]) and abstract (parts of speech trigram [e.g., “preposition determiner noun”]) level. Subsequent analyses revealed that blocked practice led to higher reuse of both concrete and abstract constructions than interleaved practice. Reuse frequency was correlated with during-training and pretest–posttest fluency changes. Particularly, greater reuse of lexical and abstract trigrams during interleaved practice led to improvements in speed and breakdown fluency (i.e., shorter mean syllable duration and fewer mid-clause pauses) after the intervention, albeit with higher effort (indicated by longer mid-clause and clause-final pauses). Taken together, these findings indicate that manipulating task-repetition schedule may systematically induce reuse of linguistic constructions, which may promote proceduralization (entrenchment) of constructional knowledge at both concrete and abstract levels."
+  },
+  {
+    "objectID": "publications/journal_articles/Suzuki-2022a/index.html#abstract",
+    "href": "publications/journal_articles/Suzuki-2022a/index.html#abstract",
+    "title": "Does the Reuse of Constructions Promote Fluency Development in Task Repetition? A Usage-Based Perspective",
+    "section": "",
+    "text": "In this task-repetition intervention study, L2 learners’ reuse of linguistic constructions was analyzed to investigate to what extent recurring reliance on specific constructions during the same task repetition predicts fluency development. English-as-a-foreign-language (EFL) learners performed oral narrative tasks three times per day under two task repetition schedules: blocked (Day 1: Prompt A-A-A, Day 2: B-B-B, Day 3: C-C-C) versus interleaved (Day 1: Prompt A-B-C, Day 2: A-B-C, Day 3: A-B-C). From a usage-based perspective, their reuse of constructions across the same prompt was examined at both concrete (lexical unigram [e.g., “bicycle”] and trigram [e.g., “behind the bicycle”]) and abstract (parts of speech trigram [e.g., “preposition determiner noun”]) level. Subsequent analyses revealed that blocked practice led to higher reuse of both concrete and abstract constructions than interleaved practice. Reuse frequency was correlated with during-training and pretest–posttest fluency changes. Particularly, greater reuse of lexical and abstract trigrams during interleaved practice led to improvements in speed and breakdown fluency (i.e., shorter mean syllable duration and fewer mid-clause pauses) after the intervention, albeit with higher effort (indicated by longer mid-clause and clause-final pauses). Taken together, these findings indicate that manipulating task-repetition schedule may systematically induce reuse of linguistic constructions, which may promote proceduralization (entrenchment) of constructional knowledge at both concrete and abstract levels."
+  },
+  {
+    "objectID": "publications/journal_articles/Suzuki-2022a/index.html#apa-reference",
+    "href": "publications/journal_articles/Suzuki-2022a/index.html#apa-reference",
+    "title": "Does the Reuse of Constructions Promote Fluency Development in Task Repetition? A Usage-Based Perspective",
     "section": "APA Reference",
-    "text": "APA Reference\n\n\nEguchi, M., & Kyle, K. (2023). L2 collocation profiles and their relationship with vocabulary proficiency: A learner corpus approach. Journal of Second Language Writing, 60, 100975. https://doi.org/10.1016/j.jslw.2023.100975"
+    "text": "APA Reference\n\n\nSuzuki, Y., Eguchi, M., & De Jong, N. (2022). Does the Reuse of Constructions Promote Fluency Development in Task Repetition? A Usage-Based Perspective. TESOL Quarterly, 56(4), 1290–1319. https://doi.org/10.1002/tesq.3103"
   },
   {
-    "objectID": "publications/journal_articles/Eguchi-2025-TQ/index.html",
-    "href": "publications/journal_articles/Eguchi-2025-TQ/index.html",
-    "title": "Human- versus artificial intelligence-delivered roleplay tasks for assessing interactional competence: An applied conversation analytic study",
+    "objectID": "publications/journal_articles/Uchihara-2022/index.html",
+    "href": "publications/journal_articles/Uchihara-2022/index.html",
+    "title": "To What Extent Is Collocation Knowledge Associated with Oral Proficiency? A Corpus-Based Approach to Word Association",
     "section": "",
-    "text": "This study investigates the nature of co-construction in roleplays conducted with human versus AI interlocutors for assessing interactional competence (IC) in L2 English. Seventy-five university students in Japan completed roleplay tasks with both human tutors and an AI agent. The AI agent is a multimodal dialog system integrated with a large language model (LLM), designed to allow synchronous interaction with the participant through autonomous turn-taking. Using conversation analysis, 24 interactions were analyzed to investigate how participants managed preference organization, sequence expansion, and turn-taking. The analysis revealed that the AI-delivered roleplays elicited some IC-relevant practices and that participants treated the roleplay as a co-constructed interaction, responding contingently to the AI’s contributions. While the data suggested both human and AI interlocutors maintained mutual understanding, striking differences in turn-taking practices were observed, including more frequent overlaps and inter-turn gaps in the AI-delivered condition. The study concludes that LLM-integrated multimodal dialog systems, by producing recognizable verbal actions and multimodal signals, have the potential to effectively elicit co-constructed interactional performances relevant to IC assessment."
+    "text": "This study examined the relationship between second language (L2) learners’ collocation knowledge and oral proficiency. A new approach to measuring collocation was adopted by eliciting responses through a word association task and using corpus-based measures (absolute frequency count, t-score, MI score) to analyze the degree to which stimulus words and responses were collocated. Oral proficiency was measured using human judgements and objective measures of fluency (articulation rate, silent pause ratio, filled pause ratio) and lexical richness (diversity, frequency, range). Forty Japanese university students completed a word association task and a spontaneous speaking task (picture narrative). Results indicated that speakers who used more low-frequency collocations in the word association task (i.e., lower collocation frequency scores) spoke faster with fewer silent pauses and were perceived to be more fluent. Speakers who provided more strongly associated collocations (as measured by MI) used more sophisticated lexical items and were perceived to be lexically proficient. Collocation knowledge remained as a unique predictor after the influence of learners’ vocabulary size (i.e., knowledge of single-word items) was considered. These findings support the key role that collocation plays in oral proficiency and provide important insights into understanding L2 speech development from the perspective of phraseological competence."
   },
   {
-    "objectID": "publications/journal_articles/Eguchi-2025-TQ/index.html#abstract",
-    "href": "publications/journal_articles/Eguchi-2025-TQ/index.html#abstract",
-    "title": "Human- versus artificial intelligence-delivered roleplay tasks for assessing interactional competence: An applied conversation analytic study",
+    "objectID": "publications/journal_articles/Uchihara-2022/index.html#abstract",
+    "href": "publications/journal_articles/Uchihara-2022/index.html#abstract",
+    "title": "To What Extent Is Collocation Knowledge Associated with Oral Proficiency? A Corpus-Based Approach to Word Association",
     "section": "",
-    "text": "This study investigates the nature of co-construction in roleplays conducted with human versus AI interlocutors for assessing interactional competence (IC) in L2 English. Seventy-five university students in Japan completed roleplay tasks with both human tutors and an AI agent. The AI agent is a multimodal dialog system integrated with a large language model (LLM), designed to allow synchronous interaction with the participant through autonomous turn-taking. Using conversation analysis, 24 interactions were analyzed to investigate how participants managed preference organization, sequence expansion, and turn-taking. The analysis revealed that the AI-delivered roleplays elicited some IC-relevant practices and that participants treated the roleplay as a co-constructed interaction, responding contingently to the AI’s contributions. While the data suggested both human and AI interlocutors maintained mutual understanding, striking differences in turn-taking practices were observed, including more frequent overlaps and inter-turn gaps in the AI-delivered condition. The study concludes that LLM-integrated multimodal dialog systems, by producing recognizable verbal actions and multimodal signals, have the potential to effectively elicit co-constructed interactional performances relevant to IC assessment."
+    "text": "This study examined the relationship between second language (L2) learners’ collocation knowledge and oral proficiency. A new approach to measuring collocation was adopted by eliciting responses through a word association task and using corpus-based measures (absolute frequency count, t-score, MI score) to analyze the degree to which stimulus words and responses were collocated. Oral proficiency was measured using human judgements and objective measures of fluency (articulation rate, silent pause ratio, filled pause ratio) and lexical richness (diversity, frequency, range). Forty Japanese university students completed a word association task and a spontaneous speaking task (picture narrative). Results indicated that speakers who used more low-frequency collocations in the word association task (i.e., lower collocation frequency scores) spoke faster with fewer silent pauses and were perceived to be more fluent. Speakers who provided more strongly associated collocations (as measured by MI) used more sophisticated lexical items and were perceived to be lexically proficient. Collocation knowledge remained as a unique predictor after the influence of learners’ vocabulary size (i.e., knowledge of single-word items) was considered. These findings support the key role that collocation plays in oral proficiency and provide important insights into understanding L2 speech development from the perspective of phraseological competence."
   },
   {
-    "objectID": "publications/journal_articles/Eguchi-2025-TQ/index.html#citation",
-    "href": "publications/journal_articles/Eguchi-2025-TQ/index.html#citation",
-    "title": "Human- versus artificial intelligence-delivered roleplay tasks for assessing interactional competence: An applied conversation analytic study",
-    "section": "Citation",
-    "text": "Citation"
-  },
-  {
-    "objectID": "publications/journal_articles/Kyle-2021c/index.html",
-    "href": "publications/journal_articles/Kyle-2021c/index.html",
-    "title": "A Comparison of Spoken and Written Language Use in Traditional and textscTechnologytextsc-textscMediated Learning Environments",
-    "section": "",
-    "text": "A key piece of a validity argument for a language assessment tool is clear overlap between assessment tasks and the target language use (TLU) domain (i.e., the domain description inference). The TOEFL 2000 Spoken and Written Academic Language (T2K-SWAL) corpus, which represents a variety of academic registers and disciplines in traditional learning environments (e.g., lectures, office hours, textbooks, course packs), has served as an important foundation for the TOEFL iBT® test’s domain description inference for more than 15 years. There are, however, signs that the characteristics of the registers that students encounter may be changing. Increasingly, typical university courses include technology-mediated learning environments (TMLEs), such as those represented by course management software and other online educational tools. To ensure that the characteristics of TOEFL iBT test tasks continue to align with the TLU domain, it is important to analyze the registers that are typically encountered in TMLEs. In this study, we address this issue by collecting a relatively large (4.5 million words) corpus of spoken and written TMLE registers across the six primary disciplines represented in T2KSWAL. This corpus was subsequently tagged for a wide variety of linguistic features, and a multidimensional analysis was conducted to compare and contrast written and spoken language in TMLE and T2K-SWAL. The results indicate that although some similarities exist across spoken and written texts in traditional learning environments and TMLEs, language use also differs across learning environments (and modes) with regard to key linguistic dimensions."
-  },
-  {
-    "objectID": "publications/journal_articles/Kyle-2021c/index.html#abstract",
-    "href": "publications/journal_articles/Kyle-2021c/index.html#abstract",
-    "title": "A Comparison of Spoken and Written Language Use in Traditional and textscTechnologytextsc-textscMediated Learning Environments",
-    "section": "",
-    "text": "A key piece of a validity argument for a language assessment tool is clear overlap between assessment tasks and the target language use (TLU) domain (i.e., the domain description inference). The TOEFL 2000 Spoken and Written Academic Language (T2K-SWAL) corpus, which represents a variety of academic registers and disciplines in traditional learning environments (e.g., lectures, office hours, textbooks, course packs), has served as an important foundation for the TOEFL iBT® test’s domain description inference for more than 15 years. There are, however, signs that the characteristics of the registers that students encounter may be changing. Increasingly, typical university courses include technology-mediated learning environments (TMLEs), such as those represented by course management software and other online educational tools. To ensure that the characteristics of TOEFL iBT test tasks continue to align with the TLU domain, it is important to analyze the registers that are typically encountered in TMLEs. In this study, we address this issue by collecting a relatively large (4.5 million words) corpus of spoken and written TMLE registers across the six primary disciplines represented in T2KSWAL. This corpus was subsequently tagged for a wide variety of linguistic features, and a multidimensional analysis was conducted to compare and contrast written and spoken language in TMLE and T2K-SWAL. The results indicate that although some similarities exist across spoken and written texts in traditional learning environments and TMLEs, language use also differs across learning environments (and modes) with regard to key linguistic dimensions."
-  },
-  {
-    "objectID": "publications/journal_articles/Kyle-2021c/index.html#apa-reference",
-    "href": "publications/journal_articles/Kyle-2021c/index.html#apa-reference",
-    "title": "A Comparison of Spoken and Written Language Use in Traditional and textscTechnologytextsc-textscMediated Learning Environments",
+    "objectID": "publications/journal_articles/Uchihara-2022/index.html#apa-reference",
+    "href": "publications/journal_articles/Uchihara-2022/index.html#apa-reference",
+    "title": "To What Extent Is Collocation Knowledge Associated with Oral Proficiency? A Corpus-Based Approach to Word Association",
     "section": "APA Reference",
-    "text": "APA Reference\n\n\nKyle, K., Choe, A. T., Eguchi, M., LaFlair, G., & Ziegler, N. (2021). A Comparison of Spoken and Written Language Use in Traditional and Technology-Mediated Learning Environments. ETS Research Report Series, 2021(1), 1–29. https://doi.org/10.1002/ets2.12329"
+    "text": "APA Reference\n\n\nUchihara, T., Eguchi, M., Clenton, J., Kyle, K., & Saito, K. (2022). To What Extent is Collocation Knowledge Associated with Oral Proficiency? A Corpus-Based Approach to Word Association. Language and Speech, 65(2), 311–336. https://doi.org/10.1177/00238309211013865"
   },
   {
-    "objectID": "publications/journal_articles/Kyle-2023/index.html",
-    "href": "publications/journal_articles/Kyle-2023/index.html",
-    "title": "Assessing Spoken Lexical and Lexicogrammatical Proficiency Using Features of Word, Bigram, and Dependency Bigram Use",
-    "section": "",
-    "text": "The measurement of second language (L2) productive lexical proficiency has driven a great deal of research over the past two decades. Research has indicated that more proficient speakers and writers tend to use a wider range of words and that more proficient writers tend to use words that are more sophisticated (less frequent in reference corpora). Research over the past 15 years has also demonstrated that the way words are used in context (i.e., collocation use) is also an important indicator of both written and spoken proficiency. In this study, we extend recent research that has modeled writing proficiency using collocation indices based on grammatical dependencies (e.g., verb–direct object) to spoken contexts. In particular, we model speaking proficiency scores from a large corpus of oral proficiency interview responses using a range of well-known indices of productive proficiency and newly developed grammatical dependency indices. The results indicated that all index types demonstrated small to moderate correlations with speaking proficiency individually but explained a large proportion of the variance when used in a multivariate model that included dependency collocation indices."
-  },
-  {
-    "objectID": "publications/journal_articles/Kyle-2023/index.html#abstract",
-    "href": "publications/journal_articles/Kyle-2023/index.html#abstract",
-    "title": "Assessing Spoken Lexical and Lexicogrammatical Proficiency Using Features of Word, Bigram, and Dependency Bigram Use",
-    "section": "",
-    "text": "The measurement of second language (L2) productive lexical proficiency has driven a great deal of research over the past two decades. Research has indicated that more proficient speakers and writers tend to use a wider range of words and that more proficient writers tend to use words that are more sophisticated (less frequent in reference corpora). Research over the past 15 years has also demonstrated that the way words are used in context (i.e., collocation use) is also an important indicator of both written and spoken proficiency. In this study, we extend recent research that has modeled writing proficiency using collocation indices based on grammatical dependencies (e.g., verb–direct object) to spoken contexts. In particular, we model speaking proficiency scores from a large corpus of oral proficiency interview responses using a range of well-known indices of productive proficiency and newly developed grammatical dependency indices. The results indicated that all index types demonstrated small to moderate correlations with speaking proficiency individually but explained a large proportion of the variance when used in a multivariate model that included dependency collocation indices."
-  },
-  {
-    "objectID": "publications/journal_articles/Kyle-2023/index.html#apa-reference",
-    "href": "publications/journal_articles/Kyle-2023/index.html#apa-reference",
-    "title": "Assessing Spoken Lexical and Lexicogrammatical Proficiency Using Features of Word, Bigram, and Dependency Bigram Use",
-    "section": "APA Reference",
-    "text": "APA Reference\n\n\nKyle, K., & Eguchi, M. (2023). Assessing spoken lexical and lexicogrammatical proficiency using features of word, bigram, and dependency bigram use. The Modern Language Journal, 107(2), 531–564. https://doi.org/10.1111/modl.12845"
-  },
-  {
-    "objectID": "publications/journal_articles/Kyle-2024a/index.html",
-    "href": "publications/journal_articles/Kyle-2024a/index.html",
-    "title": "Evaluating NLP Models with Written and Spoken L2 Samples",
-    "section": "",
-    "text": "The use of natural language processing tools such as part-of-speech taggers and syntactic parsers are increasingly being used in studies of second language (L2) proficiency and development. However, relatively little work has focused on reporting on the accuracy of these tools or optimizing their performance in L2 contexts. While some studies reference the published overall accuracy of a particular tool or include a small-scale accuracy analysis, very few (if any) studies provide a comprehensive account of the performance of taggers and parsers across a range of written and spoken registers. In this study, we provide a large-scale accuracy analysis of popular taggers and parsers across L1 and L2 written and spoken texts, both when default and L2optimized models are used. Accuracy is examined both at the feature level (e.g., identifying adjective-noun relationships) and the text level (e.g., mean mutual information scores). The results highlight the strength and weaknesses of these tools."
-  },
-  {
-    "objectID": "publications/journal_articles/Kyle-2024a/index.html#abstract",
-    "href": "publications/journal_articles/Kyle-2024a/index.html#abstract",
-    "title": "Evaluating NLP Models with Written and Spoken L2 Samples",
-    "section": "",
-    "text": "The use of natural language processing tools such as part-of-speech taggers and syntactic parsers are increasingly being used in studies of second language (L2) proficiency and development. However, relatively little work has focused on reporting on the accuracy of these tools or optimizing their performance in L2 contexts. While some studies reference the published overall accuracy of a particular tool or include a small-scale accuracy analysis, very few (if any) studies provide a comprehensive account of the performance of taggers and parsers across a range of written and spoken registers. In this study, we provide a large-scale accuracy analysis of popular taggers and parsers across L1 and L2 written and spoken texts, both when default and L2optimized models are used. Accuracy is examined both at the feature level (e.g., identifying adjective-noun relationships) and the text level (e.g., mean mutual information scores). The results highlight the strength and weaknesses of these tools."
-  },
-  {
-    "objectID": "publications/journal_articles/Kyle-2024a/index.html#apa-reference",
-    "href": "publications/journal_articles/Kyle-2024a/index.html#apa-reference",
-    "title": "Evaluating NLP Models with Written and Spoken L2 Samples",
-    "section": "APA Reference",
-    "text": "APA Reference\n\n\nKyle, K., & Eguchi, M. (2024). Evaluating NLP models with written and spoken L2 samples. Research Methods in Applied Linguistics, 3(2), 100120. https://doi.org/10.1016/j.rmal.2024.100120"
-  },
-  {
-    "objectID": "publications/journal_articles/Mizumoto-2023a/index.html",
-    "href": "publications/journal_articles/Mizumoto-2023a/index.html",
-    "title": "Exploring the Potential of Using an AI Language Model for Automated Essay Scoring",
-    "section": "",
-    "text": "The widespread adoption of ChatGPT, an AI language model, has the potential to bring about significant changes to the research, teaching, and learning of foreign languages. The present study aims to leverage this technology to perform automated essay scoring (AES) and evaluate its reliability and accuracy. Specifically, we utilized the GPT-3 text-davinci-003 model to automatically score all 12,100 essays contained in the ETS Corpus of Non-Native Written English (TOEFL11) and compared these scores to benchmark levels. The study also explored the extent to which linguistic features influence AES with GPT. The results showed that AES using GPT has a certain level of accuracy and reliability and could provide valuable support for human evaluations. Furthermore, the analysis revealed that utilizing linguistic features could enhance the accuracy of the scoring. These findings suggest that AI language models, such as ChatGPT, can be effectively utilized as AES tools, potentially revolutionizing methods of writing evaluation and feedback in both research and practice. The paper concludes by discussing the practical implications of using GPT for AES and exploring prospective future considerations."
-  },
-  {
-    "objectID": "publications/journal_articles/Mizumoto-2023a/index.html#abstract",
-    "href": "publications/journal_articles/Mizumoto-2023a/index.html#abstract",
-    "title": "Exploring the Potential of Using an AI Language Model for Automated Essay Scoring",
-    "section": "",
-    "text": "The widespread adoption of ChatGPT, an AI language model, has the potential to bring about significant changes to the research, teaching, and learning of foreign languages. The present study aims to leverage this technology to perform automated essay scoring (AES) and evaluate its reliability and accuracy. Specifically, we utilized the GPT-3 text-davinci-003 model to automatically score all 12,100 essays contained in the ETS Corpus of Non-Native Written English (TOEFL11) and compared these scores to benchmark levels. The study also explored the extent to which linguistic features influence AES with GPT. The results showed that AES using GPT has a certain level of accuracy and reliability and could provide valuable support for human evaluations. Furthermore, the analysis revealed that utilizing linguistic features could enhance the accuracy of the scoring. These findings suggest that AI language models, such as ChatGPT, can be effectively utilized as AES tools, potentially revolutionizing methods of writing evaluation and feedback in both research and practice. The paper concludes by discussing the practical implications of using GPT for AES and exploring prospective future considerations."
-  },
-  {
-    "objectID": "publications/journal_articles/Mizumoto-2023a/index.html#apa-reference",
-    "href": "publications/journal_articles/Mizumoto-2023a/index.html#apa-reference",
-    "title": "Exploring the Potential of Using an AI Language Model for Automated Essay Scoring",
-    "section": "APA Reference",
-    "text": "APA Reference\n\n\nMizumoto, A., & Eguchi, M. (2023). Exploring the potential of using an AI language model for automated essay scoring. Research Methods in Applied Linguistics, 2(2), 100050. https://doi.org/10.1016/j.rmal.2023.100050"
-  },
-  {
-    "objectID": "publications/journal_articles/Takatsu-2026/index.html",
-    "href": "publications/journal_articles/Takatsu-2026/index.html",
-    "title": "Gnowsis: Multimodal Multitask Learning for Oral Proficiency Assessments",
-    "section": "",
-    "text": "Although oral proficiency assessments are crucial to understand second language (L2) learners’ progress, they are resource-intensive. Herein we propose a multimodal multitask learning model to assess L2 proficiency levels from multiple aspects on the basis of multimodal dialogue data. To construct the model, we first created a dataset of speech samples collected through oral proficiency interviews between Japanese learners of English and a conversational virtual agent. Expert human raters subsequently categorized the samples into the six levels based on the rating scales defined in the Common European Framework of Reference for Languages with respect to proficiency in one holistic and five analytic assessment criteria (vocabulary richness, grammatical accuracy, fluency, goodness of pronunciation, and coherence). The model was trained using this dataset via the multitask learning approach to simultaneously predict the proficiency levels of these language competences from various linguistic features. These features were extracted via multiple encoder modules, which were composed of feature extractors pretrained through various natural language processing tasks such as grammatical error correction, coreference resolution, discourse marker prediction, and pronunciation scoring. In experiments comparing the proposed model to baseline models with a feature extractor pretrained with single modality (textual or acoustic) features, the proposed model outperformed the baseline models. In particular, the proposed model was robust even with limited training data or short dialogues with a smaller number of topics because it considered rich features."
-  },
-  {
-    "objectID": "publications/journal_articles/Takatsu-2026/index.html#abstract",
-    "href": "publications/journal_articles/Takatsu-2026/index.html#abstract",
-    "title": "Gnowsis: Multimodal Multitask Learning for Oral Proficiency Assessments",
-    "section": "",
-    "text": "Although oral proficiency assessments are crucial to understand second language (L2) learners’ progress, they are resource-intensive. Herein we propose a multimodal multitask learning model to assess L2 proficiency levels from multiple aspects on the basis of multimodal dialogue data. To construct the model, we first created a dataset of speech samples collected through oral proficiency interviews between Japanese learners of English and a conversational virtual agent. Expert human raters subsequently categorized the samples into the six levels based on the rating scales defined in the Common European Framework of Reference for Languages with respect to proficiency in one holistic and five analytic assessment criteria (vocabulary richness, grammatical accuracy, fluency, goodness of pronunciation, and coherence). The model was trained using this dataset via the multitask learning approach to simultaneously predict the proficiency levels of these language competences from various linguistic features. These features were extracted via multiple encoder modules, which were composed of feature extractors pretrained through various natural language processing tasks such as grammatical error correction, coreference resolution, discourse marker prediction, and pronunciation scoring. In experiments comparing the proposed model to baseline models with a feature extractor pretrained with single modality (textual or acoustic) features, the proposed model outperformed the baseline models. In particular, the proposed model was robust even with limited training data or short dialogues with a smaller number of topics because it considered rich features."
-  },
-  {
-    "objectID": "publications/journal_articles/Takatsu-2026/index.html#apa-reference",
-    "href": "publications/journal_articles/Takatsu-2026/index.html#apa-reference",
-    "title": "Gnowsis: Multimodal Multitask Learning for Oral Proficiency Assessments",
-    "section": "APA Reference",
-    "text": "APA Reference\n\n\nTakatsu, H., Suzuki, S., Eguchi, M., Matsuura, R., Saeki, M., & Matsuyama, Y. (2026). Gnowsis: Multimodal Multitask Learning for Oral Proficiency Assessments. Computer Speech & Language, 95, 101860. https://doi.org/10.1016/j.csl.2025.101860"
-  },
-  {
-    "objectID": "publications/journal_articles/Uchihara-2025/index.html",
-    "href": "publications/journal_articles/Uchihara-2025/index.html",
-    "title": "The Contribution of Guessing from Context and Dictionary Use to Receptive and Productive Vocabulary Knowledge: A Structural Equation Modeling Approach",
-    "section": "",
-    "text": "This study investigated the relationships between two vocabulary learning strategies (guessing from context and dictionary use) and two aspects of vocabulary knowledge (receptive and productive vocabulary knowledge). One hundred and thirty-five university students in Japan completed a vocabulary learning strategies survey, the Updated Vocabulary Levels Test, the Productive Vocabulary Levels Test, and Lex30. Results showed that the dictionary strategy significantly predicted receptive vocabulary knowledge, whereas no significant relationship between the guessing strategy and receptive vocabulary knowledge was observed. Neither guessing nor dictionary use significantly predicted productive vocabulary knowledge. Mediation analyses showed that dictionary use, but not guessing, had a significant indirect effect on productive lexicons via the development of receptive vocabulary knowledge. However, the extent to which the dictionary strategy is associated with productive vocabulary knowledge depended on how the knowledge was measured. The advantage of dictionary consultation in light of the quality of attention and type of focus induced by the strategy were discussed, and implications for second language (L2) vocabulary instruction were considered."
-  },
-  {
-    "objectID": "publications/journal_articles/Uchihara-2025/index.html#abstract",
-    "href": "publications/journal_articles/Uchihara-2025/index.html#abstract",
-    "title": "The Contribution of Guessing from Context and Dictionary Use to Receptive and Productive Vocabulary Knowledge: A Structural Equation Modeling Approach",
-    "section": "",
-    "text": "This study investigated the relationships between two vocabulary learning strategies (guessing from context and dictionary use) and two aspects of vocabulary knowledge (receptive and productive vocabulary knowledge). One hundred and thirty-five university students in Japan completed a vocabulary learning strategies survey, the Updated Vocabulary Levels Test, the Productive Vocabulary Levels Test, and Lex30. Results showed that the dictionary strategy significantly predicted receptive vocabulary knowledge, whereas no significant relationship between the guessing strategy and receptive vocabulary knowledge was observed. Neither guessing nor dictionary use significantly predicted productive vocabulary knowledge. Mediation analyses showed that dictionary use, but not guessing, had a significant indirect effect on productive lexicons via the development of receptive vocabulary knowledge. However, the extent to which the dictionary strategy is associated with productive vocabulary knowledge depended on how the knowledge was measured. The advantage of dictionary consultation in light of the quality of attention and type of focus induced by the strategy were discussed, and implications for second language (L2) vocabulary instruction were considered."
-  },
-  {
-    "objectID": "publications/journal_articles/Uchihara-2025/index.html#apa-reference",
-    "href": "publications/journal_articles/Uchihara-2025/index.html#apa-reference",
-    "title": "The Contribution of Guessing from Context and Dictionary Use to Receptive and Productive Vocabulary Knowledge: A Structural Equation Modeling Approach",
-    "section": "APA Reference",
-    "text": "APA Reference\n\n\nUchihara, T., Eguchi, M., & Clenton, J. (2025). The contribution of guessing from context and dictionary use to receptive and productive vocabulary knowledge: A structural equation modeling approach. Language Teaching Research, 29(6), 2583–2606. https://doi.org/10.1177/13621688221122138"
-  },
-  {
-    "objectID": "teaching/classes/Tohoku-2025/index.html#course-description",
-    "href": "teaching/classes/Tohoku-2025/index.html#course-description",
-    "title": "Linguistic Data Analysis I",
+    "objectID": "teaching/classes/UO-2023/index.html#course-description",
+    "href": "teaching/classes/UO-2023/index.html#course-description",
+    "title": "LT549 Measureing Language Ability",
     "section": "Course Description",
-    "text": "Course Description\nThis intensive 5-day graduate course introduces students to corpus linguistics and learner language analysis. Through hands-on activities and practical applications, you’ll learn to use computational tools to analyze linguistic data, with a special focus on learner corpora.\n\n Visit Course Website"
+    "text": "Course Description"
   },
   {
-    "objectID": "teaching/classes/Waseda-2024/index.html#course-description",
-    "href": "teaching/classes/Waseda-2024/index.html#course-description",
-    "title": "Seminar on Teaching English as a Foreign Language",
-    "section": "Course Description",
-    "text": "Course Description\nThis graduate seminar introduces principles and methods of second language vocabulary instruction in an EFL context. It explores essential research findings in Instructed Second Language Acquisition research and discusses practical applications of these research findings. Specific emphasis is put on developing skills on how to use corpus linguistic tools in developing and evaluating materials for effective vocabulary teaching and assessment."
-  },
-  {
-    "objectID": "tools/index.html",
-    "href": "tools/index.html",
-    "title": "Tools",
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Here are the list of corpus tools that I have developed.\n\n\n\n\n\n\n\n\n\n\n\n\nEngagement Analyzer\n\n\nAutomated analysis of rhetorical features\n\n\n\nMasaki EGUCHI\n\n\n2023\n\n\n\n\n\n\n\n\n\n\nMulti-Word Units Profiler\n\n\nProfiling Collocations and Formulaic Sequences\n\n\n\nMasaki EGUCHI\n\n\n2021\n\n\n\n\n\n\nNo matching items"
+    "text": "Here are the list of courses I have taught or am teaching currently.\n\n\n\n\n\n\n\n\n\n\nLinguistic Data Analysis I\n\n\nCorpus linguistics and Natural Language Processing for Learner Language Analysis\n\n\n\n\n\nAug 1, 2025\n\n\nMasaki EGUCHI\n\n\nTohoku University\n\n\n\n\n\n\n\nSeminar on Teaching English as a Foreign Language\n\n\nVocabulary learning and Instruction\n\n\n\n\n\nSep 1, 2024\n\n\nMasaki EGUCHI\n\n\nWaseda University\n\n\n\n\n\n\n\nLT549 Measureing Language Ability\n\n\nClassroom Language Assessment\n\n\n\n\n\nApr 1, 2023\n\n\nMasaki EGUCHI\n\n\nUniversity of Oregon\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "tools/tool/multi-word-units-profiler/index.html",
-    "href": "tools/tool/multi-word-units-profiler/index.html",
-    "title": "Multi-Word Units Profiler",
-    "section": "",
-    "text": "Multiword Unit Profiler allows learners and teachers to identify multiword expressions that are found important to learn in previous research.\n\n\n\nUser-interface\n\n\n Visit Website\n Tutorial / 使い方"
+    "objectID": "tools/tool/engagement-analyzer/index.html#description",
+    "href": "tools/tool/engagement-analyzer/index.html#description",
+    "title": "Engagement Analyzer",
+    "section": "Description",
+    "text": "Description\nEngagemen Analyzer (Eguchi & Kyle, 2023) allows learners and teachers to find out rhetorical expressions in the user-input writing. This tool draws on the construct of Engagement in Appraisal Framework (Martin & White, 2005).\n\nFor construction and evaluation of machine learning model, see Eguchi & Kyle (2023).\nFor a tutorial article written for applied linguistics audience, see Eguchi & Kyle (2024).\n\n\n\n\nExample"
   },
   {
-    "objectID": "tools/tool/multi-word-units-profiler/index.html#description",
-    "href": "tools/tool/multi-word-units-profiler/index.html#description",
-    "title": "Multi-Word Units Profiler",
-    "section": "",
-    "text": "Multiword Unit Profiler allows learners and teachers to identify multiword expressions that are found important to learn in previous research.\n\n\n\nUser-interface\n\n\n Visit Website\n Tutorial / 使い方"
+    "objectID": "tools/tool/engagement-analyzer/index.html#free-demo-site",
+    "href": "tools/tool/engagement-analyzer/index.html#free-demo-site",
+    "title": "Engagement Analyzer",
+    "section": "Free Demo site",
+    "text": "Free Demo site\nThe tool is freely available from the following link.\n Try demo"
+  },
+  {
+    "objectID": "tools/tool/theme-analyzer/index.html#description",
+    "href": "tools/tool/theme-analyzer/index.html#description",
+    "title": "Theme Analyzer",
+    "section": "Description",
+    "text": "Description\nTheme Analyzer uses dependency parsing and rule-based algorithm to classify Theme and Rheme within user input sentences.\n“Theme” as described in Systemic Functional Linguistics (Halliday & Hasan, 2014) is typically the first element(s) in a “clause”, which serve(s) as a “point of departure” of the message. Effective choice of Theme is said to organize textual patterns, which may in turn help increase cohesion of the text. Theme Analyzer is an automatic approach to identify Theme and their grammatical realization details. Note that Theme Analyzer is still under development and its accuracy has only been tested on a small dataset of around 200 hand annotated sentences (although F1 of over .8).\n\n\n\nExample\n\n\nTheme Analyzer also provides detailed results about the type of the theme, function, grammatical roles of the theme in the sentence, in a tabular format.\n\n\n\nIllustration of Theme"
+  },
+  {
+    "objectID": "tools/tool/theme-analyzer/index.html#free-demo-site",
+    "href": "tools/tool/theme-analyzer/index.html#free-demo-site",
+    "title": "Theme Analyzer",
+    "section": "Free Demo site",
+    "text": "Free Demo site\n Try demo"
+  },
+  {
+    "objectID": "tools/tool/theme-analyzer/index.html#references",
+    "href": "tools/tool/theme-analyzer/index.html#references",
+    "title": "Theme Analyzer",
+    "section": "References",
+    "text": "References\n\n\nHalliday, M. A. K., & Hasan, R. (2014). Cohesion in English. Taylor and Francis. https://doi.org/10.4324/9781315836010"
   }
 ]

@@ -5,9 +5,10 @@ listing:
   type: grid
   sort: "date desc"
   # categories: true
-  fields: [title, author, date, description]
+  fields: [title, author, date, description, image]
   grid-columns: 2
   date-format: YYYY
+  image-height: "8"
 ---
 
 Here are the list of corpus tools that I have developed.

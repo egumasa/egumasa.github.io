@@ -2,20 +2,27 @@
 title: "Engagement Analyzer"
 subtitle: ""
 author: "Masaki EGUCHI"
-description: "Automated analysis of rhetorical features"
+description: "Automated analysis of rhetorical features, inspired by Appraisal Framework"
 date: "2023"
+image: media/illustration.png
 ---
 
 ---
 
 ## Description
 
-Engagemen Analyzer [@Eguchi-2023] allows learners and teachers to find out rhetorical expressions in the user-input writing.
+Engagemen Analyzer [@Eguchi-2023] allows learners and teachers to find out rhetorical expressions in the user-input writing. This tool draws on the construct of Engagement in Appraisal Framework [@Martin-2005]. 
+
+- For construction and evaluation of machine learning model, see @Eguchi-2023.
+
+- For a tutorial article written for applied linguistics audience, see @Eguchi-2024.
 
 ![Example](media/illustration.png)
 
 
 ## Free Demo site 
+
+The tool is freely available from the following link.
 
 [{{< fa globe >}} Try demo](https://huggingface.co/spaces/egumasa/engagement-analyzer-demo){.btn .btn-outline-primary target="_blank"}
 

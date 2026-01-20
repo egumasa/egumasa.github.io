@@ -7,10 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Masaki EGUCHI, Ph.D.">
-<meta name="dcterms.date" content="2023-01-01">
-<meta name="description" content="Automated analysis of rhetorical features, inspired by Appraisal Framework">
+<meta name="dcterms.date" content="2022-01-01">
+<meta name="description" content="Automated analysis of Theme/Rheme structure, inspired by Systemic Functional Linguistics">
 
-<title>Engagement Analyzer | Masaki EGUCHI – Masaki EGUCHI</title>
+<title>Theme Analyzer | Masaki EGUCHI – Masaki EGUCHI</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -184,6 +184,7 @@ div.csl-indent {
   <ul>
   <li><a href="#description" id="toc-description" class="nav-link active" data-scroll-target="#description">Description</a></li>
   <li><a href="#free-demo-site" id="toc-free-demo-site" class="nav-link" data-scroll-target="#free-demo-site">Free Demo site</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
     </div>
@@ -192,12 +193,12 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Engagement Analyzer</h1>
+<h1 class="title">Theme Analyzer</h1>
 </div>
 
 <div>
   <div class="description">
-    Automated analysis of rhetorical features, inspired by Appraisal Framework
+    Automated analysis of Theme/Rheme structure, inspired by Systemic Functional Linguistics
   </div>
 </div>
 
@@ -214,7 +215,7 @@ div.csl-indent {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">January 1, 2023</p>
+      <p class="date">January 1, 2022</p>
     </div>
   </div>
   
@@ -229,39 +230,39 @@ div.csl-indent {
 <hr>
 <section id="description" class="level2">
 <h2 class="anchored" data-anchor-id="description">Description</h2>
-<p>Engagemen Analyzer <span class="citation" data-cites="Eguchi-2023">(<a href="#ref-Eguchi-2023" role="doc-biblioref">Eguchi &amp; Kyle, 2023</a>)</span> allows learners and teachers to find out rhetorical expressions in the user-input writing. This tool draws on the construct of Engagement in Appraisal Framework <span class="citation" data-cites="Martin-2005">(<a href="#ref-Martin-2005" role="doc-biblioref">Martin &amp; White, 2005</a>)</span>.</p>
-<ul>
-<li><p>For construction and evaluation of machine learning model, see <span class="citation" data-cites="Eguchi-2023">Eguchi &amp; Kyle (<a href="#ref-Eguchi-2023" role="doc-biblioref">2023</a>)</span>.</p></li>
-<li><p>For a tutorial article written for applied linguistics audience, see <span class="citation" data-cites="Eguchi-2024">Eguchi &amp; Kyle (<a href="#ref-Eguchi-2024" role="doc-biblioref">2024</a>)</span>.</p></li>
-</ul>
+<p>Theme Analyzer uses dependency parsing and rule-based algorithm to classify Theme and Rheme within user input sentences.</p>
+<p>“Theme” as described in Systemic Functional Linguistics <span class="citation" data-cites="Halliday-2014">(<a href="#ref-Halliday-2014" role="doc-biblioref">Halliday &amp; Hasan, 2014</a>)</span> is typically the first element(s) in a “clause”, which serve(s) as a “point of departure” of the message. Effective choice of Theme is said to organize textual patterns, which may in turn help increase cohesion of the text. Theme Analyzer is an automatic approach to identify Theme and their grammatical realization details. Note that Theme Analyzer is still under development and its accuracy has only been tested on a small dataset of around 200 hand annotated sentences (although F1 of over .8).</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="media/illustration.png" class="img-fluid figure-img"></p>
+<p><img src="media/Theme-Analyzer.png" class="img-fluid figure-img"></p>
 <figcaption>Example</figcaption>
+</figure>
+</div>
+<p>Theme Analyzer also provides detailed results about the type of the theme, function, grammatical roles of the theme in the sentence, in a tabular format.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Detailed-results.png" class="img-fluid figure-img"></p>
+<figcaption>Illustration of Theme</figcaption>
 </figure>
 </div>
 </section>
 <section id="free-demo-site" class="level2">
 <h2 class="anchored" data-anchor-id="free-demo-site">Free Demo site</h2>
-<p>The tool is freely available from the following link.</p>
-<p><a href="https://huggingface.co/spaces/egumasa/engagement-analyzer-demo" class="btn btn-outline-primary" target="_blank"><i class="fa-solid fa-globe" aria-label="globe"></i> Try demo</a></p>
+<p><a href="https://egumasa-theme-analyzer-demo-main-agn042.streamlit.app/" class="btn btn-outline-primary" target="_blank"><i class="fa-solid fa-globe" aria-label="globe"></i> Try demo</a></p>
 <hr>
-
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-Halliday-2014" class="csl-entry" role="listitem">
+Halliday, M. A. K., &amp; Hasan, R. (2014). <em>Cohesion in <span>English</span></em>. <span>Taylor and Francis</span>. <a href="https://doi.org/10.4324/9781315836010">https://doi.org/10.4324/9781315836010</a>
+</div>
+</div>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
-<div id="ref-Eguchi-2023" class="csl-entry" role="listitem">
-Eguchi, M., &amp; Kyle, K. (2023). Span <span>Identification</span> of <span>Epistemic Stance-Taking</span> in <span>Academic Written English</span>. <em>Proceedings of the 18th <span>Workshop</span> on <span>Innovative Use</span> of <span>NLP</span> for <span>Building Educational Applications</span> (<span>BEA</span> 2023)</em>, 429–442. <a href="https://doi.org/10.18653/v1/2023.bea-1.35">https://doi.org/10.18653/v1/2023.bea-1.35</a>
-</div>
-<div id="ref-Eguchi-2024" class="csl-entry" role="listitem">
-Eguchi, M., &amp; Kyle, K. (2024). Building custom <span>NLP</span> tools to annotate discourse-functional features for second language writing research: <span>A</span> tutorial. <em>Research Methods in Applied Linguistics</em>, <em>3</em>(3), 100153. <a href="https://doi.org/10.1016/j.rmal.2024.100153">https://doi.org/10.1016/j.rmal.2024.100153</a>
-</div>
-<div id="ref-Martin-2005" class="csl-entry" role="listitem">
-Martin, J. R., &amp; White, P. R. R. (2005). Engagement and <span>Graduation</span>: <span>Alignment</span>, <span>Solidarity</span> and the <span>Construed Reader</span>. In <em>The <span>Language</span> of <span>Evaluation</span></em> (pp. 92–160). Palgrave Macmillan UK. <a href="https://doi.org/10.1057/9780230511910_3">https://doi.org/10.1057/9780230511910_3</a>
-</div>
-</div></section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

@@ -4,11 +4,17 @@
     "items": []
   },
   {
-    "listing": "/teaching/index.html",
+    "listing": "/tools/index.html",
     "items": [
-      "/teaching/classes/Tohoku-2025/index.html",
-      "/teaching/classes/Waseda-2024/index.html",
-      "/teaching/classes/UO-2023/index.html"
+      "/tools/tool/engagement-analyzer/index.html",
+      "/tools/tool/theme-analyzer/index.html",
+      "/tools/tool/multi-word-units-profiler/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/blog-posts/multiwordunits-profiler/index.html"
     ]
   },
   {
@@ -39,16 +45,11 @@
     ]
   },
   {
-    "listing": "/blog/index.html",
+    "listing": "/teaching/index.html",
     "items": [
-      "/blog/blog-posts/multiwordunits-profiler/index.html"
-    ]
-  },
-  {
-    "listing": "/tools/index.html",
-    "items": [
-      "/tools/tool/engagement-analyzer/index.html",
-      "/tools/tool/multi-word-units-profiler/index.html"
+      "/teaching/classes/Tohoku-2025/index.html",
+      "/teaching/classes/Waseda-2024/index.html",
+      "/teaching/classes/UO-2023/index.html"
     ]
   }
 ]
