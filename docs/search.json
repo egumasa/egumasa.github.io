@@ -599,7 +599,7 @@
     "href": "tools/tool/theme-analyzer/index.html#description",
     "title": "Theme Analyzer",
     "section": "Description",
-    "text": "Description\nTheme Analyzer uses dependency parsing and rule-based algorithm to classify Theme and Rheme within user input sentences.\n“Theme” as described in Systemic Functional Linguistics (Halliday & Hasan, 2014) is typically the first element(s) in a “clause”, which serve(s) as a “point of departure” of the message. Effective choice of Theme is said to organize textual patterns, which may in turn help increase cohesion of the text. Theme Analyzer is an automatic approach to identify Theme and their grammatical realization details. Note that Theme Analyzer is still under development and its accuracy has only been tested on a small dataset of around 200 hand annotated sentences (although F1 of over .8).\n\n\n\nExample\n\n\nTheme Analyzer also provides detailed results about the type of the theme, function, grammatical roles of the theme in the sentence, in a tabular format.\n\n\n\nIllustration of Theme"
+    "text": "Description\nTheme Analyzer uses dependency parsing and rule-based algorithm to classify Theme and Rheme within user input sentences.\n“Theme” as described in Systemic Functional Linguistics (Halliday & Hasan, 1976; Halliday & Matthiessen, 2004) is typically the first element(s) in a “clause”, which serve(s) as a “point of departure” of the message. Effective choice of Theme is said to organize textual patterns, which may in turn help increase cohesion of the text. Theme Analyzer is an automatic approach to identify Theme and their grammatical realization details. Note that Theme Analyzer is still under development and its accuracy has only been tested on a small dataset of around 200 hand annotated sentences (although F1 of over .8).\n\n\n\nExample\n\n\nTheme Analyzer also provides detailed results about the type of the theme, function, grammatical roles of the theme in the sentence, in a tabular format.\n\n\n\nIllustration of Theme"
   },
   {
     "objectID": "tools/tool/theme-analyzer/index.html#free-demo-site",
@@ -613,6 +613,6 @@
     "href": "tools/tool/theme-analyzer/index.html#references",
     "title": "Theme Analyzer",
     "section": "References",
-    "text": "References\n\n\nHalliday, M. A. K., & Hasan, R. (2014). Cohesion in English. Taylor and Francis. https://doi.org/10.4324/9781315836010"
+    "text": "References\n\n\nHalliday, M. A. K., & Hasan, R. (1976). Cohesion in English. Taylor and Francis. https://doi.org/10.4324/9781315836010\n\n\nHalliday, M. A. K., & Matthiessen, C. M. I. M. (2004). An introduction to functional grammar (3rd ed). Arnold ; Distributed in the United States of America by Oxford University Press."
   }
 ]
