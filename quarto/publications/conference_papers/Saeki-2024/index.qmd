@@ -17,6 +17,8 @@ categories:
 
 ## Abstract
 
+The primary challenge in utilizing dialogue systems for reliable language assessment for interactional skills lies in obtaining ratable speech samples that demonstrate the user’s full range of ability. We thus developed a multimodal dialogue system that employs adaptive sampling strategies and enables a mixed initiative interaction through extended interview and roleplay dialogues. The interview is a system-led dialogue aimed at evaluating the user’s overall proficiency. The system dynamically adjusts the question difficulty based on a real-time assessment to induce linguistic breakdowns, which provides evidence of the user’s upper limits of proficiency. The roleplay, on the other hand, is a mixed-initiative, collaborative conversation intended to assess interactional competence such as turn management skills. Two experiments were conducted to evaluate our system in assessing oral proficiency. In the first experiment, which involved an interview dataset of 152 speakers, our system demonstrated high accuracy in automatically assessing overall proficiency. However, we observed that linguistic breakdowns were less likely to occur among high-proficiency users, indicating some room for further enhancing the ratability of speech samples. In the second experiment based on a role-play dataset of 75 speakers, the speech samples elicited by our system was found to be as ratable for interactional competence as those elicited by experienced teachers, demonstrating our system’s capability in conducting interactive conversations. Finally, we report on the deployment of our system with over 10,000 students in two real-world testing scenarios.
+
 
 ## APA Reference
 

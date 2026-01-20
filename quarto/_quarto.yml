@@ -29,8 +29,12 @@ website:
       #   text: Research
       - href: publications/index.qmd
         text: Publications
-      - href: teaching/index.qmd
-        text: Teaching
+      - text: Teaching
+        menu:
+          - href: teaching/index.qmd
+            text: All Courses
+          - href: teaching/classes/Tohoku-2025/index.qmd
+            text: Linguistic Data Analysis I
       # - href: tutorials/index.qmd
       #   text: Tutorials
       - href: tools/index.qmd
