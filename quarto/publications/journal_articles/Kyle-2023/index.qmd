@@ -18,6 +18,8 @@ categories:
 
 ## Abstract
 
+The measurement of second language (L2) productive lexical proficiency has driven a great deal of research over the past two decades. Research has indicated that more proficient speakers and writers tend to use a wider range of words and that more proficient writers tend to use words that are more sophisticated (less frequent in reference corpora). Research over the past 15 years has also demonstrated that the way words are used in context (i.e., collocation use) is also an important indicator of both written and spoken proficiency. In this study, we extend recent research that has modeled writing proficiency using collocation indices based on grammatical dependencies (e.g., verb–direct object) to spoken contexts. In particular, we model speaking proficiency scores from a large corpus of oral proficiency interview responses using a range of well-known indices of productive proficiency and newly developed grammatical dependency indices. The results indicated that all index types demonstrated small to moderate correlations with speaking proficiency individually but explained a large proportion of the variance when used in a multivariate model that included dependency collocation indices.
+
 
 ## APA Reference
 

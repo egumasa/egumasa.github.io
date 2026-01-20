@@ -19,6 +19,8 @@ categories:
 
 ## Abstract
 
+Building on previous studies investigating the multidimensional nature of lexical use in task-based L2 performance, this study clarified the roles that the distinct lexical features play in predicting vocabulary proficiency in a corpus of L2 Oral Proficiency Interviews (OPI). A total of 85 OPI samples were rated by three separate raters based on a Common European Frame of Reference (CEFR) based rubric in terms of their linguistic range. The interview transcription was analyzed for 56 lexical and phraseological indices using modern natural language processing tools. The result of an exploratory factor analysis (EFA) revealed that the 56 indices tapped into 10 distinct factors of lexical use in OPI: three factors related to content words, three related to n-grams, three lexical collocation factors, and one function-word factor. A subsequent Bayesian mixed-effect ordinal regression indicated that six out of the 10 factors meaningfully predicted the CEFR levels on Range with reasonable accuracy (quadratic kappa coefficient = .81 with the human rating). The result highlights the distinct roles that multiple content-word, collocation, and function-word factors play in characterizing the linguistic range in a CEFR-based assessment of OPI. The implication for the assessment of lexical richness, as well as future directions of this research domain, are discussed.
+
 
 ## APA Reference
 

@@ -17,6 +17,7 @@ categories:
 
 ## Abstract
 
+Our study investigated lexical alignment in a reading-to-speaking task, in two modalities of input text presentation. We also explored whether participants’ vocabulary knowledge moderates the effects of text modality and difficulty on lexical alignment. We addressed these questions by analyzing lexical overlap in the speech of 128 Japanese learners of English. Students were asked to summarize the information given in two different expository informational texts that were presented in reading-only mode and in reading-while-listening mode, using a within-subject design. The results showed that participants produced fewer overlapping 5-grams in readingwhile-listening condition than in the reading-only condition. However for shorter n-grams no significant differences between modes of exposure were found. Students with larger vocabulary size produced less lexical overlap with the input text at the level of single words. We discuss the implications of the findings of the study for language teaching pedagogy.
 
 ## APA Reference
 

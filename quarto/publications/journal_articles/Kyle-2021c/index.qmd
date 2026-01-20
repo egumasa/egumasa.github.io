@@ -1,0 +1,25 @@
+---
+# Auto-populated from bib file - do not edit title/author/date/doi manually
+params:
+  citekey: "Kyle-2021c"
+  bibfile: "/Users/eguchi/Zotero/exports/references.bib"
+title: "A Comparison of Spoken and Written Language Use in Traditional and textscTechnologytextsc-textscMediated Learning Environments"
+subtitle: "ETS Research Report Series"
+date: "2021-12-01"
+doi: "10.1002/ets2.12329"
+author: "Kyle, K., Choe, A. T., Eguchi, M., LaFlair, G., Ziegler, N."
+nocite: |
+  @Kyle-2021c
+categories:
+  - "Multi-Dimensional Analysis"
+  - "Factor Analysis"
+---
+
+## Abstract
+
+A key piece of a validity argument for a language assessment tool is clear overlap between assessment tasks and the target language use (TLU) domain (i.e., the domain description inference). The TOEFL 2000 Spoken and Written Academic Language (T2K-SWAL) corpus, which represents a variety of academic registers and disciplines in traditional learning environments (e.g., lectures, office hours, textbooks, course packs), has served as an important foundation for the TOEFL iBT® test’s domain description inference for more than  15 years. There are, however, signs that the characteristics of the registers that students encounter may be changing. Increasingly, typical university courses include technology-mediated learning environments (TMLEs), such as those represented by course management software and other online educational tools. To ensure that the characteristics of TOEFL iBT test tasks continue to align with the TLU domain, it is important to analyze the registers that are typically encountered in TMLEs. In this study, we address this issue by collecting a relatively large (4.5 million words) corpus of spoken and written TMLE registers across the six primary disciplines represented in T2KSWAL. This corpus was subsequently tagged for a wide variety of linguistic features, and a multidimensional analysis was conducted to compare and contrast written and spoken language in TMLE and T2K-SWAL. The results indicate that although some similarities exist across spoken and written texts in traditional learning environments and TMLEs, language use also differs across learning environments (and modes) with regard to key linguistic dimensions.
+
+## APA Reference
+
+::: {#refs}
+:::

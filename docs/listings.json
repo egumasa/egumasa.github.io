@@ -12,12 +12,6 @@
     ]
   },
   {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/blog-posts/multiwordunits-profiler/index.html"
-    ]
-  },
-  {
     "listing": "/publications/index.html",
     "items": [
       "/publications/invited_contributions/Eguchi-2026/index.html",
@@ -37,10 +31,17 @@
       "/publications/journal_articles/Kormos-2022/index.html",
       "/publications/journal_articles/Uchihara-2022/index.html",
       "/publications/journal_articles/Eguchi-2022/index.html",
+      "/publications/journal_articles/Kyle-2021c/index.html",
       "/publications/journal_articles/Eguchi-2020/index.html",
       "/publications/conference_papers/Kurata-2025/index.html",
       "/publications/conference_papers/Saeki-2024/index.html",
       "/publications/conference_papers/Eguchi-2023/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/blog-posts/multiwordunits-profiler/index.html"
     ]
   },
   {

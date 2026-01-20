@@ -19,6 +19,8 @@ categories:
 
 ## Abstract
 
+The widespread adoption of ChatGPT, an AI language model, has the potential to bring about significant changes to the research, teaching, and learning of foreign languages. The present study aims to leverage this technology to perform automated essay scoring (AES) and evaluate its reliability and accuracy. Specifically, we utilized the GPT-3 text-davinci-003 model to automatically score all 12,100 essays contained in the ETS Corpus of Non-Native Written English (TOEFL11) and compared these scores to benchmark levels. The study also explored the extent to which linguistic features influence AES with GPT. The results showed that AES using GPT has a certain level of accuracy and reliability and could provide valuable support for human evaluations. Furthermore, the analysis revealed that utilizing linguistic features could enhance the accuracy of the scoring. These findings suggest that AI language models, such as ChatGPT, can be effectively utilized as AES tools, potentially revolutionizing methods of writing evaluation and feedback in both research and practice. The paper concludes by discussing the practical implications of using GPT for AES and exploring prospective future considerations.
+
 
 ## APA Reference
 

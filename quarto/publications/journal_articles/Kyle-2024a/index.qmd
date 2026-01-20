@@ -17,6 +17,7 @@ categories:
 
 ## Abstract
 
+The use of natural language processing tools such as part-of-speech taggers and syntactic parsers are increasingly being used in studies of second language (L2) proficiency and development. However, relatively little work has focused on reporting on the accuracy of these tools or optimizing their performance in L2 contexts. While some studies reference the published overall accuracy of a particular tool or include a small-scale accuracy analysis, very few (if any) studies provide a comprehensive account of the performance of taggers and parsers across a range of written and spoken registers. In this study, we provide a large-scale accuracy analysis of popular taggers and parsers across L1 and L2 written and spoken texts, both when default and L2optimized models are used. Accuracy is examined both at the feature level (e.g., identifying adjective-noun relationships) and the text level (e.g., mean mutual information scores). The results highlight the strength and weaknesses of these tools.
 
 ## APA Reference
 

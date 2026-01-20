@@ -23,6 +23,5 @@ This study investigates the nature of co-construction in roleplays conducted wit
 
 ## Citation
 
-Eguchi, M., Takizawa, K., Saeki, M., Kurata, F., Suzuki, S., Matsuyama, Y., & Sawaki, Y. (2025). Human- versus artificial intelligence-delivered roleplay tasks for assessing interactional competence: An applied conversation analytic study. TESOL Quarterly, n/a(n/a). https://doi.org/10.1002/tesq.70028
-
-
+::: {#refs}
+:::

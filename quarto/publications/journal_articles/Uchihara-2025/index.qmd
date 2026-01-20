@@ -17,6 +17,7 @@ categories:
 
 ## Abstract
 
+This study investigated the relationships between two vocabulary learning strategies (guessing from context and dictionary use) and two aspects of vocabulary knowledge (receptive and productive vocabulary knowledge). One hundred and thirty-five university students in Japan completed a vocabulary learning strategies survey, the Updated Vocabulary Levels Test, the Productive Vocabulary Levels Test, and Lex30. Results showed that the dictionary strategy significantly predicted receptive vocabulary knowledge, whereas no significant relationship between the guessing strategy and receptive vocabulary knowledge was observed. Neither guessing nor dictionary use significantly predicted productive vocabulary knowledge. Mediation analyses showed that dictionary use, but not guessing, had a significant indirect effect on productive lexicons via the development of receptive vocabulary knowledge. However, the extent to which the dictionary strategy is associated with productive vocabulary knowledge depended on how the knowledge was measured. The advantage of dictionary consultation in light of the quality of attention and type of focus induced by the strategy were discussed, and implications for second language (L2) vocabulary instruction were considered.
 
 ## APA Reference
 

@@ -18,6 +18,7 @@ categories:
 
 ## Abstract
 
+This study investigated the constructs underlying second language (L2) word association (WA) with regard to three dimensions of lexical competence—size, organization, and accessibility—and the lexical performance of speech. One-hundred and thirteen Japanese learners of English completed a computer-delivered oral WA task along with three vocabulary tasks: a formrecall gap-filling task (size), a primed lexical decision task (organization and accessibility), and an oral cartoon narrative (lexical richness). Regression analyses explored how well these lexical competence and performance scores predicted two WA outcome variables: response profiles and response times. Form-recall vocabulary knowledge, (collocational) priming, and lexical richness explained a large amount of variance in WA response type profiles (Nagelkerke’s pseudo R2 = .901). Form-recall vocabulary knowledge and lexical decision time explained 28.5% of the variance of WA response times. A three-stage model of L2 WA task performance is proposed to account for the constructs underlying WA performance.
 
 ## APA Reference
 

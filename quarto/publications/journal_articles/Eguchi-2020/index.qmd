@@ -17,6 +17,7 @@ categories:
 
 ## Abstract
 
+Lexical sophistication has been an important indicator of productive lexical proficiency for almost 30 years. Although lexical sophistication has most often been operationalized as the proportion of low frequency words in a text, a growing body of research has indicated that a number of indices such as concreteness, hypernymy, and n-gram association strengths meaningfully contribute to the construct. While the increase in available indices has expanded our understanding of the multidimensional construct, the sheer number of indices presents a practical barrier for researchers. Although some studies have begun to address this issue, most have been confined to the analysis of argumentative tasks, which are not necessarily representative of the range of tasks learners may encounter. This study therefore investigates the structure of lexical sophistication indices in a large learner corpus of English second language (L2) oral proficiency interviews (OPIs). An exploratory factor analysis identified 10 factors, 7 of which explained approximately 58% of the variance in OPI scores in a follow-up regression analysis. The results suggest that while some features of lexical sophistication (e.g., concreteness) may be task independent, others (e.g., frequency) may be task specific.
 
 ## APA Reference
 

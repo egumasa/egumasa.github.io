@@ -17,6 +17,7 @@ categories:
 
 ## Abstract
 
+Research studies typically involve a series of decisions on how data should be collected, processed, and analyzed. In this decision-making process, there often exists great flexibility, involving more or less equally reasonable options. The inherent flexibility introduces researcher degrees of freedom, where the choices made throughout the research process can significantly affect study outcomes. In this article, we introduce multiverse analysis as a viable approach to mitigating researcher degrees of freedom and enhancing research transparency. Multiverse analysis entails declaring multiple equally plausible options to collect, process, and analyze data, and performing all analyses across the entire set. We present worked examples of multiverse analysis in three subareas of applied linguistics research (psycholinguistic research, vocabulary research, and corpus research) by reanalyzing data from our own published studies. We showcase how seemingly innocuous decisions made by researchers can lead to variations in research outcomes and sometimes divergent conclusions. Through the examples, we discuss how one may reason against the variation in statistical results and propose recommendations for future research.
 
 ## APA Reference
 
