@@ -2,9 +2,9 @@
 params:
   citekey: "Eguchi-2026"
   bibfile: "/Users/eguchi/Zotero/exports/references.bib"
-title: "Automated Essay Evaluation and Scoring"
+title: "Automated Writing Evaluation"
 subtitle: "The encyclopedia of applied linguistics"
-date: "2026-01-01"
+date: "2026-03-26"
 doi: ""
 author: "Eguchi, M."
 nocite: |
