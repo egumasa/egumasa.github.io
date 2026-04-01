@@ -19,7 +19,7 @@ about:
 
 I am a Research Scientist at Equmenopolis, Inc. and a Guest Research Associate Professor at Perceptual Computing Laboratory at Waseda University. 
 
-My research focuses on the use of Artificial Intelligence (AI) in second language speech and writing. Particularly, in recent studies, I explore how conversational AI agents can help augment assessment of Interactional Competence, the ability to co-construct oral interactions. I combine both conversational analysis and psychometric methods to tease apart what AI can (or cannot) assess human interaction.
+My research focuses on the use of Artificial Intelligence (AI) in second language speech and writing. Particularly, in recent studies, I explore how conversational AI agents can help augment assessment of Interactional Competence, the ability to co-construct oral interactions. I combine both conversation analysis and psychometric methods to tease apart what AI can (or cannot) reveal about human interaction.
 
 At Equmenopolis, Inc. I oversee validation research of AI-mediated L2 oral proficiency assessment, using Intelligent Language Learning Assistant (InteLLA).
 
@@ -27,7 +27,7 @@ At Waseda University, I supervise (or have supervised) engineering BA, MA, and P
 
 ## Positions
 
-Waseda University | Guest Research Associate Professor | 2025 - Present
+Waseda University | Guest Research Associate Professor | 2026 - Present
 
 Equmenopolis, Inc. | Research Scientist | 2025 - Present
 
