@@ -35,6 +35,8 @@ website:
             text: All Courses
           - href: teaching/classes/Tohoku-2025/index.qmd
             text: Linguistic Data Analysis I
+          - href: teaching/classes/Tohoku-2026/index.qmd
+            text: Linguistic Data Analysis II  
       # - href: tutorials/index.qmd
       #   text: Tutorials
       - href: tools/index.qmd
