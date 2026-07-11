@@ -3,9 +3,9 @@ params:
   citekey: "Eguchi-2026"
   bibfile: "/Users/eguchi/Zotero/exports/references.bib"
 title: "Automated Writing Evaluation"
-subtitle: "The encyclopedia of applied linguistics"
+subtitle: "The encyclopedia of applied linguistics (2nd ed)"
 date: "2026-03-26"
-doi: ""
+doi: "https://doi.org/10.1002/9781405198431.wbeal1046.pub2"
 author: "Eguchi, M."
 nocite: |
   @Eguchi-2026

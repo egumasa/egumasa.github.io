@@ -12,12 +12,6 @@
     ]
   },
   {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/blog-posts/multiwordunits-profiler/index.html"
-    ]
-  },
-  {
     "listing": "/publications/index.html",
     "items": [
       "/publications/invited_contributions/Eguchi-2026/index.html",
@@ -45,8 +39,15 @@
     ]
   },
   {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/blog-posts/multiwordunits-profiler/index.html"
+    ]
+  },
+  {
     "listing": "/teaching/index.html",
     "items": [
+      "/teaching/classes/Tohoku-2026/index.html",
       "/teaching/classes/Tohoku-2025/index.html",
       "/teaching/classes/Waseda-2024/index.html",
       "/teaching/classes/UO-2023/index.html"
