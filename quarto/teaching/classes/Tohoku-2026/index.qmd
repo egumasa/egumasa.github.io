@@ -1,0 +1,18 @@
+---
+title: "Linguistic Data Analysis II"
+subtitle: "Applying Large Language Models to Linguistic Research"
+author: "Masaki EGUCHI"
+description: ""
+date: "2026-08-03"
+institution: "Tohoku University"
+---
+
+---
+
+## Course Description
+
+This intensive 5-day graduate course teaches participants how to apply large language models (LLMs) to linguistic research tasks. Through lectures, hands-on tutorials, and a capstone group project, students learn annotation and gold-standard construction, prompt design (zero-shot and few-shot), and evaluation (precision/recall/F1, confusion matrices), alongside methodological considerations including reproducibility, LLM limitations, and ethical issues.
+
+---
+
+[{{< fa globe >}} Visit Course Website](https://egumasa.github.io/linguistic-data-analysis-II-2026/){.btn .btn-outline-primary}
